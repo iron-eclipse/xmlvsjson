@@ -1,0 +1,60 @@
+{
+  "contract": {
+    "parties": [
+      {
+        "name": "Company Name",
+        "type": "Company",
+        "capacity": "Employer",
+        "address": "[Address of Party A]"
+      },
+      {
+        "name": "Employee Name",
+        "type": "Individual",
+        "capacity": "Employee",
+        "address": "[Address of Party B]"
+      }
+    ],
+    "offerAndAcceptance": {
+      "offer": "Party A hereby extends an offer to engage in employment with Party B.",
+      "acceptance": "Party B accepts this offer, and both parties mutually agree to the terms specified in this Contract.",
+      "meetingOfMinds": "Both parties mutually agree to the terms specified in this Contract."
+    },
+    "consideration": {
+      "description": "The consideration for this Contract shall consist of the wages and employment benefits provided to Party B.",
+      "value": "wages and employment benefits"
+    },
+    "intentionToCreateLegalRelations": "Both parties intend for this Contract to be legally binding.",
+    "legalityOfPurpose": "This Contract is formed in accordance with the labor laws of the People's Republic of China.",
+    "certaintyOfTerms": {
+      "subjectMatter": "The employment position and responsibilities of Party B.",
+      "price": "Monthly wage and benefits as detailed in separate documentation.",
+      "timeForPerformance": "The contract duration is defined in separate terms."
+    },
+    "consent": "The parties agree and consent to the terms outlined in this Contract by their signatures below.",
+    "durationAndTermination": {
+      "duration": "The Contract is fixed-term from [MM/DD/YY] to [MM/DD/YY].",
+      "terminationConditions": "Conditions for termination during the probationary period and other circumstances as stated in this Contract.",
+      "renewalTerms": "The Contract may be renewed upon expiration through negotiation between the parties."
+    },
+    "disputeResolution": {
+      "method": "Arbitration.",
+      "details": "Disputes shall be resolved by the labor arbitration committee where Party A is located."
+    },
+    "governingLawAndJurisdiction": {
+      "governingLaw": "The laws of the People's Republic of China.",
+      "jurisdiction": "Jurisdiction of the court where Party A is located."
+    },
+    "signatures": [
+      {
+        "partyName": "Party A",
+        "dateSigned": "[DD/MM/YY]",
+        "declaration": "Party A affirms the terms of the Contract."
+      },
+      {
+        "partyName": "Party B",
+        "dateSigned": "[DD/MM/YY]",
+        "declaration": "Party B affirms the terms of the Contract."
+      }
+    ]
+  }
+}

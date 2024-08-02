@@ -1,0 +1,55 @@
+{
+  "contract": {
+    "parties": [
+      {
+        "name": "NGO/UN agency",
+        "type": "Non-profit organization",
+        "capacity": "Not provided",
+        "address": "Not provided"
+      },
+      {
+        "name": "Company/agent",
+        "type": "Financial agent",
+        "capacity": "Not provided",
+        "address": "Not provided"
+      }
+    ],
+    "offerAndAcceptance": {
+      "offer": "The First Party offers to transfer money.",
+      "acceptance": "The Second Party accepts the role of facilitating these transfers.",
+      "meetingOfMinds": "Both parties agree to collaborate on financial transfers."
+    },
+    "consideration": {
+      "description": "The consideration for this Agreement shall be the transfer of monetary funds between the parties.",
+      "value": "Amounts are not specified in the contract."
+    },
+    "intentionToCreateLegalRelations": "Both parties intend to create a legally binding agreement.",
+    "legalityOfPurpose": "The purpose of this Agreement is for the transfer of funds for humanitarian activities.",
+    "certaintyOfTerms": {
+      "subjectMatter": "The subject matter of this Agreement shall be the transfer of money for humanitarian assistance.",
+      "timeForPerformance": "The timing for the performance of the obligations will be coordinated by the agreement of both parties."
+    },
+    "consent": "Consent is implied through mutual agreements in this contract.",
+    "durationAndTermination": {
+      "duration": "This Agreement shall be valid for a period of ______ months commencing from the signature date.",
+      "terminationConditions": "Either party may terminate this Agreement by providing two weeks written notice to the other party.",
+      "renewalTerms": "Renewal terms are not specified in this contract."
+    },
+    "disputeResolution": {
+      "method": "Seek a friendly resolution and consultation.",
+      "details": "If no resolution is reached, disputes will be taken to a mutually agreed mediator."
+    },
+    "signatures": [
+      {
+        "partyName": "NGO/UN agency",
+        "dateSigned": "Not provided",
+        "declaration": ""
+      },
+      {
+        "partyName": "Company/agent",
+        "dateSigned": "Not provided",
+        "declaration": ""
+      }
+    ]
+  }
+}

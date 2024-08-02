@@ -1,0 +1,51 @@
+{
+  "contract": {
+    "parties": [
+      {
+        "name": "Alkermes, Inc.",
+        "type": "Corporation",
+        "capacity": "Service Provider",
+        "address": "900 Winter Street, Waltham, Massachusetts 02451"
+      },
+      {
+        "name": "Mural Oncology, Inc.",
+        "type": "Corporation",
+        "capacity": "Service Recipient",
+        "address": "852 Winter Street, Waltham, Massachusetts 02451"
+      }
+    ],
+    "offerAndAcceptance": {
+      "offer": "Transition services to the Service Recipient as specified in this Agreement.",
+      "acceptance": "The Service Recipient hereby accepts the offer for these services under the terms set forth in this Agreement.",
+      "meetingOfMinds": "Both parties acknowledge a meeting of the minds regarding the efficient transition and mutual benefits as outlined herein."
+    },
+    "consideration": {
+      "description": "Fees payable for Services under the Transition Service Schedule.",
+      "value": "Fees under Transition Service Schedule"
+    },
+    "intentionToCreateLegalRelations": "Both parties intend to create legal obligations through this Agreement.",
+    "legalityOfPurpose": "The Agreement is lawful and pertains to the provision of services within the respective corporate statutory frameworks.",
+    "certaintyOfTerms": {
+      "subjectMatter": "Provision of transition services to support the operations of Mural US post-Separation.",
+      "timeForPerformance": "Ongoing throughout the term as defined herein."
+    },
+    "consent": "Consent is required for any modifications in services and for third-party participation as outlined in Section 5.",
+    "durationAndTermination": {
+      "duration": "Two years from the Effective Date.",
+      "terminationConditions": "Both parties may terminate this Agreement for breach or under specific conditions noted in Article VI.",
+      "renewalTerms": "One extension of up to six months may be mutually agreed upon prior to the conclusion of the term."
+    },
+    "signatures": [
+      {
+        "partyName": "Alkermes, Inc.",
+        "dateSigned": "2023-11-13",
+        "declaration": "By Iain Brown, SVP, Chief Financial Officer"
+      },
+      {
+        "partyName": "Mural Oncology, Inc.",
+        "dateSigned": "2023-11-13",
+        "declaration": "By Caroline Loew, Ph.D., President"
+      }
+    ]
+  }
+}

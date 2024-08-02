@@ -1,0 +1,55 @@
+{
+  "contract": {
+    "parties": [
+      {
+        "name": "NGO/UN agency",
+        "type": "first party",
+        "capacity": "Non-profit organization",
+        "address": "Not provided"
+      },
+      {
+        "name": "Company/agent",
+        "type": "second party",
+        "capacity": "Financial agent",
+        "address": "Not provided"
+      }
+    ],
+    "offerAndAcceptance": {
+      "offer": "First party offers to transfer money.",
+      "acceptance": "Second party accepts the role of facilitating these transfers.",
+      "meetingOfMinds": "Both parties agree to collaborate on financial transfers."
+    },
+    "consideration": {
+      "description": "Transfer of monetary funds between parties.",
+      "value": "Amounts are not specified in the contract."
+    },
+    "intentionToCreateLegalRelations": "Both parties intend to create a legal binding agreement.",
+    "legalityOfPurpose": "Transfer of funds for humanitarian activities.",
+    "certaintyOfTerms": {
+      "subjectMatter": "Transfer of money for humanitarian assistance.",
+      "timeForPerformance": "To be coordinated by the agreement of both parties."
+    },
+    "consent": "Implied consent through mutual agreements in the contract.",
+    "durationAndTermination": {
+      "duration": "Valid for a period of ______ months commencing from the signature date.",
+      "terminationConditions": "Two weeks notice in writing required for early termination.",
+      "renewalTerms": "Not specified in the contract."
+    },
+    "disputeResolution": {
+      "method": "Friendly resolution and consultation.",
+      "details": "In case of no resolution, disputes will be taken to a mutually agreed mediator."
+    },
+    "signatures": [
+      {
+        "partyName": "NGO/UN agency",
+        "dateSigned": "Not provided",
+        "declaration": "For [NGO/UN agency]"
+      },
+      {
+        "partyName": "Company/agent",
+        "dateSigned": "Not provided",
+        "declaration": "For [company/agent]"
+      }
+    ]
+  }
+}

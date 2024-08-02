@@ -1,0 +1,65 @@
+<contract>
+  <parties>
+    <party>
+      <name>Equitable Financial Life Insurance Company</name>
+      <type>corporation</type>
+      <capacity>Party A</capacity>
+      <address>1290 Avenue of the Americas, New York, New York, 10104</address>
+    </party>
+    <party>
+      <name>Equitable Distributors, LLC</name>
+      <type>limited liability company</type>
+      <capacity>Party B</capacity>
+      <address>1290 Avenue of the Americas, New York, New York, 10104</address>
+    </party>
+  </parties>
+  <offerAndAcceptance>
+    <offer>Party A offers the provision of personnel, property, and services in accordance with specified terms and conditions.</offer>
+    <acceptance>Party B accepts this offer, thereby agreeing to enter into this Amended and Restated Agreement.</acceptance>
+    <meetingOfMinds>The parties acknowledge that a meeting of the minds has occurred as of the effective date of this Agreement, November 1, 2023.</meetingOfMinds>
+  </offerAndAcceptance>
+  <consideration>
+    <description>In consideration for the performance under this Agreement, Equitable Distributors, LLC shall reimburse Equitable Financial Life Insurance Company for costs incurred, which shall be based on direct and indirect costs as specified in this Agreement.</description>
+    <value>Costs incurred based on direct and indirect costs.</value>
+  </consideration>
+  <intentionToCreateLegalRelations>Both parties intend to create legal relations with the execution of this Agreement.</intentionToCreateLegalRelations>
+  <legalityOfPurpose>The purpose of this Agreement is lawful under applicable laws.</legalityOfPurpose>
+  <certaintyOfTerms>
+    <subjectMatter>The subject matter of this Agreement involves the provision of services, including management and administrative functions.</subjectMatter>
+    <price>The price for these services shall be based on actual expenses incurred.</price>
+    <timeForPerformance>The time for performance of the services shall commence on the Effective Date and continue until terminated.</timeForPerformance>
+  </certaintyOfTerms>
+  <consent>Both parties consent to the terms and conditions outlined in this Agreement.</consent>
+  <formAndFormalities>This Agreement is signed and executed in counterparts.</formAndFormalities>
+  <durationAndTermination>
+    <duration>The duration of this Agreement shall be until terminated by either party with ninety (90) days’ written notice.</duration>
+    <terminationConditions>The termination conditions are specified within this Agreement.</terminationConditions>
+    <renewalTerms>There are no specified renewal terms; termination can occur at will.</renewalTerms>
+  </durationAndTermination>
+  <representationsAndWarranties>Both parties agree to confidentiality and compliance with applicable laws.</representationsAndWarranties>
+  <indemnification>There is no specific indemnification clause provided within this Agreement.</indemnification>
+  <disputeResolution>
+    <method>Arbitration according to the rules of the American Arbitration Association.</method>
+    <details>Arbitration to take place in New York, New York.</details>
+  </disputeResolution>
+  <governingLawAndJurisdiction>
+    <governingLaw>The laws of the State of New York.</governingLaw>
+    <jurisdiction>Jurisdiction located in New York, New York.</jurisdiction>
+  </governingLawAndJurisdiction>
+  <severability>Should any provision of this Agreement be found invalid or unenforceable, the remaining provisions shall remain in effect.</severability>
+  <forceMajeure>No explicit force majeure clause is noted in this Agreement.</forceMajeure>
+  <confidentiality>Both parties agree to preserve the confidentiality of shared customer information.</confidentiality>
+  <assignmentAndDelegation>No assignment shall take effect without prior written consent from the other party.</assignmentAndDelegation>
+  <signatures>
+    <signature>
+      <partyName>Equitable Financial Life Insurance Company</partyName>
+      <dateSigned>2023-11-01</dateSigned>
+      <declaration>By: Robin M. Raju, CFO</declaration>
+    </signature>
+    <signature>
+      <partyName>Equitable Distributors, LLC</partyName>
+      <dateSigned>2023-11-01</dateSigned>
+      <declaration>By: Nick Lane, President</declaration>
+    </signature>
+  </signatures>
+</contract>

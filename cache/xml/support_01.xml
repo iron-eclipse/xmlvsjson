@@ -1,0 +1,76 @@
+<contract>
+    <parties>
+        <party>
+            <name>Sunoco LP</name>
+            <type>Limited Partnership</type>
+            <capacity>Parent</capacity>
+            <address>8111 Westchester Drive, Suite 400, Dallas, TX 75225</address>
+        </party>
+        <party>
+            <name>NuStar Energy L.P.</name>
+            <type>Limited Partnership</type>
+            <capacity>Partnership</capacity>
+            <address>19003 IH-10 West, San Antonio, TX 78257</address>
+        </party>
+        <party>
+            <name>Energy Transfer LP</name>
+            <type>Limited Partnership</type>
+            <capacity>ET</capacity>
+            <address>8111 Westchester Drive, Suite 600, Dallas, TX 75225</address>
+        </party>
+    </parties>
+    <offerAndAcceptance>
+        <offer>Enter into this SUPPORT AGREEMENT</offer>
+        <acceptance>Partnership, Parent and ET hereby agree as follows.</acceptance>
+        <meetingOfMinds>ET and Parent acknowledge that the Partnership is entering into the Merger Agreement in reliance on the representations, warranties, covenants and other agreements of ET.</meetingOfMinds>
+    </offerAndAcceptance>
+    <consideration>
+        <description>No monetary consideration is explicitly mentioned, but mutual representations and warranties are acknowledged as consideration.</description>
+        <value>Not specified</value>
+    </consideration>
+    <intentionToCreateLegalRelations>Intending to be legally bound hereby.</intentionToCreateLegalRelations>
+    <legalityOfPurpose>Legality under applicable Delaware law.</legalityOfPurpose>
+    <certaintyOfTerms>
+        <subjectMatter>Support Agreement pertaining to a merger.</subjectMatter>
+        <price></price>
+        <timeForPerformance>Automatic termination as of the Support Agreement Termination Date or as specified in the Merger Agreement.</timeForPerformance>
+    </certaintyOfTerms>
+    <consent>Parties agree to various covenants and agreements.</consent>
+    <formAndFormalities>Must be in writing as specified.</formAndFormalities>
+    <durationAndTermination>
+        <duration>Effective from date of execution until the Support Agreement Termination Date or as specified.</duration>
+        <terminationConditions>Automatic termination conditions included.</terminationConditions>
+        <renewalTerms>Not specified</renewalTerms>
+    </durationAndTermination>
+    <representationsAndWarranties>Representations made by ET regarding organization and authority.</representationsAndWarranties>
+    <indemnification>Not explicitly stated but implied through mutual agreements.</indemnification>
+    <disputeResolution>
+        <method>Injunction or equitable relief to prevent breaches.</method>
+        <details>Exclusive jurisdiction of the Delaware Court of Chancery.</details>
+    </disputeResolution>
+    <governingLawAndJurisdiction>
+        <governingLaw>State of Delaware</governingLaw>
+        <jurisdiction>Delaware Court of Chancery</jurisdiction>
+    </governingLawAndJurisdiction>
+    <severability>Invalid provisions do not invalidate the agreement as a whole.</severability>
+    <forceMajeure>Not stated.</forceMajeure>
+    <confidentiality>Not explicitly stated but implied by the nature of the agreement.</confidentiality>
+    <assignmentAndDelegation>Cannot assign without written consent.</assignmentAndDelegation>
+    <signatures>
+        <signature>
+            <partyName>NuStar Energy L.P.</partyName>
+            <dateSigned>2024-01-22</dateSigned>
+            <declaration>By: Riverwalk Logistics, L.P. as general partner; signed by Bradley C. Barron, President and CEO.</declaration>
+        </signature>
+        <signature>
+            <partyName>Sunoco LP</partyName>
+            <dateSigned>2024-01-22</dateSigned>
+            <declaration>By: Sunoco GP LLC as general partner; signed by Joseph Kim, President and CEO.</declaration>
+        </signature>
+        <signature>
+            <partyName>Energy Transfer LP</partyName>
+            <dateSigned>2024-01-22</dateSigned>
+            <declaration>By: LE GP, LLC as general partner; signed by Dylan A. Bramhall, EVP & Group CFO.</declaration>
+        </signature>
+    </signatures>
+</contract>

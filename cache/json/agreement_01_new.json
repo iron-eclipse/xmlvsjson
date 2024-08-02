@@ -1,0 +1,52 @@
+{
+  "contract": {
+    "parties": [
+      {
+        "name": "Equitable Financial Life Insurance Company",
+        "type": "New York stock life insurance company",
+        "capacity": "Capacity not specified",
+        "address": "1290 Avenue of the Americas, New York, New York, 10104"
+      },
+      {
+        "name": "Equitable Distributors, LLC",
+        "type": "Delaware limited liability company",
+        "capacity": "Capacity not specified",
+        "address": "1290 Avenue of the Americas, New York, New York, 10104"
+      }
+    ],
+    "offerAndAcceptance": {
+      "offer": "Equitable Financial offers the provision of services, personnel, and property.",
+      "acceptance": "Equitable Distributors accepts this offer and agrees to cooperate in utilizing the services.",
+      "meetingOfMinds": "Both parties desire to enter this Agreement in good faith."
+    },
+    "consideration": {
+      "description": "The costs associated with personnel, property, and services utilized.",
+      "value": "Equitable Distributors shall reimburse Equitable Financial for said costs."
+    },
+    "intentionToCreateLegalRelations": "It is the intention of both parties to formalize this Agreement, creating legal bindings upon execution.",
+    "legalityOfPurpose": "The purpose of this contract is lawful and compliant with applicable regulatory guidance from relevant authorities.",
+    "certaintyOfTerms": {
+      "subjectMatter": "Cooperation between the parties for services in the distribution of financial products.",
+      "price": "Costs will be based on actual expenses incurred.",
+      "timeForPerformance": "Services shall be ongoing with monthly reviews as specified."
+    },
+    "consent": "All provisions herein are agreed upon by both parties willingly and without coercion.",
+    "durationAndTermination": {
+      "duration": "This Agreement shall commence from the Effective Date and shall continue until terminated by either party.",
+      "terminationConditions": "Either party may terminate this Agreement with no less than ninety (90) days prior written notice.",
+      "renewalTerms": "This Agreement may continue unless terminated by the conditions herein."
+    },
+    "signatures": [
+      {
+        "partyName": "Equitable Financial Life Insurance Company",
+        "dateSigned": "2023-11-01",
+        "declaration": "Agreed and executed."
+      },
+      {
+        "partyName": "Equitable Distributors, LLC",
+        "dateSigned": "2023-11-01",
+        "declaration": "Agreed and executed."
+      }
+    ]
+  }
+}

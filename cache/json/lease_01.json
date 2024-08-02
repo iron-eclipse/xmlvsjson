@@ -1,0 +1,146 @@
+{
+  "contract": {
+    "parties": [
+      {
+        "name": "PARISH OF ST. JAMES, STATE OF LOUISIANA",
+        "type": "Issuer",
+        "capacity": "Political Subdivision",
+        "address": "State of Louisiana"
+      },
+      {
+        "name": "NUSTAR LOGISTICS, L.P.",
+        "type": "Company",
+        "capacity": "Limited Partnership",
+        "address": "State of Delaware"
+      },
+      {
+        "name": "Sunoco LP",
+        "type": "Guarantor",
+        "capacity": "Limited Partnership",
+        "address": "Delaware"
+      },
+      {
+        "name": "Aloha Petroleum LLC",
+        "type": "Guarantor",
+        "capacity": "Limited Liability Company",
+        "address": "Delaware"
+      },
+      {
+        "name": "Aloha Petroleum, Ltd.",
+        "type": "Guarantor",
+        "capacity": "Corporation",
+        "address": "Hawaii"
+      },
+      {
+        "name": "Sunmarks, LLC",
+        "type": "Guarantor",
+        "capacity": "Limited Liability Company",
+        "address": "Delaware"
+      },
+      {
+        "name": "Sunoco, LLC",
+        "type": "Guarantor",
+        "capacity": "Limited Liability Company",
+        "address": "Delaware"
+      },
+      {
+        "name": "Sunoco Midstream LLC",
+        "type": "Guarantor",
+        "capacity": "Limited Liability Company",
+        "address": "Delaware"
+      },
+      {
+        "name": "Sunoco Finance Corp.",
+        "type": "Guarantor",
+        "capacity": "Corporation",
+        "address": "Delaware"
+      },
+      {
+        "name": "Sunoco NLR LLC",
+        "type": "Guarantor",
+        "capacity": "Limited Liability Company",
+        "address": "Delaware"
+      },
+      {
+        "name": "Sunoco Refined Products LLC",
+        "type": "Guarantor",
+        "capacity": "Limited Liability Company",
+        "address": "Delaware"
+      },
+      {
+        "name": "Sunoco Retail LLC",
+        "type": "Guarantor",
+        "capacity": "Limited Liability Company",
+        "address": "Pennsylvania"
+      },
+      {
+        "name": "NuStar Energy L.P.",
+        "type": "Guarantor",
+        "capacity": "Limited Partnership",
+        "address": "Delaware"
+      },
+      {
+        "name": "NuStar Pipeline Operating Partnership L.P.",
+        "type": "Guarantor",
+        "capacity": "Limited Partnership",
+        "address": "Delaware"
+      },
+      {
+        "name": "NuStar Pipeline Partners L.P.",
+        "type": "Guarantor",
+        "capacity": "Limited Partnership",
+        "address": "Delaware"
+      },
+      {
+        "name": "NuStar Permian Holdings, LLC",
+        "type": "Guarantor",
+        "capacity": "Limited Liability Company",
+        "address": "Delaware"
+      }
+    ],
+    "offerAndAcceptance": {
+      "offer": "Amendment to the Original Agreement for the addition of Exhibit E.",
+      "acceptance": "Consent by Issuer and Company.",
+      "meetingOfMinds": "Agreement on terms regarding the Project and additional guarantors."
+    },
+    "consideration": {
+      "description": "Revenue Bonds for the NuStar Logistics Project.",
+      "value": "$100,000,000"
+    },
+    "intentionToCreateLegalRelations": "The parties intend to create binding obligations.",
+    "legalityOfPurpose": "The agreement is for the lawful purpose of managing and financing a storage project.",
+    "certaintyOfTerms": {
+      "subjectMatter": "Crude storage capacity at NuStar St. James Terminal.",
+      "price": "$100,000,000",
+      "timeForPerformance": "Upon execution of the Second Supplemental Lease Agreement."
+    },
+    "consent": "Consent from all parties for amendments and additions to the original agreements.",
+    "durationAndTermination": {
+      "duration": "Ongoing until mutually terminated or agreed upon amended.",
+      "terminationConditions": "As per Original Agreement.",
+      "renewalTerms": "Not specified in the contract."
+    },
+    "signatures": [
+      {
+        "partyName": "PARISH OF ST. JAMES, STATE OF LOUISIANA",
+        "dateSigned": "2024-07-15",
+        "declaration": "Signature of Parish President"
+      },
+      {
+        "partyName": "NUSTAR LOGISTICS, L.P.",
+        "dateSigned": "2024-07-15",
+        "declaration": "By: Riverwalk Logistics, L.P. Its General Partner"
+      },
+      {
+        "partyName": "NUSTAR ENERGY L.P.",
+        "dateSigned": "2024-07-15",
+        "declaration": "By: Riverwalk Logistics, L.P. Its General Partner"
+      },
+      {
+        "partyName": "NUSTAR PIPELINE OPERATING PARTNERSHIP L.P.",
+        "dateSigned": "2024-07-15",
+        "declaration": "By: NuStar Pipeline Company, LLC Its General Partner"
+      }
+    ]
+  }
+}

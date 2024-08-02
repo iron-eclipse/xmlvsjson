@@ -1,0 +1,50 @@
+{
+  "contract": {
+    "parties": [
+      {
+        "name": "Brightcast LLC",
+        "type": "Business",
+        "capacity": "Media Buying Agency",
+        "address": "2699 Pacific Coast Highway, Suite 200, Hermosa Beach, CA 90254"
+      },
+      {
+        "name": "Eva Live Inc",
+        "type": "Business",
+        "capacity": "Media Buyer",
+        "address": ""
+      }
+    ],
+    "offerAndAcceptance": {
+      "offer": "Engagement of Company to provide media buying services.",
+      "acceptance": "Subject to the terms and conditions of the Agreement.",
+      "meetingOfMinds": "Both parties agree to the terms outlined."
+    },
+    "consideration": {
+      "description": "Revenue share based on ad revenues from Oath.",
+      "value": "85% of Paid Search Revenues."
+    },
+    "intentionToCreateLegalRelations": "Both parties have intention to create legal relations by signing this agreement.",
+    "legalityOfPurpose": "Legal engagement in media buying services.",
+    "certaintyOfTerms": {
+      "subjectMatter": "Media buying services.",
+      "timeForPerformance": "Indefinite until terminated."
+    },
+    "consent": "Implied consent from both parties agreeing to the terms.",
+    "durationAndTermination": {
+      "duration": "Indefinite until terminated by either party with a 30-day written notice.",
+      "terminationConditions": "Immediate termination for breach of agreement."
+    },
+    "signatures": [
+      {
+        "partyName": "Brightcast LLC",
+        "dateSigned": "2022-05-16",
+        "declaration": "Signed by authorized representative."
+      },
+      {
+        "partyName": "Eva Live Inc",
+        "dateSigned": "2022-05-16",
+        "declaration": "Signed by Phil Aspin, Director."
+      }
+    ]
+  }
+}

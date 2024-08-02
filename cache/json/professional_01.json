@@ -1,0 +1,52 @@
+{
+  "contract": {
+    "parties": [
+      {
+        "name": "SANTA CRUZ COUNTY REGIONAL TRANSPORTATION COMMISSION",
+        "type": "Commission",
+        "capacity": "Contracting party",
+        "address": "1523 Pacific Ave, Santa Cruz, CA 95060"
+      },
+      {
+        "name": "CONSULTANT",
+        "type": "Consultant",
+        "capacity": "Contracting party",
+        "address": "________(ADDRESS)____________________"
+      }
+    ],
+    "offerAndAcceptance": {
+      "offer": "Professional Services Agreement including duties and compensation as outlined.",
+      "acceptance": "The consultant accepts the terms and agrees to perform the services.",
+      "meetingOfMinds": "Both parties agree to enter into this contractual relationship for the provision of services."
+    },
+    "consideration": {
+      "description": "Payment for professional services rendered.",
+      "value": "$_____ for time and materials."
+    },
+    "intentionToCreateLegalRelations": "Both parties intend to create a legally binding agreement.",
+    "legalityOfPurpose": "Services provided under the agreement are lawful and comply with all applicable laws.",
+    "certaintyOfTerms": {
+      "subjectMatter": "Consultant shall provide specified services as outlined in Exhibit A: Scope of Services.",
+      "price": "Not to exceed $_____ as specified in Exhibit B: Fee Schedule.",
+      "timeForPerformance": "Agreement to take effect upon approval by the commission and specified duration."
+    },
+    "consent": "Consultant cannot remove key personnel without commission’s consent.",
+    "durationAndTermination": {
+      "duration": "Starts upon execution and ends on specified date unless amended.",
+      "terminationConditions": "Commission can terminate for convenience or default with notice.",
+      "renewalTerms": "Renewal would require mutual agreement."
+    },
+    "signatures": [
+      {
+        "partyName": "CONSULTANT",
+        "dateSigned": "________",
+        "declaration": "Authorized to execute on behalf of Consultant."
+      },
+      {
+        "partyName": "SANTA CRUZ COUNTY REGIONAL TRANSPORTATION COMMISSION",
+        "dateSigned": "________",
+        "declaration": "Authorized to execute on behalf of the Commission."
+      }
+    ]
+  }
+}

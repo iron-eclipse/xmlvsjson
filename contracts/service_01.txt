@@ -1,0 +1,1032 @@
+TRANSITION SERVICES AGREEMENT
+
+by and between
+
+Alkermes, INC.
+
+and
+
+Mural Oncology, Inc.
+
+Dated as of November 13, 2023
+
+ 
+
+ 
+
+ 
+
+TRANSITION SERVICES AGREEMENT
+
+TABLE OF CONTENTS
+
+Article I DEFINITIONS
+
+1
+
+Section 1.1	General
+
+1
+
+Article II SERVICES
+
+3
+
+Section 2.1	General
+
+3
+
+Section 2.2	Standard for Services
+
+4
+
+Section 2.3	Protection of Alkermes US Information Systems
+
+5
+
+Section 2.4	Transitional Nature of the Services; Changes
+
+5
+
+Section 2.5	Omitted Services
+
+5
+
+Section 2.6	Additional Services
+
+6
+
+Section 2.7	Use of Third Parties
+
+6
+
+Section 2.8	Cooperation
+
+7
+
+Section 2.9	Location of Services Provided; Access
+
+7
+
+Section 2.10	Performance
+
+7
+
+Section 2.11	Intellectual Property
+
+7
+
+Section 2.12	Insurance
+
+8
+
+Article III FEES AND PAYMENT
+
+8
+
+Section 3.1	Fees
+
+8
+
+Section 3.2	Expense
+
+9
+
+Section 3.3	Invoice
+
+9
+
+Section 3.4	Late Payments
+
+9
+
+Section 3.5	Taxes
+
+9
+
+Section 3.6	Books and Records
+
+10
+
+Section 3.7	No Right to Set-Off
+
+10
+
+Article IV SERVICE MANAGEMENT
+
+10
+
+Section 4.1	Transition Committee
+
+10
+
+Section 4.2	Information Technology Committee
+
+10
+
+Section 4.3	Service Coordinators
+
+11
+
+Article V SUB-CONTRACTING; THIRD PARTY AGREEMENTS
+
+11
+
+Section 5.1	Sub-Contractors
+
+11
+
+Section 5.2	Third Party Agreements
+
+11
+
+i
+
+ 
+
+Section 5.3	Consents
+
+11
+
+Article VI TERM AND TERMINATION AND EFFECTS OF TERMINATION
+
+12
+
+Section 6.1	Termination
+
+12
+
+Section 6.2	Termination for Breach
+
+12
+
+Section 6.3	Early Termination of a Service
+
+12
+
+Section 6.4	Termination Upon Insolvency
+
+13
+
+Section 6.5	Accrued Rights
+
+13
+
+Section 6.6	Effect of Termination
+
+13
+
+Article VII DISPUTE RESOLUTION
+
+14
+
+Section 7.1	Negotiation
+
+14
+
+Section 7.2	Arbitration
+
+14
+
+Section 7.3	Continuity of Service and Performance
+
+14
+
+Section 7.4	Injunctive or Other Equity Relief
+
+14
+
+Article VIII LIMITATION OF LIABILITY; INDEMNIFICATION
+
+15
+
+Section 8.1	Limited Liability
+
+15
+
+Section 8.2	Services Provided “As-Is”
+
+15
+
+Section 8.3	Indemnification
+
+15
+
+Article IX CONFIDENTIALITY AND DATA PROTECTION
+
+16
+
+Section 9.1	Confidentiality
+
+16
+
+Section 9.2	Data Protection
+
+16
+
+Article X MISCELLANEOUS
+
+16
+
+Section 10.1	Complete Agreement; Construction
+
+16
+
+Section 10.2	Transaction Agreements
+
+17
+
+Section 10.3	Consistency with Tax Treatment
+
+17
+
+Section 10.4	Counterparts
+
+17
+
+Section 10.5	Notices
+
+17
+
+Section 10.6	Waivers
+
+18
+
+Section 10.7	Force Majeure.
+
+18
+
+Section 10.8	Assignment
+
+19
+
+Section 10.9	Successors and Assigns
+
+19
+
+Section 10.10	Third Party Beneficiaries
+
+19
+
+Section 10.11	Titles and Headings
+
+20
+
+ii
+
+ 
+
+Section 10.12	Schedules
+
+20
+
+Section 10.13	Governing Law
+
+20
+
+Section 10.14	Severability
+
+20
+
+Section 10.15	Interpretation
+
+20
+
+Section 10.16	No Duplication; No Double Recovery
+
+21
+
+Section 10.17	Independent Contractor Status
+
+21
+
+ 
+
+ 
+
+List of Schedules
+
+Schedule 1.1
+
+Form of Transition Service Schedule
+
+Schedule 2.3
+
+IT Acceptable Use Policy
+
+Schedule 4.1
+
+Transition Committee
+
+Schedule 4.2
+
+IT Committee
+
+Schedule 9.2
+
+Data Processing Schedule
+
+ 
+
+iii
+
+ 
+
+TRANSITION SERVICES AGREEMENT
+
+This TRANSITION SERVICES AGREEMENT (this “Agreement”), dated as of November 13, 2023 (the “Effective Date”), is entered into by and between Alkermes, Inc., a Pennsylvania corporation and wholly owned indirect subsidiary of Alkermes plc (“Alkermes US”), and Mural Oncology, Inc., a Delaware corporation and, following the Separation, a wholly owned direct subsidiary of Mural Oncology plc (“Mural US”). “Party” or “Parties” means Alkermes US or Mural US, individually or collectively, as the case may be. 
+
+W I T N E S S E T H:
+
+WHEREAS, in conjunction with the Separation Agreement and the consummation of the transactions contemplated thereby, Mural US desires to obtain certain transition services from Alkermes US, and Alkermes US is willing to provide such services to Mural US on the terms and conditions set forth in this Agreement; 
+
+WHEREAS, the Parties acknowledge that the efficient and effective transition of certain services under this Agreement in a manner that permits the successful operations of each Party following the Separation is a priority to the shareholders of each Party; and
+
+WHEREAS, the entry into this Agreement and the services rendered under the terms and conditions set forth in this Agreement are intended to be consistent with the Ruling Request, the Representation Letters and the intended tax treatment of the Separation set forth in the Ruling and Tax Opinions.
+
+NOW, THEREFORE, in consideration of the foregoing and the mutual agreements, provisions and covenants contained in this Agreement, the Parties hereby agree as follows:
+
+Article I
+DEFINITIONS
+
+Section 1.1	General. As used herein, the following terms have the following meanings:
+
+(1)“Additional Service” shall have the meaning set forth in Section 2.6.
+(2)“Data Protection Legislation” means all applicable Laws that apply to the Processing of Personal Data under the Agreement, including European Data Protection Law and the Laws and regulations of the United States and its states, as amended, repealed, consolidated or replaced from time to time, and any applicable guidance, rules, requirements and directions issued by a data protection authority in respect of such legislation.
+(3)“Data Transfer Process” shall have the meaning set forth in Section 4.2.
+(4)“Dispute Notice” shall have the meaning set forth in Section 7.1.
+(5)“Disputes” shall have the meaning set forth in Section 7.1.
+1
+
+ 
+
+(6)“European Data Protection Laws” means the General Data Protection Regulation (EU) 2016/679 (“EU GDPR”), the United Kingdom General Data Protection Regulation, which is the EU GDPR as incorporated into UK domestic law by virtue of section 3 of the European Union (Withdrawal) Act 2018 and amended by The Data Protection, Privacy and Electronic Communications (Amendments etc.) (EU Exit) Regulations 2019 (“UK GDPR”), and all other privacy and data protection laws of the European Economic Area and its Member States and the United Kingdom, and all laws implementing, supplementing, or amending the foregoing.
+(7)“Expenses” shall have the meaning set forth in Section 3.2.
+(8)“Fees” shall have the meaning set forth in Section 3.1.
+(9)“Force Majeure” shall have the meaning set forth in Section 10.7(a).
+(10)“Information System Additions” shall have the meaning set forth in Section 2.3(b).
+(11)“Intellectual Property Rights” shall have the meaning set forth in Section 2.11(a).
+(12)“IT Acceptable Use Policy” shall have the meaning set forth in Section 2.3(a).
+(13)“IT Committee” shall have the meaning set forth in Section 4.2.
+(14)“Mural Product Candidates” shall have the meaning set forth in the Separation Agreement.
+(15)“Mural Intellectual Property Rights” shall have the meaning set forth in Section 2.11(a).
+(16)“Omitted Service” shall have the meaning set forth in Section 2.5.
+(17)“Oncology Business” shall have the meaning set forth in the Separation Agreement.
+(18)“One-Time Costs” shall have the meaning set forth in Section 3.1.
+(19)“Prior Period” shall have the meaning set forth in Section 2.2.
+(20)“Provider Third Party Contracts” shall have the meaning set forth in Section 6.3.
+(21)“Representation Letters” shall have the meaning set forth in the Tax Matters Agreement.
+(22)“Ruling” shall have the meaning set forth in the Tax Matters Agreement.
+(23)“Ruling Request” shall have the meaning set forth in the Tax Matters Agreement.
+(24)“Service Coordinator” shall have the meaning set forth in Section 4.3.
+2
+
+ 
+
+(25)“Separation” shall have the meaning set forth in the Separation Agreement.
+(26)“Separation Agreement” means the Separation Agreement, dated as of November 13, 2023, by and between Alkermes plc, Mural Oncology plc and, solely with respect to Article II, Section 4.5 and Section 7.12, Mural US. Capitalized terms used and not defined in this Agreement shall have the meaning set forth in the Separation Agreement. 
+(27)“Service Provider” means, as the context may require, Alkermes US or, if not Alkermes US, the Person providing the Services on behalf of Alkermes US, including any of its Affiliates (it being agreed and understood that, for purposes of this Agreement, Alkermes US shall cause each such Person to comply with the provisions of this Agreement applicable to such Person in such Person’s capacity as a “Service Provider”).
+(28)“Services” means (a) all of the services to be provided by or on behalf of a Service Provider under this Agreement, each as described on a Transition Service Schedule as such Transition Service Schedule may be updated and supplemented from time to time in accordance with the provisions of this Agreement, (b) any Omitted Services and (c) any Additional Services. “Service” means each such service.
+(29)“Tax Matters Agreement” means the Tax Matters Agreement, dated as of November 13, 2023, by and between Alkermes plc and Mural Oncology plc.
+(30)“Tax Opinions” shall have the meaning set forth in the Tax Matters Agreement.
+(31)“Term” means the period commencing upon the Distribution Effective Time and ending upon the earlier of (i) the expiration of all Services set forth in the Transition Service Schedules (taking into account any extensions for one or more Services permitted by Section 6.1) and (ii) the second (2nd) anniversary of the Distribution Date.
+(32)“Third Party” means any person or entity other than Alkermes US, Mural US or their Affiliates.
+(33)“Transition Committee” shall have the meaning set forth in Section 4.1.
+(34)“Transition Service Schedule” means a transition service schedule in the form attached hereto as Schedule 1.1, as mutually agreed upon by the Parties with respect to each Service to be provided hereunder.
+(35)“VAT” shall have the meaning set forth in Section 3.5.
+Article II
+SERVICES
+
+Section 2.1	General. During the Term, subject to Section 2.2, Alkermes US shall (and shall cause each Service Provider providing Services to) provide to Mural US and, to the extent directed by Mural US, its Affiliates, the Services, in each case subject to the terms and conditions set forth herein and on the applicable Transition Service Schedule. Notwithstanding anything to the contrary herein, a Service Provider shall not be required to perform or cause to be 
+
+3
+
+ 
+
+performed any of the Services for the benefit of any Person other than Mural US and its Affiliates. The Parties agree to negotiate in good faith any proposed changes to the Services, including pricing related thereto, during the Term. Such proposed changes will become effective only upon mutual agreement of the Parties as reflected in a Transition Service Schedule. If there is any inconsistency between the terms of a Transition Service Schedule and the terms of this Agreement, the terms of this Agreement will govern. The Parties acknowledge and agree that the Services are generally intended to facilitate the transactions contemplated by the Separation Agreement, and, to the extent Services described in any Transition Service Schedule are general in nature, are solely intended to support the continued operation of the Oncology Business.
+
+Section 2.2	Standard for Services. Alkermes US shall use commercially reasonable efforts to provide, or cause to be provided, to Mural US the Services in accordance with the terms and conditions of this Agreement. Alkermes US shall provide, or cause to be provided, the Services in a manner (i) in compliance in all material respects with all applicable Laws and (ii) generally consistent with the provision of the Services to the Oncology Business prior to the date hereof (the “Prior Period”); provided, that if a Service Provider has not previously provided a Service to another Person, the Service Provider shall provide such Service in a manner generally consistent with the provision of similar services provided to its Affiliates or businesses. To the extent a more specific standard of care is specified in a Transition Service Schedule with respect to any Service, a Service Provider shall use its commercially reasonable efforts to comply with such more specific standard. It is the Parties’ shared objective to transition responsibility for the performance of all Services from Service Provider to Mural US and its Affiliates in a manner that minimizes, to the extent reasonably possible, disruption to the business operations of the Service Providers and their Affiliates and the business operations of Mural US and its Affiliates. Notwithstanding any provision of this Agreement or the Separation Agreement to the contrary, no Service Provider shall be required to (a) perform any Service in any manner that violates or contravenes any restrictions imposed on the Service Provider by applicable Law, (b) perform any Service in any manner that breaches or contravenes any contractual obligations owed by the Service Provider to any Third Party(ies) or (c) perform any Service to the extent that the conduct of such would, in the good faith belief of such Service Provider, infringe, violate or misappropriate intellectual  property rights of any Third Party. Notwithstanding any provision of this Agreement to the contrary, but without limiting a Service Provider’s obligations under Section 2.1 or this Section 2.2, in no event shall Alkermes US or any of its Affiliates be: (i) obligated to make any specific employment decisions in terms of hiring, retaining or terminating employees; (ii) obligated to enter into retention agreements with employees or otherwise provide any incentive beyond payment of regular salary and benefits; (iii) prevented from transferring after the Distribution Effective Time any employees who were supporting the Oncology Business as of the Distribution Effective Time to support other products for Alkermes US or its Affiliates or to assume other roles with Alkermes US or its Affiliates to the extent such employees are not required to provide Services; (iv) prevented from determining, in its sole discretion, the individual employees or contractors who provide Services or from terminating or otherwise disciplining employees; (v) obligated to purchase, lease or license any additional equipment or software, except as specifically provided for in a Transition Service Schedule; or (vi) obligated to create or supply any documentation or information not currently existing or reasonably available, except as specifically provided for in a Transition Service Schedule.
+
+4
+
+ 
+
+Section 2.3	Protection of Alkermes US Information Systems.
+
+(a)In providing information technology Services to Mural US, Alkermes US shall have the right to implement reasonable processes from time to time under which there will be no greater threat to Alkermes US’ information technology operating environment than would exist in the absence of the provision of such Services. Without limiting the foregoing, Mural US shall, and shall cause each of its employees with access to Alkermes US’ information technology operating environment to, comply with the terms and conditions of the applicable Alkermes US policy set forth in Schedule 2.3 hereunder as may be amended from time to time upon written notice by Alkermes US to Mural US (such policy, the “IT Acceptable Use Policy”), and with the terms of any Alkermes US restrictive covenant agreement, except as expressly waived by Alkermes US.
+(b)If, in connection with the provision of any Services under this Agreement, it is reasonably necessary for Alkermes US to implement any information technology connections, firewalls or the like (“Information System Additions”) specifically in connection with the provision of such Services and that would not have otherwise been implemented in the absence of the provision of the Services, the costs of implementing such Information System Additions shall be borne by Mural US, unless specifically provided otherwise in a Transition Service Schedule or otherwise agreed to in writing by Alkermes US.
+Section 2.4	Transitional Nature of the Services; Changes.
+
+(a)Mural US understands that the Services provided hereunder are transitional in nature and are furnished by the Service Providers as an accommodation and for the purpose of facilitating the transactions contemplated by the Separation Agreement. Each of the Parties agrees to cooperate in good faith and use, and shall cause its Affiliates to use, commercially reasonable efforts to effect a smooth transition from the Services as provided by the Service Provider to services performed by Mural US or furnished by another party as soon as practically possible, but in no case later than the expiration of the Term. Mural US further understands that the Service Providers are not in the business of providing Services to Third Parties and shall not provide Services beyond the Term.
+(b)Mural US acknowledges and agrees that Alkermes US or its Affiliates may make changes from time to time in the manner of performing the Services if Alkermes US or its Affiliates: (i) are making similar changes in the performance of similar services for itself or their own Affiliates; (ii) furnish to Mural US notice with respect to such changes, and if applicable, substantially the same notice (in content and timing) as Alkermes US or its Affiliates shall furnish to their own Affiliates with respect to such changes; and (iii) considers in good faith any reasonable concerns of Mural US provided in writing related to implementing any such changes.
+Section 2.5	Omitted Services. If, during the six (6) month period immediately following the date of this Agreement, either Party identifies a service that was provided in connection with the Oncology Business (other than those services expressly excluded hereunder) during the Prior Period, or which are reasonably anticipated as of the date hereof to be necessary to continue to support the Oncology Business during the Term, but such services were inadvertently omitted from the Transition Service Schedules (each, to the extent included in the Services pursuant to 
+
+5
+
+ 
+
+this Section, an “Omitted Service”) and notifies the other Party thereof, then the Parties shall enter into good faith discussions as to whether such Omitted Service should be added as a Service hereunder, taking into account considerations such as whether the provision of such Service would be commercially reasonable from Service Provider’s perspective and whether the Omitted Service can be obtained from a provider other than the Service Provider at comparable or lower expense. If the Parties determine that an Omitted Service will be provided under this Agreement, then the Parties shall cooperate in preparing a Transition Service Schedule to add such Omitted Service as a Service; provided that, notwithstanding anything to the contrary in this Agreement, Service Provider shall not be obligated to provide any Omitted Service if it does not, in its reasonable judgment, have adequate resources to provide such Omitted Service or if the provision of such Omitted Service would significantly disrupt the operation of its business. In the event that the Parties agree that a Service Provider should provide any such Omitted Service, the Parties shall execute a Transition Service Schedule for such Omitted Service that will set forth, among other things, (a) the time period during which such Omitted Service will be provided, (b) a description of such Omitted Service in reasonable detail, (c) primary points of contact for each of the Parties with respect to the Service, (d) any costs related to such Omitted Service and agreed upon by the Parties, and (e) any additional terms and conditions specific to such Omitted Service. A Service Provider’s obligations with respect to providing any such Omitted Service shall become effective only upon mutual agreement of the Parties as reflected in such Transition Service Schedule. Notwithstanding the foregoing, the time period for any such Omitted Service will expire not later than the expiration of the Term as calculated prior to the addition of such Omitted Service unless the Parties mutually agree otherwise.
+
+Section 2.6	Additional Services. The Parties hereto acknowledge that the Transition Service Schedules might not identify all of the Services that, although not provided in connection with the Oncology Business during the Prior Period, may be necessary or appropriate to effect the understanding set forth in this Agreement. Mural US may request such additional Services from a Service Provider (each, to the extent included in the Services pursuant to this Section 2.6, an “Additional Service”) in writing during the Term. A Service Provider shall consider any such request for Additional Services promptly and in good faith, except to the extent such request is for Omitted Services (in which case Section 2.5 shall govern) or for services intentionally not included by mutual agreement of the Parties as part of the Services as of the Effective Date. In the event that the Parties agree that a Service Provider should provide any such Additional Service, the Parties shall execute a Transition Service Schedule that will set forth, among other things, (a) the time period during which such Additional Service will be provided, (b) a description of such Additional Service in reasonable detail, (c) primary points of contact for each of the Parties with respect to the Service, (d) any costs related to such Additional Service and agreed upon by the Parties, and (e) any additional terms and conditions specific to such Additional Service. A Service Provider’s obligations with respect to providing any such Additional Service will become effective only upon mutual agreement of the Parties as reflected in such Transition Service Schedule. Notwithstanding the foregoing, the time period for any such Additional Service will expire not later than the expiration of the Term as calculated prior to the addition of such Additional Service unless the Parties mutually agree otherwise.
+
+Section 2.7	Use of Third Parties. Mural US understands that certain Services may be provided to it by a Service Provider pursuant to agreements between the Service Provider and various Third Parties. To the extent not prohibited by a Third Party and with Mural US’ consent 
+
+6
+
+ 
+
+(not to be unreasonably withheld, conditioned or delayed), the Service Provider shall coordinate the provision of Services by the Third Party to Mural US, and Mural US shall reasonably cooperate with any Third Party providing Services on behalf of the Service Provider in order to facilitate the provision and receipt of such Services.
+
+Section 2.8	Cooperation. Mural US and its Affiliates who are recipients of the Services shall reasonably cooperate with each Service Provider in order to facilitate the provision and receipt of the Services. Mural US acknowledges that such Services are dependent on such reasonable cooperation, and that its or its Affiliates’ failure to so cooperate, if not reasonable, will relieve the Service Provider of its obligation to provide the related Services to the extent such failure renders such provision impractical or impossible. Mural US and its Affiliates who are recipients of the Services shall comply in all material respects with all applicable policies and procedures of the Service Provider.
+
+Section 2.9	Location of Services Provided; Access. Each Service Provider shall provide the Services to Mural US from locations of the Service Provider’s choice in its sole discretion unless Services are required to be performed at a specific location identified in a Transition Service Schedule. Certain key personnel of the Service Providers who are expected to be utilized to perform Services may be required to travel to the offices of Mural US or between Service Provider locations. Each Party shall allow the other Party and its Affiliates and Representatives reasonable access to the facilities of such Party and its Affiliates that is necessary for each Service Provider to provide Services or for Mural US and its Affiliates to receive the Services in accordance with this Agreement, subject to applicable confidentiality and non-use restrictions consistent with those set forth in this Agreement. Each Party agrees that all of its and its Affiliates’ employees shall, and that it shall use commercially reasonable efforts to cause its Representatives’ employees to, when on the property of the other Party or any of its Affiliates, or when given access to any facilities, information, systems, infrastructure or personnel of the other Party or any of its Affiliates, conform to the policies and procedures of such other Party and any of its Affiliates, as applicable, concerning health, safety, conduct and security which are made known to the Party receiving such access from time to time.
+
+Section 2.10	Performance. Any Party may cause any of its Affiliates to perform any or all of its obligations hereunder and may designate any of its Affiliates to receive any of its entitlements hereunder. Each of the Parties shall cause to be performed, and hereby guarantees the performance of, all actions, agreements and obligations set forth herein to be performed by any Affiliate of such Party or by any entity that becomes an Affiliate of such Party at or after the Distribution Effective Time, in each case to the extent such Affiliate remains an Affiliate of the applicable Party.
+
+Section 2.11	Intellectual Property.
+
+(a)Neither Party will gain, by virtue of this Agreement, any rights of ownership or use of copyrights, patents, trade secrets, trademarks, know-how or any other intellectual property rights (“Intellectual Property Rights”) owned by the other Party or its Affiliates as of the Effective Date or that arise other than in the course of the performance of the Services. To the extent any Intellectual Property Rights are developed by Alkermes US or its Affiliates in the course of the performance of the Services that relate exclusively to the Oncology Business (the 
+7
+
+ 
+
+“Mural Intellectual Property Rights”), all right, title and interest in and to any such Mural Intellectual Property Rights will be the sole and exclusive property of Mural US, and Alkermes US shall (and shall cause its Affiliates to) assign, and does hereby assign, to Mural US all right, title and interest in and to any such Mural Intellectual Property Rights. Except as expressly specified in the foregoing, as between the Parties, all right, title and interest in any Intellectual Property Rights developed by or on behalf of Alkermes US in the course of providing the Services will be owned by Alkermes US. To the extent that Alkermes US performs any Services through any Affiliate or subcontractor, Alkermes US shall obligate such Affiliate or such subcontractor to assign to Mural US all Mural Intellectual Property Rights, and Alkermes US shall not utilize any such Affiliate or subcontractor in the performance of such Services unless such Affiliate or subcontractor is so obligated.
+(b)Solely for and with respect to the performance of Services and other activities under this Agreement during the Term, Mural US (on behalf of itself and its Affiliates) hereby grants to each Service Provider a non-exclusive, royalty-free, non-transferable license and right of reference, with the right to grant further licenses and rights of reference, to all intellectual property, regulatory submissions and approvals, and records related to the Mural Product Candidates that are necessary to perform the Services and other obligations of Alkermes US or a Service Provider under this Agreement.
+Section 2.12	Insurance. Each Party hereto shall, throughout the term of this Agreement, carry appropriate insurance with a reputable insurance company covering property damage, business interruptions, automobile and general liability insurance (including contractual liability) to protect its own business and property interests; provided that each Party shall be permitted to reasonably self-insure against the liabilities specified in Article VIII.
+
+Article III
+FEES AND PAYMENT
+
+Section 3.1	Fees. The fees payable hereunder for a Service (the “Fees”) shall be set forth in the applicable Transition Service Schedule. Mural US shall also pay the Service Provider for all of the reasonable, documented one-time costs and expenses, if any, incurred by the Service Provider in order to enable the Service Provider to provide and to terminate Services as contemplated hereby, including costs for adapting the Service Provider’s systems to be able to interface with Mural US’ systems for provision of the Services, if reasonably required (the “One-Time Costs”); provided, however, that Alkermes US shall not incur any One-Time Cost (on an event-by-event basis) over five thousand dollars ($5,000) that is not specifically identified in a Transition Service Schedule without Mural US’ prior written consent, not to be unreasonably withheld, conditioned or delayed. The Parties agree that they have used reasonable good faith efforts to identify One-Time Costs in excess of five thousand dollars ($5,000) on the Transition Service Schedules as of the Distribution Effective Time and, in the event that Mural US declines to consent to any One-Time Cost for a Service pursuant to this Section 3.1, Service Provider shall not be required under this Agreement to perform such Service to the extent such Service cannot be performed without payment of such One-Time Cost.
+
+Section 3.2	Expense. The Fees are exclusive of expenses related to travel (including long-distance and local transportation, accommodation and meal expenses and other incidental 
+
+8
+
+ 
+
+expenses) by the Service Provider’s personnel or any subcontractor in connection with performing the Services. All of the costs and expenses described in this Section 3.2 and any other out-of-pocket expenses set forth on the Transition Service Schedule for a particular Service (collectively, “Expenses”) will be charged by the Service Provider to the recipient of such Service on a pass-through basis. For the avoidance of doubt, the Expenses described in this Section 3.2 will be consistent with the Service Provider’s general approach with respect to such types of costs and expenses; provided that, with respect to any Service, prior written approval from the Mural US primary point of contact for such Service designated in the applicable Transition Service Schedule will be required to the extent that Expenses exceed fifteen percent (15%) of the Fees paid and payable to the Service Provider for such Service in any calendar quarter. For clarity, there shall be no mark-up added to Expenses under this Agreement, unless such mark-up was actually paid by the Service Provider’s personnel or subcontractor.
+
+Section 3.3	Invoice. Not later than twenty (20) days after the last day of each calendar quarter (or, if the Term ends during a calendar quarter, the last day of the Term), Alkermes US shall provide to Mural US an invoice for the preceding calendar quarter, which will list (a) the Services provided by the Service Provider to Mural US for the preceding calendar quarter, (b) the Fees payable for such Services (and reasonable documentation supporting such Fees, to the extent requested by Mural US) for the preceding calendar quarter, (c) any Expenses (and reasonable documentation supporting such Expenses, to the extent requested by Mural US) for the preceding calendar quarter, and (d) any One-Time Costs (and reasonable documentation supporting such costs and expenses, to the extent requested by Mural US) for the preceding calendar quarter, in each case as incurred in accordance with this Agreement. Mural US shall pay the amount stated in such invoices in full within thirty (30) days of the issuance of the invoices (or, if such date is not a Business Day, then on the immediately succeeding Business Day) to an account designated by Alkermes US, except to the extent such amount is the subject of a good faith dispute by Mural US as promptly notified in writing to Alkermes US.
+
+Section 3.4	Late Payments. Without prejudice to the Service Provider’s other rights and remedies, any amount not paid when due pursuant to this Agreement shall bear interest at a rate per annum equal to the Prime Rate, from time to time in effect, plus two percent (2%), calculated for the actual number of days elapsed, accrued from the date on which such payment was due up to the date of the actual receipt of payment. Notwithstanding the foregoing, if a Party contests any amounts due hereunder in good faith and promptly notifies the other Party of such dispute, interest will not accrue as to amounts being so contested until and unless the dispute is resolved in the payee Party’s favor.
+
+Section 3.5	Taxes. Mural US shall make all payments to a Service Provider for any Service without deduction or withholding for taxes including income tax withholding, Value Added Tax (“VAT”), duties, sales tax or a similar tax except to the extent any such deduction or withholding is required by the tax laws of any federal, state, provincial or foreign government. In the event a deduction or withholding for taxes is applicable, Mural US shall submit such deduction or withholding for taxes to the appropriate Governmental Entity and shall provide a tax certificate to Service Provider. In the event VAT or sales tax applies to the services provided, a Service Provider shall invoice such tax to Mural US, and a Service Provider shall remit such tax to the relevant Governmental Entity. Service Provider and Mural US shall mutually cooperate to minimize any amount of tax assessed in respect of the performance of Services 
+
+9
+
+ 
+
+hereunder or as a deduction or withholding of taxes, including through the prompt completion and filing of any relevant tax forms with the relevant tax authorities.
+
+Section 3.6	Books and Records. Each Service Provider shall maintain complete and accurate books of account as necessary to support calculations of the Services rendered by it and related Fees, Expenses and One-Time Costs, and shall make such books available to Mural US, upon reasonable notice, during normal business hours; provided, however, that to the extent such books contain information relating to any other aspect of the Service Provider’s business, the Parties shall negotiate a procedure to provide Mural US with necessary access while preserving the confidentiality of such other records.
+
+Section 3.7	No Right to Set-Off. Each Party hereto acknowledges and agrees that it shall not be permitted to set-off any amount owed by such Party pursuant to this Agreement against any amount or obligation owed to such Party or an Affiliate hereunder or pursuant to the Separation Agreement or any other Ancillary Agreement.
+
+Article IV
+SERVICE MANAGEMENT
+
+Section 4.1	Transition Committee. Alkermes US and Mural US shall establish a transition committee (the “Transition Committee”) that shall consist of an equal number of employees from each Party to have overall responsibility for managing and coordinating the delivery of Services in accordance with this Agreement. The initial members of the Transition Committee as of the Distribution Effective Time are identified on Schedule 4.1 hereto. The Transition Committee shall meet at least monthly through the Term at a mutually agreed time and location to review the status of the Services. Meetings may be held virtually or as otherwise agreed by the members of the Transition Committee. In addition, any member of the Transition Committee may request a meeting at any time, and such members of the Transition Committee shall use their commercially reasonable efforts to schedule and attend such meeting. There shall be no fees or expenses payable by Mural US to Alkermes US under this Agreement relating to meetings of the Transition Committee.
+
+Section 4.2	Information Technology Committee. Alkermes US and Mural US shall establish an information technology committee (the “IT Committee”) that shall have responsibility for managing and coordinating the delivery of and/or access to or transfer of the data and records considered to be Mural Assets or otherwise to be transferred, directly or indirectly, to Mural Oncology plc under the terms of the Separation Agreement (such transfer, collectively, the “Data Transfer Process”). The initial members of the IT Committee as of the Distribution Effective Time are identified on Schedule 4.2 hereto. The IT Committee shall meet at least monthly through the Term at a mutually agreed time and location to review the status of, and discuss progress, strategy and other compliance matters with respect to, the Data Transfer Process and any other information technology matters related to the Separation. Meetings may be held virtually or as otherwise agreed by the members of the IT Committee. In addition, any member of the IT Committee may request a meeting of the IT Committee at any time, and all such members of the IT Committee shall use their commercially reasonable efforts to schedule and attend such meeting. There shall be no fees or expenses payable by Mural US to Alkermes US under this Agreement relating to meetings of the IT Committee.
+
+10
+
+ 
+
+Section 4.3	Service Coordinators. Each Party has designated an employee or title as the key contact for the day-to-day implementation or monitoring of each Service as specified in the applicable Transition Service Schedule (each, a “Service Coordinator”). The Parties shall direct communications relating to specific Services to the applicable Service Coordinators. The Service Coordinators shall report to the Transition Committee from time to time, as directed by the members of the Transition Committee designated by the applicable Party.
+
+Article V
+SUB-CONTRACTING; THIRD PARTY AGREEMENTS
+
+Section 5.1	Sub-Contractors. Except as otherwise set forth in Schedule 9.2 or in an applicable Transition Service Schedule, upon Mural US’ consent, not to be unreasonably withheld, conditioned or delayed, a Service Provider may delegate or sub-contract its duties under this Agreement to a qualified Third Party; provided that, notwithstanding such delegation or sub-contracting, the Service Provider will remain liable for the performance of its duties hereunder and shall ensure and guaranty that any Services provided by a subcontractor shall meet Service Provider’s obligations set forth in Section 2.2(i) and (ii). In the event any such consent is not granted, Service Provider shall not have any liability resulting from any delay in providing any such Service. For the avoidance of doubt, Service Provider will not be liable with respect to any agreement entered into directly by Mural US (or its Affiliates) and a subcontractor, other than as mutually agreed in writing by the Parties hereto.
+
+Section 5.2	Third Party Agreements. Mural US acknowledges that the Services that were provided through Third Parties prior to the date hereof are subject to the terms and conditions of any applicable agreements between the Service Provider and such Third Parties, and Mural US agrees to comply with such terms and conditions to the extent applicable to Mural US and necessary for purposes of receiving such Services by Mural US. For any Service to be delegated to a Third Party after the date hereof, and so long as any such Service is provided solely to Mural US and not to a Service Provider or any Affiliates of Service Provider, the Service Provider shall provide Mural US with a copy of any agreement contemplated to be entered into with such Third Party in relation to such Service and, if required by Section 5.1, seek Mural US’ consent to such delegation, which consent may not be unreasonably withheld, conditioned or delayed.
+
+Section 5.3	Consents. Notwithstanding anything to the contrary contained herein, each Service Provider shall use commercially reasonable efforts to obtain all consents from vendors that are necessary in order to provide any of the Services to Mural US under this Agreement; provided, however, that a Service Provider will not be required to pay any out-of-pocket fees to any vendor in order to obtain such consent, but will, instead, request that Mural US pay such out-of-pocket fees. In the event that a Service Provider is unable to obtain any such consent, Alkermes US’ sole liability and obligation and Mural US’ sole remedy will be to require the Parties hereto to work together to agree upon a commercially reasonable alternative arrangement, which may include identification of alternate resources and equivalent services from such alternative resources on commercially reasonable terms. Any costs specified in the second sentence of Section 3.1 and any actual out-of-pocket fees levied on a Service Provider (a) in connection with its efforts to obtain and implement such consents and (b) in connection with the implementation of any such commercially reasonable alternative arrangement, will be borne by 
+
+11
+
+ 
+
+Mural US. For the avoidance of doubt, any costs incurred by a Service Provider in connection with obtaining consents prior to the Distribution Effective Time will be borne by Alkermes US.
+
+Article VI
+TERM AND TERMINATION AND EFFECTS OF TERMINATION
+
+Section 6.1	Termination. Except as otherwise provided herein or unless otherwise agreed in writing by the Parties hereto, a Service Provider’s obligation to provide or procure, and Mural US’ obligation to purchase, each Service shall cease as of the end of the term specified for such Service in the applicable Transition Service Schedule, and the Agreement will terminate in its entirety at the end of the Term; provided that (a) this Agreement may be extended, with respect to one or more Services, by mutual written agreement of the Parties, consent to which extension shall be in each Party’s absolute discretion; provided that such extension shall be limited to one period of up to six (6) months following the initial term of the Service, (b) in the event that a Service shall not have been transitioned to Mural US solely as a result of a material breach by Alkermes US of its obligations under this Agreement, the term for such Service will be extended solely for such period as shall be necessary for Alkermes US to cure such material breach; provided that the breach is curable with the use of commercially reasonable efforts and is not related to a Service that could reasonably be obtained or performed by Mural US itself and (c) in no event shall the Term of this Agreement extend beyond the second (2nd) anniversary of the Distribution Date.
+
+Section 6.2	Termination for Breach. In the event that a Party hereto commits a material breach with respect to any of the Services, the other Party may terminate this Agreement with respect to such Service only, unless such breach is cured not later than thirty (30) days after receipt by the breaching Party of written notice of such breach.
+
+Section 6.3	Early Termination of a Service. Subject to the restrictions set forth herein, if Mural US should wish to terminate a Service (in whole, but not in part), Mural US shall provide written notice to the Service Provider not later than thirty (30) days prior to the requested termination date for such Service; provided, however, that no such notice of termination may be delivered to the Service Provider during the thirty (30) day period immediately following the date hereof. Notwithstanding the foregoing provisions, the Parties hereto acknowledge and agree that, in certain instances, terminating certain Services may require time periods longer than the thirty (30) day period specified in this Section 6.3. In any such event, the Parties agree to negotiate in good faith a longer period of time for any and all such transfers following the termination notice. Mural US will remain liable for any Fees or other amounts payable hereunder in connection with the terminated Service(s) incurred prior to the effective date of termination of such Service(s), including in the event that such terminated Services contemplated a deliverable that was not provided due to such early termination. Mural US acknowledges and agrees that (a) Services provided by Third Parties may be subject to term-limited licenses and contracts between a Service Provider and applicable Third Parties (collectively, “Provider Third Party Contracts”), (b) the renewal periods under the Provider Third Party Contracts may be for fixed periods and (c) a Service Provider may not have the right to renew certain Provider Third Party Contracts. As a result, Mural US agrees that (i) if Service Provider is required to extend any Provider Third Party Contract in order to continue to provide any Service during the Term, then Service Provider shall notify Mural US and, if Mural US informs Service Provider within twenty (20) days of such 
+
+12
+
+ 
+
+notice that it wishes to continue to receive such Service, then Mural US shall be required to pay Service Provider the amount of any renewal fees or purchase commitments applicable to the relevant Service for the fixed renewal period specified in the applicable Provider Third Party Contract, regardless of whether the Term or Service Provider’s provision of the relevant Service ends prior to the end of the relevant renewal period (provided that the Service Provider has used commercially reasonable efforts to negotiate a shorter period coterminous with the provision of the relevant Service) and (ii) a Service Provider shall not be required to provide any Service to the extent it is unable to renew any applicable Provider Third Party Contract or Mural US either informs Service Provider that it does not wish to continue to receive such Service under this Section 6.3 or does not respond to Service Provider’s notice in the applicable twenty (20) day period.
+
+Section 6.4	Termination Upon Insolvency. Either Party may terminate this Agreement immediately in the event the other Party (a) becomes insolvent, (b) is generally unable to pay, or fails to pay, its debts as they become due, (c) files, or has filed against it, a petition for voluntary or involuntary bankruptcy or pursuant to any other insolvency Law, (d) makes or seeks to make a general assignment for the benefit of its creditors, or (e) applies for, or consents to, the appointment of a trustee, receiver or custodian for a substantial part of its property or business.
+
+Section 6.5	Accrued Rights. Termination or expiration of this Agreement for any reason will be without prejudice to any rights that have accrued to the benefit of a Party prior to such termination or expiration. Such termination or expiration will not relieve a Party from obligations that are expressly indicated to survive the termination or expiration of this Agreement.
+
+Section 6.6	Effect of Termination. Not later than thirty (30) days following the date it receives a final invoice from a Service Provider following termination or expiration of any Services or this Agreement, Mural US shall pay to the Service Provider all remaining monies due to the Service Provider hereunder in respect of Services provided prior to such termination or expiration except for any amounts then the subject of a good faith dispute. In addition, at the end of the Term, each Party hereto shall, and shall cause any other Service Providers to, return or destroy, at the disclosing Party’s option, the Confidential Information of the disclosing Party. In the event that the disclosing Party elects destruction, the other Party shall furnish to the disclosing Party a written certificate of destruction signed by an officer of the certifying Party. Any provision which by its nature should survive, including the provisions of this Section 6.6 (Effect of Termination), Section 2.11 (Intellectual Property), Article III (Fees and Payment), Article VII (Dispute Resolution), Article VIII (Limitation of Liability; Indemnification), Article IX (Confidentiality) and Article X (Miscellaneous), shall survive the termination of this Agreement.
+
+Article VII
+DISPUTE RESOLUTION
+
+Section 7.1	Negotiation. A Party seeking resolution of a controversy, dispute or action arising out of, in connection with, or in relation to the interpretation, performance, nonperformance, validity or breach of this Agreement or otherwise arising out of, or in any way related to, this Agreement or the transactions contemplated hereby or thereby, including any action based on contract, tort, statute or constitution (collectively, “Disputes”) shall provide 
+
+13
+
+ 
+
+written notice of such Dispute to the other Party, specifying the terms of such Dispute in reasonable detail (“Dispute Notice”). The Transition Committee shall attempt to resolve the Dispute through good faith negotiation for a reasonable period of time; provided that such reasonable period shall not, unless otherwise agreed by the Parties in writing, exceed thirty (30) days from the time of receipt by a Party of the Dispute Notice. If the Dispute has not been resolved within fifteen (15) days after receipt of the Dispute Notice, the respective Chief Executive Officers or their respective designees (with full settlement authority) of Alkermes plc and Mural Oncology plc shall meet in person (or where necessary, by phone) at a mutually acceptable time and, if applicable, place, and thereafter as often as they reasonably deem necessary, to attempt in good faith to resolve the Dispute. Any contractual time period or deadline under this Agreement to which such Dispute relates occurring after the Dispute Notice is received shall be tolled from the date in which a dispute is initiated until the conclusion of the arbitration process as outlined in this Article VII.
+
+Section 7.2	Arbitration. Any Dispute that is not resolved pursuant to Section 7.1 within thirty (30) days after receipt of a Dispute Notice, unless such thirty (30) day period is otherwise extended by agreement of the Parties in writing, shall be resolved by final and binding arbitration pursuant to the procedures set forth in Section 8.2 of the Separation Agreement.
+
+Section 7.3	Continuity of Service and Performance. Unless otherwise agreed in writing, the Parties shall continue to provide service and honor all other commitments under this Agreement during the course of a Dispute with respect to all matters not subject to such Dispute.
+
+Section 7.4	Injunctive or Other Equity Relief. Nothing contained in this Agreement shall deny any Party the right to seek temporary injunctive relief in the context of a bona fide emergency or prospective irreparable harm in order to maintain the status quo while an arbitration initiated pursuant to Article VII is pending; provided, however, that any other relief not expressly permitted under this Section 7.4 must be pursued in accordance with Section 7.2, with all remedies being cumulative to the extent allowed by applicable Law. The Parties further agree that any action brought under this Section 7.4 shall be brought exclusively in the courts within the State of Delaware set forth in Section 10.13, and that such courts shall have personal jurisdiction over the Parties in such action.
+
+Article VIII
+LIMITATION OF LIABILITY; INDEMNIFICATION
+
+Section 8.1	Limited Liability.
+
+(a)The aggregate Liabilities of Alkermes US and its Affiliates and Representatives, collectively, under this Agreement for any act or failure to act in connection herewith (including the performance or breach of this Agreement), or from the sale, delivery, provision or use of any Services provided under or contemplated by this Agreement, whether in contract, tort (including negligence and strict liability) or otherwise, at law or equity, shall not 
+14
+
+ 
+
+exceed the aggregate amount paid and payable to Alkermes US and all other Service Providers under this Agreement.
+(b)Notwithstanding anything to the contrary contained in the Separation Agreement or this Agreement, neither Party will be liable to the other Party or any of its Affiliates or Representatives, whether in contract, tort (including negligence and strict liability) or otherwise, at law or equity, for any special, indirect, incidental, punitive or consequential damages whatsoever (including lost profits or damages calculated on multiples of earnings approaches), which in any way arise out of, relate to or are a consequence of, the performance or nonperformance of this Agreement or the provision of, or failure to provide, any Services under this Agreement, regardless of whether such Party has been notified of the possibility of, or the foreseeability of, such damages.
+(c)The limitations in this Section 8.1 will not apply with respect to any Liability arising out of, relating to or in connection with (i) any Third Party Claim to the extent a Party has an indemnification obligation to the other Party for such Liability under Section 8.3(a) or Section 8.3(b), (ii) any breach of Article IX or (iii) the gross negligence, willful misconduct or fraud of or by the Party to be charged.
+Section 8.2	Services Provided “As-Is”. EACH SERVICE PROVIDER PROVIDES ANY AND ALL SERVICES ON AN “AS-IS” BASIS AND, EXCEPT AS SET FORTH IN SECTION 2.2, MAKES NO REPRESENTATIONS OR WARRANTIES AS TO THE SERVICES PROVIDED. EACH SERVICE PROVIDER DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, IN CONNECTION WITH THIS AGREEMENT.
+
+Section 8.3	Indemnification.
+
+(a)Subject to Section 8.1, Mural US hereby agrees to indemnify, defend and hold harmless Alkermes US and its Affiliates and Representatives from and against any and all Liabilities arising from, relating to or resulting from the use of any Services provided by Alkermes US or any member of its Group hereunder by Mural US or any member of its Group, except to the extent such Liabilities arise out of Alkermes US’ or another Service Provider’s (i) breach of this Agreement, (ii) violation of Laws in providing such Services, or (iii) gross negligence or willful misconduct in providing such Services.
+(b)Subject to Section 8.1, Alkermes US hereby agrees to indemnify, defend and hold harmless Mural US and its Affiliates and Representatives from and against any and all Liabilities arising from, relating to or resulting from the provision of any Services by Alkermes US or any member of its Group hereunder to Mural US or any member of its Group, to the extent such Liabilities result from Alkermes US’ or another Service Provider’s (i) breach of this Agreement, (ii) violation of Laws in providing such Services, or (iii) gross negligence or willful misconduct in providing such Services.
+(c)The provisions of Section 6.4 of the Separation Agreement shall govern claims for indemnification under this Agreement; provided that, for purposes of this Section 8.3, 
+15
+
+ 
+
+in the event of any conflict between the provisions of Section 6.4 of the Separation Agreement and this Article VIII, the provisions of this Agreement shall control.
+(d)Indemnification pursuant to this Section 8.3 represents the Parties’ sole and exclusive remedy under this Agreement; provided that, if a Service Provider commits an error with respect to, incorrectly performs or fails to perform any Service, at Mural US’ request, without prejudice to any other rights or remedies Mural US may have, the Service Provider shall use commercially reasonable efforts to correct such error, re-perform such Service or perform such Service, as applicable, at no additional cost to Mural US. To the extent a Service Provider is unable to provide in its entirety a Service because of a partial delay which excuses performance pursuant to Section 10.7, the Service Provider shall allocate such resources and/or products as are then currently available to it and necessary for the performance of such Service ratably between the Service Provider for its own account and Mural US for the performance of such Services hereunder. Nothing in this Article VIII shall be deemed to eliminate or limit, in any respect, either Party’s express obligation in this Agreement to pay any fees, expenses or costs in accordance with the terms of this Agreement.
+Article IX
+CONFIDENTIALITY AND DATA PROTECTION
+
+Section 9.1	Confidentiality. The provisions of Sections 7.7 and 7.10 of the Separation Agreement will apply to disclosures of information made pursuant to this Agreement mutatis mutandis.
+
+Section 9.2	Data Protection. The Parties shall comply with their respective obligations under Data Protection Legislation with respect to Personal Data processed under this Agreement. To the extent Alkermes US is Processing Personal Data subject to European Data Protection Laws in the provision of the Services, the Parties shall comply with the provisions of the Data Processing Schedule set out in Schedule 9.2. The terms “Processing” and “Personal Data” shall have the meanings set out in Schedule 9.2 (Data Processing Schedule). In the event of any inconsistency or conflict between the provisions of this Agreement (including its schedules) and any of the provisions of the Data Processing Schedule, the provisions of the Data Processing Schedule shall control to the extent of such inconsistency or conflict.
+
+Article X
+MISCELLANEOUS
+
+Section 10.1	Complete Agreement; Construction. This Agreement, including the Schedules, together with the Separation Agreement and the other Ancillary Agreements, shall constitute the entire agreement between the Parties with respect to the subject matter hereof and shall supersede all previous negotiations, commitments, course of dealings and writings with respect to such subject matter. In the event and to the extent that there shall be a conflict or inconsistency between the provisions of this Agreement and any Schedule hereto, such Schedule shall control.
+
+16
+
+ 
+
+Section 10.2	Transaction Agreements. Except as expressly set forth herein, this Agreement is not intended to address, and should not be interpreted to address, the matters specifically and expressly covered by the other Transaction Agreements.
+
+Section 10.3	Consistency with Tax Treatment. The Parties agree that the entry into this Agreement and the services rendered under the terms and conditions set forth in this Agreement are intended to be consistent with the Ruling Request, the Representation Letters and the intended tax treatment of the Separation set forth in the Ruling and Tax Opinions. Notwithstanding anything to the contrary, any terms or services contemplated by this Agreement that are inconsistent with this Section 10.3 shall be void ab initio.
+
+Section 10.4	Counterparts. This Agreement may be executed in one or more counterparts, all of which shall be considered one and the same agreement and shall become effective when one or more such counterparts have been signed by each of the Parties and delivered to each of the Parties. Counterparts may be delivered via electronic mail (including pdf or any electronic signature complying with the U.S. federal ESIGN Act of 2000, e.g., www.docusign.com) or other transmission method and any counterpart so delivered shall be deemed to have been duly and validly delivered and be valid and effective for all purposes.
+
+Section 10.5	Notices. All notices, requests, claims, demands and other communications under this Agreement shall be in writing and shall be given or made (and shall be deemed to have been duly given or made upon receipt) by delivery in person, by overnight courier service, by email with receipt confirmed (followed by delivery of an original via overnight courier service) or by registered or certified mail (postage prepaid, return receipt requested) to the respective Parties at the following addresses (or at such other address for a Party as shall be specified in a notice given in accordance with this Section 10.5):
+
+17
+
+ 
+
+To Alkermes US:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alkermes, Inc.
+
+ 
+
+ 
+
+900 Winter Street
+
+ 
+
+ 
+
+Waltham, Massachusetts 02451
+
+ 
+
+ 
+
+Attn:	David Gaffin
+
+ 
+
+ 
+
+Email:
+
+ 
+
+ 
+
+ 
+
+ 
+
+with a copy (which shall not constitute notice) to:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Goodwin Procter LLP
+
+ 
+
+ 
+
+100 Northern Avenue
+
+ 
+
+ 
+
+Boston, Massachusetts 02210
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Attn:	Robert E. Puopolo
+
+ 
+
+ 
+
+ Blake Liggio
+
+ 
+
+ 
+
+ Caitlin Tompkins
+
+ 
+
+ 
+
+Email:	rpuopolo@goodwinlaw.com
+
+ 
+
+ 
+
+ bliggio@goodwinlaw.com
+
+ 
+
+ 
+
+ ctompkins@goodwinlaw.com
+
+ 
+
+To Mural US:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mural Oncology, Inc.
+
+ 
+
+ 
+
+852 Winter Street
+
+ 
+
+ 
+
+Waltham, Massachusetts 02451
+
+ 
+
+ 
+
+Attn:	Maiken Keson-Brookes
+
+ 
+
+ 
+
+Email:	 
+
+ 
+
+ 
+
+ 
+
+ 
+
+with a copy (which shall not constitute notice) to:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Goodwin Procter LLP
+
+ 
+
+ 
+
+100 Northern Avenue
+
+ 
+
+ 
+
+Boston, Massachusetts 02210
+
+ 
+
+ 
+
+Attn:	Robert E. Puopolo
+
+ 
+
+ 
+
+ Blake Liggio
+
+ 
+
+ 
+
+ Caitlin Tompkins
+
+ 
+
+ 
+
+Email:	rpuopolo@goodwinlaw.com
+
+ 
+
+ 
+
+ bliggio@goodwinlaw.com
+
+ 
+
+ 
+
+ ctompkins@goodwinlaw.com
+
+ 
+
+ 
+
+Section 10.6	Waivers. The delay or failure of either Party to exercise or enforce any of its rights under this Agreement will not constitute, or be deemed to be, a waiver of those rights, nor will any single or partial exercise of any such rights preclude any other or further exercise 
+
+18
+
+ 
+
+thereof or the exercise of any other right. No waiver of any provision of this Agreement will be effective unless it is in writing and signed by the Party against which it is being enforced.
+
+Section 10.7	Force Majeure.
+
+(a)	Neither Party hereto will be liable for delay in performance (other than the payment of money) of its obligations to the extent caused by events which could not have been foreseen and are beyond the reasonable control of the Party affected (an event of “Force Majeure”), including (i) acts of God, the elements, pandemics, epidemics, explosions, accidents, landslides, lightning, earthquakes, fires, storms (including tornadoes and hurricanes or tornado and hurricane warnings), sinkholes, floods or washouts; (ii) labor shortage or trouble including strikes or injunctions (whether or not within the reasonable control of such Party and provided that the settlement of strikes and other labor disputes shall be entirely within the discretion of the Party experiencing the difficulty); (iii) inability to obtain material, equipment or transportation; (iv) national defense requirements, war, blockades, insurrections, sabotage, terrorism, riots, arrests and restraints of the government, either federal or state, civil or military (including any governmental taking by eminent domain or otherwise); or (v) any changes in applicable Law, regulation or rule or the enforcement thereof by any Governmental Entity having jurisdiction, that limits or prevents a Party from performing its obligations hereunder or any notice from any such Governmental Entity of its intention to fine or penalize such Party or otherwise impede or limit such Party’s ability to perform its obligations hereunder.
+
+(b)	Each Service Provider shall endeavor to provide to Mural US uninterrupted Services through the Term. In the event, however, that (i) the Service Provider is wholly or partially prevented from providing a Service or Services either temporarily or permanently by reason of any Force Majeure event, or (ii) the Service Provider, in the exercise of its reasonable good faith judgment, deems it necessary to suspend delivery of a Service hereunder for purposes of inspection, maintenance, repair, replacement of equipment parts or structures, or similar activities consistent with past practices, the Service Provider shall not be obligated to deliver the affected part of such Service during such periods, and, in the case of the immediately preceding clause (ii), the Service Provider shall cooperate with Mural US with respect to the timing of such interruption. Notices provided under this Section 10.7 shall be provided to Mural US’ designees on the Transition Committee (or other executive designated in writing by Mural US in accordance with Article IV) and may be provided in accordance with Article IV.
+
+Section 10.8	Assignment. Except as provided herein, neither Party may assign any rights or delegate any obligations arising under this Agreement, in whole or in part, directly or indirectly, without the prior written consent of the other Party (such consent not to be unreasonably withheld, conditioned or delayed), and any attempt to so assign any rights or delegate any obligations arising under this Agreement without such consent shall be void. Notwithstanding the foregoing, no such consent shall be required for any such assignment or delegation (i) with respect to Alkermes US, to an Affiliate of Alkermes US (so long as such Affiliate remains an Affiliate of Alkermes US), (ii) with respect to Mural US, to an Affiliate of Mural US (so long as such Affiliate remains an Affiliate of Mural US) or (iii) to a bona fide Third Party in connection with a merger, reorganization, consolidation or the sale of all or substantially all the assets of a Party so long as the resulting, surviving or transferee entity assumes all the obligations of the assigning Party by operation of Law or pursuant to an 
+
+19
+
+ 
+
+agreement in form and substance reasonably satisfactory to the non-assigning Party; provided, however, that in the case of each of the preceding clauses (i) and (ii), no assignment permitted by this Section 10.8 shall release the assigning Party from liability for the full performance of its obligations under this Agreement.
+
+Section 10.9	Successors and Assigns. The provisions of this Agreement and the obligations and rights hereunder shall be binding upon, inure to the benefit of and be enforceable by (and against) the Parties and their respective successors (whether by merger, acquisition of assets or otherwise) and permitted assigns.
+
+Section 10.10	Third Party Beneficiaries. Except as provided in Section 8.3 with respect to Persons entitled to claim indemnification hereunder, this Agreement is solely for the benefit of the Parties and shall not be deemed to confer upon any Person other than the Parties any remedy, claim, liability, reimbursement, cause of Action or other right beyond any that exist without reference to this Agreement.
+
+Section 10.11	Titles and Headings. Titles and headings to sections herein are inserted for the convenience of reference only and are not intended to be a part of or to affect the meaning or interpretation of this Agreement.
+
+Section 10.12	Schedules. The Schedules will be construed with and as an integral part of this Agreement to the same extent as if the same had been set forth verbatim herein.
+
+Section 10.13	Governing Law. This Agreement will be governed by, construed and interpreted in accordance with the Laws of the State of Delaware, without reference to principles of conflicts of Laws. Subject to Section 7.2, each Party irrevocably consents to the exclusive jurisdiction, forum and venue of the Delaware Court of Chancery (and if the Delaware Court of Chancery shall be unavailable, any Delaware State court or the federal court sitting in the State of Delaware) over any and all claims, disputes, controversies or disagreements between the Parties under or related to this Agreement or any of the transactions contemplated hereby, including their execution, performance or enforcement, whether in contract, tort or otherwise. Each of the Parties hereby agrees that it shall not assert, and shall hereby waive, any claim or right or defense that it is not subject to the jurisdiction of such courts, that the venue is improper, that the forum is inconvenient or any similar objection, claim or argument.
+
+Section 10.14	Severability. In the event any one or more of the provisions contained in this Agreement should be held invalid, illegal or unenforceable in any respect, the validity, legality and enforceability of the remaining provisions contained herein and therein shall not in any way be affected or impaired thereby. The Parties shall endeavor in good-faith negotiations to replace the invalid, illegal or unenforceable provisions with valid provisions, the economic effect of which comes as close as possible to that of the invalid, illegal or unenforceable provisions.
+
+Section 10.15	Interpretation. Interpretation of this Agreement shall be governed by the following rules of construction: (a) words in the singular shall be held to include the plural and vice versa, and words of one gender shall be held to include the other gender as the context requires; (b) references to the terms “Section,” “paragraph,” “clause,” “Exhibit” and “Schedule” are references to the Sections, paragraphs, clauses, Exhibits and Schedules of this Agreement 
+
+20
+
+ 
+
+unless otherwise specified; (c) the terms “hereof,” “herein,” “hereby,” “hereto,” and derivative or similar words refer to this entire Agreement, including the Schedules and Exhibits hereto; (d) references to “$” shall mean U.S. dollars; (e) the word “including” and words of similar import when used in this Agreement shall mean “including without limitation,” unless otherwise specified; (f) the word “or” shall not be exclusive; (g) references to “written” or “in writing” include in electronic form; (h) unless the context requires otherwise, references to “Party” shall mean Alkermes US or Mural US, as appropriate, and references to “Parties” shall mean Alkermes US and Mural US; (i) provisions shall apply, when appropriate, to successive events and transactions; (j) the table of contents and headings contained in this Agreement are for reference purposes only and shall not affect in any way the meaning or interpretation of this Agreement; (k) Alkermes US and Mural US have each participated in the negotiation and drafting of this Agreement and if an ambiguity or question of interpretation should arise, this Agreement shall be construed as if drafted jointly by the parties and no presumption or burden of proof shall arise favoring or burdening either party by virtue of the authorship of any of the provisions in this Agreement or any interim drafts of this Agreement; and (l) a reference to any Person includes such Person’s successors and permitted assigns.
+
+Section 10.16	No Duplication; No Double Recovery. Nothing in this Agreement, the Separation Agreement or any other Ancillary Agreement is intended to confer to or impose upon any Party a duplicative right, entitlement, obligation or recovery with respect to any matter arising out of the same facts and circumstances.
+
+Section 10.17	Independent Contractor Status. Each Service Provider will be deemed to be an independent contractor to Mural US. Nothing contained in this Agreement will create or be deemed to create the relationship of employer and employee between the Service Provider and Mural US. The relationship created between the Service Provider and Mural US pursuant to or by this Agreement is not and will not be one of partnership or joint venture. No Party to this Agreement will, by reason hereof, be deemed to be a partner or a joint venture of the other Party hereto in the conduct of their respective businesses and/or the conduct of the activities contemplated by this Agreement. Except as specifically and explicitly provided in this Agreement, and subject to and in accordance with the provisions hereof, no Party to this Agreement is now, will become, or will be deemed to be an agent or representative of the other Party. Except as herein explicitly and specifically provided, neither Party shall have any authority or authorization, of any nature whatsoever, to speak for or bind the other Party to this Agreement.
+
+[Signature Page Follows]
+
+21
+
+ 
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be duly executed as of the day and year first above written.
+
+ 
+
+ 
+
+ 
+
+ALKERMES, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Iain Brown
+
+ 
+
+ 
+
+ 
+
+Name: Iain Brown
+
+ 
+
+ 
+
+ 
+
+Title: SVP, Chief Financial Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MURAL ONCOLOGY, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Caroline Loew
+
+ 
+
+ 
+
+ 
+
+Name: Caroline Loew, Ph.D.
+
+ 
+
+ 
+
+ 
+
+Title: President
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+	
+
+[Signature Page to Transition Services Agreement (Alkermes US)]

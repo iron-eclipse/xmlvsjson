@@ -1,0 +1,110 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "contract": {
+      "type": "object",
+      "required": [
+        "parties",
+        "offerAndAcceptance",
+        "consideration",
+        "intentionToCreateLegalRelations",
+        "legalityOfPurpose",
+        "certaintyOfTerms",
+        "consent",
+        "durationAndTermination",
+        "signatures"
+      ],
+      "properties": {
+        "parties": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "type": "object",
+            "required": ["name", "type", "capacity"],
+            "properties": {
+              "name": { "type": "string" },
+              "type": { "type": "string" },
+              "capacity": { "type": "string" },
+              "address": { "type": "string" }
+            }
+          }
+        },
+        "offerAndAcceptance": {
+          "type": "object",
+          "required": ["offer", "acceptance", "meetingOfMinds"],
+          "properties": {
+            "offer": { "type": "string" },
+            "acceptance": { "type": "string" },
+            "meetingOfMinds": { "type": "string" }
+          }
+        },
+        "consideration": {
+          "type": "object",
+          "required": ["description", "value"],
+          "properties": {
+            "description": { "type": "string" },
+            "value": { "type": "string" }
+          }
+        },
+        "intentionToCreateLegalRelations": { "type": "string" },
+        "legalityOfPurpose": { "type": "string" },
+        "certaintyOfTerms": {
+          "type": "object",
+          "required": ["subjectMatter", "timeForPerformance"],
+          "properties": {
+            "subjectMatter": { "type": "string" },
+            "price": { "type": "string" },
+            "timeForPerformance": { "type": "string" }
+          }
+        },
+        "consent": { "type": "string" },
+        "formAndFormalities": { "type": "string" },
+        "durationAndTermination": {
+          "type": "object",
+          "required": ["duration"],
+          "properties": {
+            "duration": { "type": "string" },
+            "terminationConditions": { "type": "string" },
+            "renewalTerms": { "type": "string" }
+          }
+        },
+        "representationsAndWarranties": { "type": "string" },
+        "indemnification": { "type": "string" },
+        "disputeResolution": {
+          "type": "object",
+          "required": ["method", "details"],
+          "properties": {
+            "method": { "type": "string" },
+            "details": { "type": "string" }
+          }
+        },
+        "governingLawAndJurisdiction": {
+          "type": "object",
+          "required": ["governingLaw", "jurisdiction"],
+          "properties": {
+            "governingLaw": { "type": "string" },
+            "jurisdiction": { "type": "string" }
+          }
+        },
+        "severability": { "type": "string" },
+        "forceMajeure": { "type": "string" },
+        "confidentiality": { "type": "string" },
+        "assignmentAndDelegation": { "type": "string" },
+        "signatures": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "type": "object",
+            "required": ["partyName", "dateSigned", "declaration"],
+            "properties": {
+              "partyName": { "type": "string" },
+              "dateSigned": { "type": "string", "format": "date" },
+              "declaration": { "type": "string" }
+            }
+          }
+        }
+      }
+    }
+  }
+}

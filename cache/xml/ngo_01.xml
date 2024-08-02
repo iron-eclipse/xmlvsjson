@@ -1,0 +1,55 @@
+<contract>
+    <parties>
+        <party>
+            <name>NGO/UN agency</name>
+            <type>First Party</type>
+            <capacity>Humanitarian activities</capacity>
+            <address></address>
+        </party>
+        <party>
+            <name>Company/agent</name>
+            <type>Second Party</type>
+            <capacity>Financial facilitator</capacity>
+            <address></address>
+        </party>
+    </parties>
+    <offerAndAcceptance>
+        <offer>The first party desires to transfer money from Turkey into Syria.</offer>
+        <acceptance>The second party agreed to facilitate these transfers.</acceptance>
+        <meetingOfMinds>Both parties acknowledge the objective to transfer funds for humanitarian aid.</meetingOfMinds>
+    </offerAndAcceptance>
+    <consideration>
+        <description>Transfer of money for humanitarian purposes</description>
+        <value>Undisclosed</value>
+    </consideration>
+    <intentionToCreateLegalRelations>This Agreement is intended to create legal obligations.</intentionToCreateLegalRelations>
+    <legalityOfPurpose>The purpose of this Agreement is legal and aimed at humanitarian assistance.</legalityOfPurpose>
+    <certaintyOfTerms>
+        <subjectMatter>Transfer of funds for humanitarian aid</subjectMatter>
+        <price></price>
+        <timeForPerformance>Commencing from the signature date, valid for a specified duration.</timeForPerformance>
+    </certaintyOfTerms>
+    <consent>Both parties consent to the terms outlined in the contract.</consent>
+    <formAndFormalities>Any amendments must be made via mutual written consent.</formAndFormalities>
+    <durationAndTermination>
+        <duration>______ months</duration>
+        <terminationConditions>Two weeks written notice required for premature termination.</terminationConditions>
+        <renewalTerms>Mutual written consent required for any renewal.</renewalTerms>
+    </durationAndTermination>
+    <disputeResolution>
+        <method>Mutually agreed mediator</method>
+        <details>Cost-sharing basis for mediation.</details>
+    </disputeResolution>
+    <signatures>
+        <signature>
+            <partyName>NGO/UN agency</partyName>
+            <dateSigned>______</dateSigned>
+            <declaration>Signed for and on behalf of the first party</declaration>
+        </signature>
+        <signature>
+            <partyName>Company/agent</partyName>
+            <dateSigned>______</dateSigned>
+            <declaration>Signed for and on behalf of the second party</declaration>
+        </signature>
+    </signatures>
+</contract>

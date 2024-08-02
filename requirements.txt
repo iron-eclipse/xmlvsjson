@@ -1,0 +1,11 @@
+xmlschema
+sentence-transformers
+scikit-learn
+numpy
+pandas
+matplotlib
+jupyter
+jsonschema
+openai
+anthropic
+lxml

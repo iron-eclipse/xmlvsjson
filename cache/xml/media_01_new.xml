@@ -1,0 +1,63 @@
+<contract>
+    <parties>
+        <party>
+            <name>Brightcast LLC</name>
+            <type>LLC</type>
+            <capacity>Media Buyer</capacity>
+            <address>2699 Pacific Coast Highway, Suite 200, Hermosa Beach, CA 90254</address>
+        </party>
+        <party>
+            <name>Eva Live Inc</name>
+            <type>Corporation</type>
+            <capacity>Company</capacity>
+        </party>
+    </parties>
+    <offerAndAcceptance>
+        <offer>The parties acknowledge that they have reached a meeting of the minds regarding the terms governing the provision of services and payment.</offer>
+        <acceptance>Both parties mutually consent to the terms outlined in this Agreement.</acceptance>
+        <meetingOfMinds>Both parties intend to be legally bound by the terms and conditions of this Agreement.</meetingOfMinds>
+    </offerAndAcceptance>
+    <consideration>
+        <description>The consideration for this Agreement shall be the revenue generated from ad spends, specifically consisting of 85% of Paid Search Revenues.</description>
+        <value>80% of Paid Search Revenues</value>
+    </consideration>
+    <intentionToCreateLegalRelations>Both parties intend to be legally bound by the terms and conditions of this Agreement.</intentionToCreateLegalRelations>
+    <legalityOfPurpose>The purpose of this Agreement is to engage the Company in media buying services in a legal manner.</legalityOfPurpose>
+    <certaintyOfTerms>
+        <subjectMatter>The subject matter of this Agreement is the media buying services as described herein.</subjectMatter>
+        <price>Fees shall be calculated as 85% of revenues.</price>
+        <timeForPerformance>Performance shall commence upon acceptance of this Agreement and continue until terminated by either party in accordance with the conditions herein.</timeForPerformance>
+    </certaintyOfTerms>
+    <consent>Both parties mutually consent to the terms outlined in this Agreement.</consent>
+    <formAndFormalities>This Agreement is documented in writing and signed by both parties.</formAndFormalities>
+    <durationAndTermination>
+        <duration>The Agreement shall be indefinite until terminated by either party with a 30 days' notice.</duration>
+        <terminationConditions>Either party may terminate this Agreement without cause by providing written notice.</terminationConditions>
+    </durationAndTermination>
+    <representationsAndWarranties>BRIGHTCAST represents that it owns the necessary intellectual property to utilize the platform relevant to this Agreement.</representationsAndWarranties>
+    <indemnification>Each party agrees to indemnify the other from claims arising from their respective acts or omissions.</indemnification>
+    <disputeResolution>
+        <method>Any disputes shall be settled through negotiation, and if unresolved, shall proceed to mediation.</method>
+        <details>Each party shall designate representatives to resolve disputes informally.</details>
+    </disputeResolution>
+    <governingLawAndJurisdiction>
+        <governingLaw>California</governingLaw>
+        <jurisdiction>state courts of California</jurisdiction>
+    </governingLawAndJurisdiction>
+    <severability>If any provision of this Agreement is found to be unenforceable, the remaining provisions shall remain in full force and effect.</severability>
+    <forceMajeure>Neither party shall be liable for delays or failure to perform due to causes beyond their reasonable control.</forceMajeure>
+    <confidentiality>Both parties agree to maintain the confidentiality of all proprietary information exchanged during the course of this Agreement.</confidentiality>
+    <assignmentAndDelegation>Neither party may assign or delegate their obligations under this Agreement without the prior written consent of the other party.</assignmentAndDelegation>
+    <signatures>
+        <signature>
+            <partyName>Brightcast LLC</partyName>
+            <dateSigned>2022-05-05</dateSigned>
+            <declaration>Signed by: Authorized Representative</declaration>
+        </signature>
+        <signature>
+            <partyName>Eva Live Inc</partyName>
+            <dateSigned>2022-05-16</dateSigned>
+            <declaration>Signed by: Phil Aspin, Director</declaration>
+        </signature>
+    </signatures>
+</contract>

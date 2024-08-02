@@ -1,0 +1,62 @@
+{
+  "contract": {
+    "parties": [
+      {
+        "name": "Sunoco LP",
+        "type": "Limited Partnership",
+        "capacity": "Parent",
+        "address": "8111 Westchester Drive, Suite 400, Dallas, TX 75225"
+      },
+      {
+        "name": "NuStar Energy L.P.",
+        "type": "Limited Partnership",
+        "capacity": "Partnership",
+        "address": "19003 IH-10 West, San Antonio, TX 78257"
+      },
+      {
+        "name": "Energy Transfer LP",
+        "type": "Limited Partnership",
+        "capacity": "ET",
+        "address": "8111 Westchester Drive, Suite 600, Dallas, TX 75225"
+      }
+    ],
+    "offerAndAcceptance": {
+      "offer": "Certain representations and warranties of ET regarding the transactions contemplated by the Merger Agreement.",
+      "acceptance": "Agreement among the Partnership, Parent, and ET.",
+      "meetingOfMinds": "Both parties intend to create a binding legal agreement."
+    },
+    "consideration": {
+      "description": "Entry into the Support Agreement as a material inducement for the merger.",
+      "value": "Implied value through mutual representations and warranties."
+    },
+    "intentionToCreateLegalRelations": "The parties intend to be legally bound by this Agreement.",
+    "legalityOfPurpose": "The Agreement is legal and is governed by the laws of Delaware.",
+    "certaintyOfTerms": {
+      "subjectMatter": "Merger contemplated by the Merger Agreement.",
+      "timeForPerformance": "Effective Time subject to conditions, around April 22, 2025."
+    },
+    "consent": "The parties have mutually consented to the terms of the Agreement.",
+    "durationAndTermination": {
+      "duration": "Automatically terminates at Support Agreement Termination Date.",
+      "terminationConditions": "Conditions outlined for termination based on occurrence of events or mutual agreement.",
+      "renewalTerms": "Subject to mutual agreement on conditions."
+    },
+    "signatures": [
+      {
+        "partyName": "NuStar Energy L.P.",
+        "dateSigned": "2024-01-22",
+        "declaration": "IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the dates indicated below."
+      },
+      {
+        "partyName": "Sunoco LP",
+        "dateSigned": "2024-01-22",
+        "declaration": "IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the dates indicated below."
+      },
+      {
+        "partyName": "Energy Transfer LP",
+        "dateSigned": "2024-01-22",
+        "declaration": "IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the dates indicated below."
+      }
+    ]
+  }
+}

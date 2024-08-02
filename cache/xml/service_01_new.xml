@@ -1,0 +1,65 @@
+<contract>
+    <parties>
+        <party>
+            <name>Alkermes, INC.</name>
+            <type>Corporation</type>
+            <capacity>Provider</capacity>
+            <address>900 Winter Street, Waltham, Massachusetts 02451</address>
+        </party>
+        <party>
+            <name>Mural Oncology, Inc.</name>
+            <type>Corporation</type>
+            <capacity>Receiver</capacity>
+            <address>852 Winter Street, Waltham, Massachusetts 02451</address>
+        </party>
+    </parties>
+    <offerAndAcceptance>
+        <offer>Alkermes US offers transition services to Mural US.</offer>
+        <acceptance>Mural US accepts to obtain the services as set forth in this Agreement.</acceptance>
+        <meetingOfMinds>The parties agree on terms for services necessary for the transition after the separation agreement.</meetingOfMinds>
+    </offerAndAcceptance>
+    <consideration>
+        <description>Provision of transition services as per Schedule.</description>
+        <value>Fees as set forth in the Transition Service Schedule.</value>
+    </consideration>
+    <intentionToCreateLegalRelations>This Agreement creates legal obligations between the Parties.</intentionToCreateLegalRelations>
+    <legalityOfPurpose>The purpose of the Agreement is legal and enforceable.</legalityOfPurpose>
+    <certaintyOfTerms>
+        <subjectMatter>Transition services related to the Oncology Business.</subjectMatter>
+        <price>Fees as set forth in the Transition Service Schedule.</price>
+        <timeForPerformance>The term is defined in the Agreement, terminable with written notice.</timeForPerformance>
+    </certaintyOfTerms>
+    <consent>The parties grant consent for the specified services and cooperation.</consent>
+    <formAndFormalities>Written agreements are required for any amendments.</formAndFormalities>
+    <durationAndTermination>
+        <duration>Starting from November 13, 2023, until services are rendered as per schedule or extended.</duration>
+        <terminationConditions>Termination can occur due to breach or material failure.</terminationConditions>
+        <renewalTerms>May renew for an additional period based on mutual agreement.</renewalTerms>
+    </durationAndTermination>
+    <representationsAndWarranties>The parties represent they have authority to enter into this Agreement.</representationsAndWarranties>
+    <indemnification>The parties agree to indemnify each other based on the specified terms.</indemnification>
+    <disputeResolution>
+        <method>Negotiations followed by arbitration if unresolved.</method>
+        <details>Disputes must be notified and resolved within a specified timeframe.</details>
+    </disputeResolution>
+    <governingLawAndJurisdiction>
+        <governingLaw>State of Delaware</governingLaw>
+        <jurisdiction>Delaware Court of Chancery</jurisdiction>
+    </governingLawAndJurisdiction>
+    <severability>If any provision is invalid, the remaining provisions remain in effect.</severability>
+    <forceMajeure>No liability for delays caused by external force majeure events.</forceMajeure>
+    <confidentiality>Parties to maintain confidentiality regarding sensitive information.</confidentiality>
+    <assignmentAndDelegation>Assignment requires mutual consent unless specified otherwise.</assignmentAndDelegation>
+    <signatures>
+        <signature>
+            <partyName>Alkermes, INC.</partyName>
+            <dateSigned>2023-11-13</dateSigned>
+            <declaration>This Agreement is accepted and duly executed.</declaration>
+        </signature>
+        <signature>
+            <partyName>Mural Oncology, Inc.</partyName>
+            <dateSigned>2023-11-13</dateSigned>
+            <declaration>This Agreement is accepted and duly executed.</declaration>
+        </signature>
+    </signatures>
+</contract>

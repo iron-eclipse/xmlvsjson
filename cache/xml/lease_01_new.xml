@@ -1,0 +1,71 @@
+<contract>
+    <parties>
+        <party>
+            <name>PARISH OF ST. JAMES, STATE OF LOUISIANA</name>
+            <type>Issuer</type>
+            <capacity>Political subdivision</capacity>
+            <address>State of Louisiana</address>
+        </party>
+        <party>
+            <name>NUSTAR LOGISTICS, L.P.</name>
+            <type>Company</type>
+            <capacity>Limited Partnership</capacity>
+            <address>State of Delaware</address>
+        </party>
+    </parties>
+    <offerAndAcceptance>
+        <offer>Lease Agreement dated as of July 1, 2010</offer>
+        <acceptance>Executed through the Second Supplemental Lease Agreement as of July 15, 2024</acceptance>
+        <meetingOfMinds>The parties agree that there has been a meeting of minds concerning the amendment of the Original Agreement with the consent of the affected parties.</meetingOfMinds>
+    </offerAndAcceptance>
+    <consideration>
+        <description>Revenue Bonds Series 2010</description>
+        <value>One Hundred Million Dollars ($100,000,000)</value>
+    </consideration>
+    <intentionToCreateLegalRelations>This agreement is made with the intention to formalize the understanding and agreement between the parties outlined herein.</intentionToCreateLegalRelations>
+    <legalityOfPurpose>The purpose of the Lease Agreement complies with the laws of the State of Louisiana.</legalityOfPurpose>
+    <certaintyOfTerms>
+        <subjectMatter>Lease of additional storage capacity at the NuStar St. James Terminal</subjectMatter>
+        <price>One Hundred Million Dollars ($100,000,000)</price>
+        <timeForPerformance>Effective on July 15, 2024</timeForPerformance>
+    </certaintyOfTerms>
+    <consent>All necessary consents for the amendment of the Original Agreement were obtained from the Trustee and the Issuer prior to the execution of this contract.</consent>
+    <formAndFormalities>This amendment is executed to comply with all required legal formalities.</formAndFormalities>
+    <durationAndTermination>
+        <duration>Indeterminate and based on the terms outlined in the Original Agreement</duration>
+        <terminationConditions>Termination conditions shall follow the default provisions as specified in the Original Agreement</terminationConditions>
+        <renewalTerms>Renewal under the same terms unless amended</renewalTerms>
+    </durationAndTermination>
+    <representationsAndWarranties>There is a confirmation of representations and warranties of the Issuer and Company as per the Original Agreement.</representationsAndWarranties>
+    <disputeResolution>
+        <method>Negotiation and mediation</method>
+        <details>All disputes to be addressed in accordance with applicable law.</details>
+    </disputeResolution>
+    <governingLawAndJurisdiction>
+        <governingLaw>Laws of the State of Louisiana</governingLaw>
+        <jurisdiction>Laws of Louisiana</jurisdiction>
+    </governingLawAndJurisdiction>
+    <severability>If any provision of this agreement is determined to be illegal or unenforceable, the remaining provisions shall continue in full force and effect.</severability>
+    <signatures>
+        <signature>
+            <partyName>PARISH OF ST. JAMES, STATE OF LOUISIANA</partyName>
+            <dateSigned>2024-07-15</dateSigned>
+            <declaration>By: Pete Dufresne, Parish President</declaration>
+        </signature>
+        <signature>
+            <partyName>NUSTAR LOGISTICS, L.P.</partyName>
+            <dateSigned>2024-07-15</dateSigned>
+            <declaration>By: Dylan A. Bramhall, Chief Financial Officer</declaration>
+        </signature>
+        <signature>
+            <partyName>NUSTAR ENERGY L.P.</partyName>
+            <dateSigned>2024-07-15</dateSigned>
+            <declaration>By: Dylan A. Bramhall, Chief Financial Officer</declaration>
+        </signature>
+        <signature>
+            <partyName>NUSTAR PIPELINE OPERATING PARTNERSHIP L.P.</partyName>
+            <dateSigned>2024-07-15</dateSigned>
+            <declaration>By: Dylan A. Bramhall, Chief Financial Officer</declaration>
+        </signature>
+    </signatures>
+</contract>

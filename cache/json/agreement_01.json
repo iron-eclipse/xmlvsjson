@@ -1,0 +1,52 @@
+{
+  "contract": {
+    "parties": [
+      {
+        "name": "Equitable Financial Life Insurance Company",
+        "type": "Company",
+        "capacity": "New York stock life insurance company",
+        "address": "1290 Avenue of the Americas, New York, New York, 10104"
+      },
+      {
+        "name": "Equitable Distributors, LLC",
+        "type": "Company",
+        "capacity": "Delaware limited liability company",
+        "address": "1290 Avenue of the Americas, New York, New York, 10104"
+      }
+    ],
+    "offerAndAcceptance": {
+      "offer": "Provision of services, personnel, property by Equitable Financial.",
+      "acceptance": "Agreement to cooperate and utilize services.",
+      "meetingOfMinds": "Both parties desire to enter this Agreement."
+    },
+    "consideration": {
+      "description": "Costs of personnel, property and services utilized.",
+      "value": "Equitable Distributors will reimburse Equitable Financial."
+    },
+    "intentionToCreateLegalRelations": "Both parties intend to formalize this Agreement with legal bindings.",
+    "legalityOfPurpose": "The contract is compliant with regulatory guidance from relevant authorities.",
+    "certaintyOfTerms": {
+      "subjectMatter": "Cooperation for services in the distribution of financial products.",
+      "timeForPerformance": "Ongoing with monthly reviews as specified.",
+      "price": "Cost based on actual expenses incurred."
+    },
+    "consent": "All provisions are agreed upon by both parties.",
+    "durationAndTermination": {
+      "duration": "Commencement from the Effective Date until terminated.",
+      "terminationConditions": "Not less than 90 days prior written notice.",
+      "renewalTerms": "May continue unless terminated by the agreed conditions."
+    },
+    "signatures": [
+      {
+        "partyName": "Equitable Financial Life Insurance Company",
+        "dateSigned": "2023-11-01",
+        "declaration": "Agreed and executed."
+      },
+      {
+        "partyName": "Equitable Distributors, LLC",
+        "dateSigned": "2023-11-01",
+        "declaration": "Agreed and executed."
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+SUPPORT AGREEMENT
+
+This SUPPORT AGREEMENT, dated as of January 22, 2024 (this “Agreement”), is entered into by and among (a) Sunoco LP, a Delaware limited partnership (“Parent”), (b) NuStar Energy L.P., a Delaware limited partnership (the “Partnership”), and (c) Energy Transfer LP, a Delaware limited partnership (“ET”). Unless the context otherwise requires, terms used and not otherwise defined herein shall have the respective meanings ascribed to them in the Merger Agreement (as defined below).
+
+RECITALS
+
+WHEREAS, concurrently with the entry into this Agreement, the Partnership, Riverwalk Logistics, L.P., a Delaware limited partnership (the “Partnership GP”) and sole general partner of the Partnership, NuStar GP, LLC, a Delaware limited liability company (“Partnership Managing GP”) and the sole general partner of the Partnership GP, Parent, Sunoco Merger Sub, LLC, a Delaware limited liability company and a direct wholly owned subsidiary of Parent (“Merger Sub”), and Sunoco GP LLC, a Delaware limited liability company (the “Parent GP”) and sole general partner of Parent, are entering into an Agreement and Plan of Merger (as it may be amended, supplemented or otherwise modified in accordance with its terms, the “Merger Agreement”), pursuant to which, upon the terms and subject to the conditions thereof, among other things, Parent will acquire the Partnership by means of a merger of Merger Sub with and into the Partnership (the “Merger”), upon consummation of which the separate limited liability company existence of Merger Sub shall cease and the Partnership shall continue its limited partnership existence under Delaware law as the surviving entity in the Merger and a subsidiary of Parent;
+
+WHEREAS, ET wholly owns the Parent GP, beneficially owns all of the issued and outstanding Parent Incentive Distribution Rights and beneficially owns 28,463,967 Parent Common Units;
+
+WHEREAS, as a condition and material inducement to the Partnership’s, Partnership GP’s and Partnership Managing GP’s willingness to enter into the Merger Agreement, the Partnership, Parent and ET are entering into this Agreement setting forth certain representations and warranties of ET and covenants and agreements of ET and its affiliates and other matters, in each case, in connection with the transactions contemplated by the Merger Agreement; and
+
+WHEREAS, ET and Parent acknowledge that the Partnership, the Partnership GP and the Partnership Managing GP are entering into the Merger Agreement in reliance in part on the representations, warranties, covenants and other agreements of ET set forth in this Agreement and would not enter into the Merger Agreement if ET and Parent did not enter into this Agreement.
+
+NOW, THEREFORE, in consideration of the foregoing and the mutual representations, warranties, covenants and agreements herein contained, and intending to be legally bound hereby, the Partnership, Parent and ET hereby agree as follows:
+
+AGREEMENT
+
+1. Term. This Agreement shall automatically terminate without further action by any of the parties hereto and shall have no further force or effect as of the earliest of (a) the Effective Time, (b) the termination of the Merger Agreement in accordance with its terms, (c) the written agreement of the Partnership, Parent and ET to terminate this Agreement, and (d) April 22, 2025 (unless as of such time Parent does not have the right to terminate the Merger Agreement pursuant to Section 7.1(b) as a result of any breach by Parent or its affiliates of the Merger Agreement or ET or Parent of this Agreement) (such earliest time being referred to herein as the “Support Agreement Termination Date”); provided, that, subject to Section 3(h) and 3(i), termination of this Agreement shall not prevent any party hereto from seeking any remedies (at law or in equity) against any other party for that party’s breach of any of the terms of this Agreement prior to the Support Agreement Termination Date.
+
+2. Representations and Warranties of ET. ET hereby represents and warrants to the Partnership, as follows:
+
+(a) ET is a duly organized, validly existing limited partnership in good standing under the laws of the jurisdiction of its organization. ET has the requisite limited partnership power and authority to enter into this Agreement. This Agreement has been duly and validly executed and delivered by ET and, assuming this Agreement constitutes the legal, valid and binding agreement of the Partnership, this Agreement constitutes the legal, valid and binding agreement of ET and is enforceable against ET in accordance with its terms, subject to the Equitable Exceptions.
+
+(b) None of the information to be supplied by or on behalf of ET or any of its affiliates (other than Parent and the Parent Subsidiaries, which information is addressed in the Merger Agreement) specifically for inclusion or incorporation by reference in (i) the Form S-4 will, at the time the Form S-4 becomes effective under the Securities Act, contain any untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary to make the statements therein not misleading or (ii) the Proxy Statement/Prospectus will, on the date it is first mailed to the Partnership Common Unit holders and at the time of the Partnership Unitholders’ Meeting, contain any untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary in order to make the statements therein, in light of the circumstances under which they were made, not misleading.
+
+(c) ET is the record and beneficial owner of (i) all of the issued and outstanding interests in Parent GP, and such interests have been duly authorized and validly issued in accordance with applicable Law and the Parent GP LLC Agreement, (ii) as of the entry into this Agreement, 28,463,967 Parent Common Units and (iii) all of the issued and outstanding Parent Incentive Distribution Rights.
+
+(d) Neither ET nor any Subsidiary of ET (other than Parent GP, Parent, Merger Sub and their respective Subsidiaries) “beneficially owns” (as such term is defined for purposes of Section 13(d) of the Exchange Act) any Partnership Common Units or Partnership Preferred Units.
+
+(e) The execution, delivery and performance by Parent, Parent GP and Merger Sub of the Merger Agreement do not and, assuming the Parent Approvals are obtained, the consummation of the transactions contemplated thereby and compliance with the provisions thereof, will not, conflict with or result in any violation of any provision of the agreement of limited partnership or certificate or other equivalent organizational document, in each case as amended or restated, of ET or the ET GP except for such losses, suspensions, limitations, impairments, conflicts, violations, defaults, terminations, cancellation, accelerations, or Liens as would not be material to ET or the ET GP.
+
+ 
+
+2
+
+(f) Neither ET nor any of its controlled affiliates (other than Parent GP, Parent, Merger Sub and their respective Subsidiaries) has employed any investment banker, broker or finder in connection with the transactions contemplated by this Agreement or the Merger Agreement who would be entitled to any fee or any commission in connection with or upon consummation of the Merger.
+
+3. Certain Covenants and Agreements of ET, Parent and the Partnership. The applicable parties hereby covenant and agree as follows:
+
+(a) New Parent Director. Prior to the Effective Time, ET shall take all necessary action so that upon and after the Effective Time the size of the current Parent GP Board is increased by one (1) member and, effective as of the Effective Time, the New Parent Director is appointed to the Parent GP Board to fill the vacancy on the Parent GP Board created by such increase. So long as the New Parent Director continues to satisfy any requirements of applicable Laws and regulations (including of the NYSE) and corporate governance polices of ET applicable to serving as a member of the Parent GP Board (applicable to all members of the Parent GP Board in their capacities as such) and complies with the provisions of the Parent Partnership Agreement and the Parent GP LLC Agreement applicable to all members of the Parent GP Board in their capacities as such, ET shall not, and shall cause its respective affiliates and Subsidiaries to not, take any action to remove the New Parent Director from the Parent GP Board (or otherwise take or refrain from taking any action having the effect of the New Parent Director not serving as a member of the Parent GP Board) for a period of 12 months following the Effective Time.
+
+(b) Regulatory Matters; Takeover Statutes; Litigation. ET shall and shall cause its Subsidiaries and affiliates (other than Parent, Parent GP, Merger Sub and their respective controlled affiliates, which entities’ obligations are set forth in the Merger Agreement), to:
+
+(i) use reasonable best efforts to promptly take, or cause to be taken, all actions to assist and cooperate with Parent and the Partnership as Parent or the Partnership may reasonably request in their efforts to: (A) obtain all necessary actions or nonactions, waivers, clearances, consents and approvals, including the Partnership Approvals and the Parent Approvals, from Governmental Authorities and make all necessary registrations, notifications and filings and take other steps as may be necessary to obtain an action or nonaction, waiver, clearance, expiration or termination of waiting period, consent or approval from, or to avoid an action or proceeding by, any Governmental Authority, in each case as promptly as practicable, (B) obtain all necessary consents, approvals or waivers from third parties other than any Governmental Authority, in each case as promptly as reasonably practicable, including by executing and delivering any additional instruments necessary to consummate the transactions contemplated by the Merger Agreement and (C) otherwise satisfy their respective obligations under Section 5.8 (Regulatory Approvals; Efforts) of the Merger Agreement;
+
+ 
+
+3
+
+(ii) as promptly as practicable, (A) make available to Parent and the Partnership such information as they may reasonably request in connection with the making or obtaining of any filings, notices, consents, approvals or other similar actions with respect to any Governmental Authority, including all information necessary for Parent to file as promptly as practicable (and in any event not more than ten (10) business days after the date hereof) an appropriate filing under the HSR Act, (B) keep Parent and the Partnership apprised of the status of matters relating to the completion of the transactions contemplated by the Merger Agreement, including promptly furnishing Parent and the Partnership with copies of notices or other communications or correspondence with any third party or any Governmental Authority (or members of their respective staffs) with respect to such transactions, and (C) permit counsel for Parent and the Partnership a reasonable opportunity to review and provide comments on any proposed communication or submission to a Governmental Authority in connection with the transactions contemplated hereby thereon, and consider in good faith the views of the other parties in connection therewith; provided, that ET may reasonably designate any competitively sensitive material provided to another party under this Section 3(b)(ii) as “Outside Counsel Only.”
+
+(iii) assist Parent and the Partnership in their efforts to satisfy the conditions to Closing identified in Section 6.1 of the Merger Agreement, including making an appropriate response to any request for information or documentary material (including any “second request” under the HSR Act) regarding the transactions contemplated by the Merger Agreement from any Governmental Authority;
+
+(iv) defend or contest and assist Parent and the Partnership in their efforts to defend or contest, including through litigation or other means, any objection to, or claims, actions or proceedings challenging, the consummation of the transactions contemplated by the Merger Agreement, and using reasonable best efforts to have vacated, lifted, reversed or overturned any Legal Restraint that is in effect and that prohibits, prevents or restricts consummation of the transactions contemplated by the Merger Agreement, including the Merger;
+
+(v) (A) notify Parent and the Partnership of any substantive communication with respect to the Merger Agreement and the transactions contemplated thereby received from any Governmental Authority, and, subject to applicable Law, permitting Parent and the Partnership to review and discuss in advance, and consider in good faith the views of Parent and the Partnership in connection with, any proposed substantive communication with respect to the Merger Agreement and the transactions contemplated thereby to any Governmental Authority, (B) promptly furnish Parent and the Partnership with copies of all substantive correspondence, filings, and written communications between it and its Representatives, on the one hand, and such Governmental Authority, on the other hand, with respect to the Merger Agreement and the transactions contemplated thereby, (C) not participate in any substantive meeting, teleconference, videoconference, or discussion with any Governmental Authority in connection with the transactions contemplated by the Merger Agreement unless it consults with Parent and the Partnership in advance and, to the extent not prohibited by such Governmental Authority, gives Parent and the Partnership the opportunity to attend and participate, and (D) furnish to Parent and the Partnership copies of all correspondence, filings, and communications (and memoranda setting forth the substance thereof) between ET and its affiliates and its Representatives (other than Parent, Parent GP, Merger Sub and their respective controlled affiliates, which shall be the obligation of Parent under the Merger Agreement), on the one hand, and any Governmental Authority or members or their respective staffs, on the other hand, with respect to any competition or antitrust matters in connection with the Merger Agreement;
+
+ 
+
+4
+
+(vi) Subject to the limitations set forth in the Merger Agreement and in this Agreement, including the proviso at the end of this Section 3(b), cause Parent and its Subsidiaries to take and assist Parent and the Partnership in taking, as applicable, any and all steps necessary to eliminate each and every impediment under any Antitrust Law that is asserted by any Governmental Authority or any other party so as to enable the parties to the Merger Agreement to consummate the Closing as promptly as reasonably practicable and, in any event, no later than the End Date; and
+
+(vii) if any takeover law may become, or may purport to be, applicable to the Merger or any other transactions contemplated by the Merger Agreement, ET and its affiliates shall grant such approvals and take such actions as are reasonably necessary so that the transactions contemplated by the Merger Agreement may be consummated as promptly as practicable on the terms contemplated thereby and otherwise act to eliminate or minimize the effects of such statute or regulation on the transactions contemplated thereby; provided, however, that notwithstanding anything else in this Section 3(b) or any other provision of this Agreement, the Merger Agreement or any other transaction document, in no event shall ET or any of its Subsidiaries or affiliates (other than Parent, Parent GP and Merger Sub and their respective controlled affiliates) have any obligation to (A) sell, divest, license, transfer or otherwise dispose of any businesses, assets, equity interest, product lines, or properties of ET or any Subsidiary or affiliate of ET (other than Parent, Parent GP and Merger Sub or any of their respective controlled affiliates) or, without limiting Section 5.8(f) of the Merger Agreement, refrain from acquiring or investing in or entering into any joint venture in respect of any businesses, assets, equity interest, product lines, or properties of any Person (whether by merger, consolidation with or purchase of a substantial portion of the assets of or the equity in, or by any other manner), (B) create, terminate, modify or amend any agreements, relationships, rights or obligations of ET or any Subsidiary or affiliate of ET (other than Parent, Parent GP and Merger Sub or any of their respective controlled affiliates), (C) take (or agree to take) any other action that would limit the freedom of action with respect to the businesses, assets or properties of ET or any Subsidiary or affiliate of ET (other than Parent, Parent GP and Merger Sub or any of their respective controlled affiliates), (D) incur or pay any consent fee, filing fee, profit sharing fee, or settlement fee (other than any such amount that is advanced or promptly reimbursed by Parent or the Partnership (it being understood and agreed that Parent hereby undertakes to advance or promptly reimburse all such amounts)), or (E) agree to or accept any requirement for ET or any Subsidiary or affiliate of ET (other than Parent, Parent GP, Merger Sub or any of their respective controlled affiliates) to provide prior notice to, or obtain prior approval from, any governmental agency, body, authority or entity with respect to a future acquisition transaction.
+
+(c) Non-Solicitation. ET shall comply with the provisions of Section 5.5 (Parent Non-Solicitation) of the Merger Agreement applicable to Parent and/or Parent GP as if such provisions were directly applicable to ET (for clarity, without modifying the definitions of Parent Acquisition Proposal and Parent Acquisition Transaction set forth therein).
+
+(d) SEC Matters. ET shall, and shall cause its controlled affiliates (other than Parent, Parent GP, Merger Sub and their respective controlled affiliates) to, use commercially reasonable efforts to promptly furnish to Parent and the Partnership all information reasonably required for inclusion in the Form S-4 and/or Proxy Statement/Prospectus contemplated by the Merger Agreement upon request, and shall cooperate to help resolve any comments to the extent related to ET or its affiliates.
+
+ 
+
+5
+
+(e) Transfer of Parent Interests. From the entry into this Agreement until the earlier of the Effective Time and the Termination Date, (i) ET shall not, directly or indirectly, transfer, pledge, sell or otherwise dispose of any interest in the Parent GP, any Parent Incentive Distribution Right or any material portion of the Parent Common Units beneficially owned by it, in either case, without the prior written consent of the Partnership (it being understood that nothing in this clause (i) shall restrict any purported transfer where, following such transfer, ET continues to beneficially own 100% of the transferred interests of Parent GP, the Parent Incentive Distribution Rights or Parent Common Units, as applicable) and (ii) ET shall not cause the Parent GP to, directly or indirectly, transfer, pledge, sell or otherwise dispose of the Parent GP Interest without the prior written consent of the Partnership.
+
+(f) Parent Incentive Distribution Rights. From the entry into this Agreement until the earlier of the Effective Time and the Termination Date, neither ET nor any of its controlled affiliates or Subsidiaries shall modify, or authorize or permit or cause to be modified, the terms of the Parent Incentive Distribution Rights in any respect, including through the making of any “IDR Reset Election” (as defined in the Parent Organizational Documents as in effect as of the entry into this Agreement), in any case, without the prior written consent of the Partnership.
+
+(g) Parent Organizational Documents. From the entry into this Agreement until the earlier of the Effective Time and the Termination Date, neither ET nor any of its affiliates or Subsidiaries shall modify, or authorize or permit or cause to be modified, the Parent Organizational Documents, except to the extent permitted by the Merger Agreement.
+
+(h) Post-Termination Liability. ET hereby acknowledges, accepts and agrees to the provisions of Section 7.2 (Effect of Termination) and Section 7.3(c) (Partnership Breakup Fee) of the Merger Agreement, in each case subject to Section 3(i). ET, Parent and the Partnership hereby acknowledge that in the event of termination of this Agreement pursuant to Section 1, this Agreement shall terminate (except for the provisions in this Section 3(h), Section 3(i) and Sections 5 through 11, which shall survive termination) and there shall be no further liability on the part of ET, Parent or the Partnership, except for liability for any Fraud with respect to the representations set forth in Section 2 or any Willful Breach of any covenant of this Agreement prior to termination hereof.
+
+(i) No Recourse Against ET Non-Recourse Parties Under Merger Agreement. Each of Parent and the Partnership acknowledge and agree that except for any remedies against ET with respect to its agreements and obligations set forth in this Agreement, none of ET or any of its Representatives, affiliates or Subsidiaries or any of its or their respective former, current or future officers, directors, partners, unitholders, limited partners, general partners, shareholders, stockholders, managers, members, affiliates, Representatives or other agents (other than Parent GP, Parent and their respective controlled affiliates) (such Persons, collectively, the “ET Non-Recourse Parties”) shall have any Liability or obligation to Parent, Parent GP, the Partnership, Partnership GP or any of their respective controlled affiliates of any nature whatsoever in connection with or under the Merger Agreement (in respect of which each of Parent, Parent GP, the Partnership and Partnership GP each acknowledge and agree that no ET Non-Recourse Party
+
+ 
+
+6
+
+is a party to or is bound by the terms thereof) unless any of the ET Non-Recourse Parties directed or caused such action or non-action in breach of this Agreement, or the transactions contemplated thereby, including any alleged breach of the Merger Agreement or failure to consummate the Merger when required by any of Parent, Parent GP or Merger Sub, and Parent, in each case, that is not directed or caused by any ET Non-Recourse Parties in breach of this Agreement; provided that, notwithstanding anything to the contrary in this paragraph or otherwise in this Agreement, the parties hereby acknowledge and agree that this Agreement shall not limit the remedies of any party or third party beneficiary under the Merger Agreement against a party to the Merger Agreement or any such party’s controlled affiliates. Parent and the Partnership, on behalf of themselves and each of their respective Representatives, controlled affiliates and Subsidiaries, hereby waive and release all claims of any such Liability and obligation.
+
+(j) Publicity. Unless otherwise required by applicable Law or by obligations pursuant to any listing agreement with or rules of any securities exchange, ET shall consult with Parent and the Partnership before issuing any press release or public statement with respect to the Merger and obtain the prior consent of Parent and the Partnership prior to making any such disclosure (such consent not to be unreasonably, withheld, conditioned or delayed) and Parent and the Partnership shall each consult with ET before issuing any press release or public statement with respect to the Merger that specifically references ET (other than a reference to ET’s ownership of Parent and/or Parent GP or any reference to the existence of this Agreement) and, subject to the requirements of applicable Law or the rules of any securities exchange, none of ET, the Partnership or Parent shall issue any such press release or public statement without the prior written consent of the other Parties. In the event any public disclosure is required by applicable Law or by obligations pursuant to any listing agreement with or rules of any securities exchange on the matters that are the subject of the foregoing sentence, ET, the Partnership or Parent will endeavor, on a basis reasonable under the circumstances, to provide a meaningful opportunity to the other parties to review and comment upon such press release or other announcement or disclosure in advance and shall give due consideration to all reasonable additions, deletions or changes suggested thereto. Notwithstanding the foregoing, each of ET, the Partnership or Parent shall be permitted to issue press releases or make public announcements or disclosure that is consistent with previous press releases, public disclosures or public statements made by a party in compliance with this Agreement and the Merger Agreement.
+
+(k) Non-Interference with Merger Agreement. From and following entry into this Agreement, ET shall not, in its capacity as the sole member of Parent GP, and shall not authorize or permit any of its Representatives (in their capacity as such) to, fail to provide any approval or consent of ET, in its capacity as the sole member of Parent GP, that is reasonably requested by Parent or Parent GP in order to permit Parent, Parent GP or Merger Sub or any of their affiliates to comply with any provision of the Merger Agreement or otherwise consummate the Merger and the transactions contemplated by the Merger Agreement. In addition, but without limiting the proviso at the end of Section 3(b), ET shall not take any actions primarily intended to interfere with the consummation of the Merger and the transactions contemplated by the Merger Agreement or otherwise primarily intended to result in Parent, Parent GP or Merger Sub breaching its obligations under the Merger Agreement or this Agreement.
+
+ 
+
+7
+
+(l) Amendment of Merger Agreement; Material Waivers. Parent covenants and agrees, without the prior written consent of ET, not to enter into any amendment to the Merger Agreement or grant any waiver under the Merger Agreement that, in either case, (i) would have a material and adverse effect on the benefits expected to be received by ET, in its capacity as an equityholder of Parent and Parent GP, in the Merger, (ii) would have the effect of increasing the obligations of or limiting any benefits or protections received by ET under this Agreement or (iii) would extend the End Date past April 22, 2025.
+
+4. Disclosure. Without limiting the terms of Section 2(b) or Section 3(d) hereof, ET hereby authorizes the Partnership and Parent to publish and disclose in any public filing made in connection with this Agreement and the Merger Agreement and the transactions contemplated hereby and thereby, including the Merger (including the Form S-4 and/or Proxy Statement/Prospectus), and in any other announcement or disclosure required by the SEC or other applicable Law, ET’s identity and ownership of its interests in Parent, Parent GP and Merger Sub and the nature of ET’s obligations under this Agreement.
+
+5. Amendment and Modification. Neither this Agreement nor any term hereof may be amended, modified or supplemented in any manner, whether by course of conduct or otherwise, except by an instrument in writing specifically designated as an amendment hereto, signed by the Partnership, Parent and ET.
+
+6. Waiver. No failure on the part of any party to exercise any power, right, privilege or remedy under this Agreement, and no delay on the part of any party in exercising any power, right, privilege or remedy under this Agreement, shall operate as a waiver of such power, right, privilege or remedy. No single or partial exercise of any such power, right, privilege or remedy shall preclude any other or further exercise thereof or of any other power, right, privilege or remedy. The rights and remedies of the parties hereunder are cumulative and are not exclusive of any rights or remedies which they would otherwise have hereunder. No provision of this Agreement may be waived, discharged or terminated other than by an instrument in writing signed by the party against whom the enforcement of such waiver, discharge or termination is sought.
+
+7. Notices. All notices and other communications hereunder shall be in writing and shall be deemed to have been duly given (a) personal delivery to the party to be notified; (b) when sent by email (in which case effectiveness shall be the time the email is sent (excluding undeliverable or other similar automated replies)) or (c) upon receipt after dispatch by registered or certified mail, postage prepaid or when delivered by a courier (with confirmation of delivery) to the party to be notified, in each case, at the following address:
+
+ 
+
+8
+
+To Parent:
+
+Sunoco LP
+
+8111 Westchester Drive, Suite 400
+
+Dallas, TX 75225
+
+Attention:  Arnold Dodderer
+
+Email:  Arnold.Dodderer@sunoco.com
+
+with copies to:
+
+Weil, Gotshal & Manges LLP
+
+767 Fifth Avenue
+
+New York, NY 10153
+
+Attention:  Michael J. Aiello
+
+       Sachin Kohli
+
+Email:  michael.aiello@weil.com
+
+  sachin.kohli@weil.com
+
+To the Partnership:
+
+NuStar Energy L.P.
+
+19003 IH-10 West
+
+San Antonio, TX 78257
+
+Attention:  Amy L. Perry
+
+Email:  Amy.Perry@nustarenergy.com
+
+with copies to:
+
+Wachtell, Lipton, Rosen & Katz
+
+51 West 52nd Street
+
+New York, NY 10019
+
+Attention:  Igor Kirman
+
+       Zachary S. Podolsky
+
+Email: IKirman@wlrk.com
+
+  ZSPodolsky@wlrk.com
+
+and
+
+Sidley Austin LLP
+
+1000 Louisiana St.
+
+Suite 6000
+
+Houston, TX 77002
+
+Attention: George J. Vlahakos
+
+Email:  gvlahakos@sidley.com
+
+ 
+
+9
+
+To ET:
+
+Energy Transfer LP
+
+8111 Westchester Drive, Suite 600
+
+Dallas, TX 75225
+
+Attention:  James M. Wright
+
+Email:  jim.wright@energytransfer.com
+
+8. Entire Agreement. This Agreement constitutes the entire agreement between the three parties hereto with respect to the subject matter hereof and supersedes all prior agreements and understandings, both written and oral (excluding, for clarity, the Confidentiality Agreement and the Merger Agreement), between the parties with respect to the subject matter hereof.
+
+9. Section Headings. Headings of the Sections of this Agreement are for convenience of the parties only and shall be given no substantive or interpretive effect whatsoever.
+
+10. Construction. (a) Each of the parties has participated in the drafting and negotiation of this Agreement. The parties agree that any rule of construction to the effect that ambiguities are to be resolved against the drafting party shall not be applied in the construction or interpretation of this Agreement and no presumption or burden of proof shall arise favoring or disfavoring any party by virtue of authorship of any of the provisions of this Agreement. (b) Whenever the context requires: the singular number shall include the plural, and vice versa; the masculine gender shall include the feminine and neuter genders; the feminine gender shall include the masculine and neuter genders; and the neuter gender shall include masculine and feminine genders. (c) The definitions contained in this Agreement are applicable to the singular as well as the plural forms of such terms and to the masculine as well as to the feminine and neuter genders of such term. (d) As used in this Agreement, the words “include” and “including,” and variations thereof, shall not be deemed to be terms of limitation, but rather shall be deemed to be followed by the words “without limitation.” (e) The words “hereof,” “herein” and “hereunder” and words of similar import when used in this Agreement shall refer to this Agreement as a whole and not to any particular provision of this Agreement, unless the context otherwise requires. (f) The term “or” is not exclusive. (g) The word “extent” in the phrase “to the extent” shall mean the degree to which a subject or other thing extends and such phrase shall not mean simply “if.” (h) All accounting terms not expressly defined in this Agreement shall have the meanings given to them under GAAP. (i) When a reference is made in this Agreement to an Article or Section, such reference shall be to an Article or Section of this Agreement unless otherwise indicated. (j) Except as otherwise indicated, all references in this Agreement to “Sections,” “Exhibits” and “Schedules” are intended to refer to Sections of this Agreement and Exhibits or Schedules to this Agreement. (k) References to any statute, law or regulation shall be deemed to refer to such statute, law or regulation as amended from time to time and to any rules, regulations or requirements promulgated thereunder. (l) Unless otherwise specified in this Agreement, all references in this Agreement to “dollars” or “$” shall mean U.S. Dollars and all amounts in this Agreement shall be paid in U.S. Dollars, and if any amounts, costs, fees or expenses incurred by any Party pursuant to this Agreement are denominated in a currency other than U.S. Dollars, to the extent applicable, the U.S. Dollar equivalent for such costs, fees and expenses shall be determined by converting such other currency to U.S. Dollars at the foreign exchange rates published in The Wall Street Journal or, if not reported
+
+ 
+
+10
+
+thereby, another authoritative source in effect at the time such amount, cost, fee or expense is incurred, and if the resulting conversion yields a number that extends beyond two (2) decimal points, rounded to the nearest penny. (m) When calculating the period of time within which, or following which, any action is to be taken pursuant to this Agreement, the date that is the reference day in calculating such period shall be excluded. References to days shall refer to calendar days unless business days are specified.
+
+11. Assignment. Neither this Agreement nor any of the rights, interests or obligations hereunder shall be assigned or delegated by any of the parties hereto without the prior written consent of the other parties. Subject to the first sentence of this Section, this Agreement shall be binding upon and shall inure to the benefit of the parties hereto and their respective successors and assigns. Any purported assignment not permitted under this Section shall be null and void.
+
+12. Governing Law. This Agreement, and all claims or causes of action (whether at Law, in contract or in tort or otherwise) that may be based upon, arise out of or relate to this Agreement or the negotiation, execution or performance hereof, shall be governed by and construed in accordance with the laws of the State of Delaware, without giving effect to any choice or conflict of law provision or rule (whether of the State of Delaware or any other jurisdiction) that would cause the application of the laws of any jurisdiction other than the State of Delaware.
+
+13. Jurisdiction; Specific Enforcement.
+
+(a) The parties agree that irreparable damage, for which monetary damages would not be an adequate remedy, would occur in the event that any of the provisions of this Agreement were not performed, or were threatened to be not performed, in accordance with their specific terms or were otherwise breached. It is accordingly agreed that, in addition to any other remedy that may be available to it at law or in equity, each of the parties shall be entitled to an injunction or injunctions or equitable relief to prevent breaches of this Agreement and to enforce specifically the terms and provisions of this Agreement exclusively in the Delaware Court of Chancery and any state appellate court therefrom within the State of Delaware (or, if the Delaware Court of Chancery declines to accept jurisdiction over a particular matter, any state or federal court within the State of Delaware), and all such rights and remedies at law or in equity shall be cumulative, except as may be limited by Section 3(h) of this Agreement. The parties further agree that no party to this Agreement shall be required to obtain, furnish or post any bond or similar instrument in connection with or as a condition to obtaining any remedy referred to in this Section 13 and each party waives any objection to the imposition of such relief or any right it may have to require the obtaining, furnishing or posting of any such bond or similar instrument. A party’s pursuit of an injunction, specific performance or other equitable remedies at any time shall not be deemed an election of remedies or waiver of the right to pursue any other right or remedy to which such party may be entitled.
+
+(b) Each of the parties hereto irrevocably agrees that any legal action or proceeding relating to or arising out of this Agreement and the rights and obligations hereunder, or for recognition and enforcement of any judgment relating to or arising out of this Agreement and the rights and obligations hereunder brought by the other party hereto or its successors or assigns, shall be brought and determined exclusively in the Delaware Court of Chancery and any state appellate court therefrom within the State of Delaware (or, if the Delaware Court of Chancery
+
+ 
+
+11
+
+declines to accept jurisdiction over a particular matter, any state or federal court within the State of Delaware). Each of the parties hereto hereby irrevocably submits with regard to any such action or proceeding for itself and in respect of its property, generally and unconditionally, to the personal jurisdiction of the aforesaid courts and agrees that it will not bring any action relating to or arising out of this Agreement or any of the transactions contemplated by this Agreement in any court other than the aforesaid courts in accordance with the first sentence of this Section 13(b). Each of the parties hereto hereby irrevocably waives, and agrees not to assert, by way of motion, as a defense, counterclaim or otherwise, in any action or proceeding with respect to this Agreement, (i) any claim that it is not personally subject to the jurisdiction of the above named courts, (ii) any claim that it or its property is exempt or immune from jurisdiction of any such court or from any legal process commenced in such courts (whether through service of notice, attachment prior to judgment, attachment in aid of execution of judgment, execution of judgment or otherwise) and (iii) to the fullest extent permitted by the applicable Law, any claim that (A) the suit, action or proceeding in such court is brought in an inconvenient forum, (B) the venue of such suit, action or proceeding is improper or (C) this Agreement, or the subject matter hereof, may not be enforced in or by such courts. To the fullest extent permitted by applicable Law, each of the parties hereto hereby consents to the service of process in accordance with Section 7; provided, however, that nothing herein shall affect the right of any party to serve legal process in any other manner permitted by Law.
+
+14. WAIVER OF JURY TRIAL. EACH OF THE PARTIES HERETO ACKNOWLEDGES AND AGREES THAT ANY CONTROVERSY WHICH MAY ARISE UNDER THIS AGREEMENT IS LIKELY TO INVOLVE COMPLICATED AND DIFFICULT ISSUES, AND THEREFORE EACH SUCH PARTY IRREVOCABLY AND UNCONDITIONALLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY ACTION OR PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY.
+
+15. Severability. Any term or provision of this Agreement which is held to be invalid or unenforceable in a court of competent jurisdiction shall be ineffective to the extent of such invalidity or unenforceability without rendering invalid or unenforceable the remaining terms and provisions of this Agreement. Upon such a determination, the parties hereto shall negotiate in good faith to modify this Agreement so as to effect the original intent of the parties hereto as closely as possible in an acceptable manner in order that the transactions contemplated hereby are consummated as originally contemplated to the fullest extent possible. If any provision of this Agreement is so broad as to be unenforceable, such provision shall be interpreted to be only so broad as is enforceable.
+
+16. Counterparts. This Agreement may be executed in two (2) or more counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument, and shall become effective when one or more counterparts have been signed by each of the parties and delivered (by telecopy, electronic delivery or otherwise) to the other parties. Signatures to this Agreement transmitted by facsimile transmission, by electronic mail in “portable document format” (“.pdf”) form, or by any other electronic means intended to preserve the original graphic and pictorial appearance of a document, will have the same effect as physical delivery of the paper document bearing the original signature.
+
+ 
+
+12
+
+The remainder of this page is intentionally left blank.
+
+ 
+
+13
+
+IN WITNESS WHEREOF, the Partnership, Parent and ET have executed this Agreement as of the date first written above.
+
+ 
+
+NUSTAR ENERGY L.P.
+By: RIVERWALK LOGISTICS, L.P., its general partner
+        
+
+ 	
+By:
+
+ 	
+NUSTAR GP, LLC, its general partner
+
+By:
+
+ 	/s/ Bradley C. Barron
+ 	
+Name: Bradley C. Barron
+
+ 	
+Title: President and Chief Executive Officer
+
+ 
+
+ 
+
+[Signature Page to Support Agreement]
+
+SUNOCO LP
+By:
+
+ 	
+SUNOCO GP LLC, its general partner
+
+By:
+
+ 	/s/ Joseph Kim
+ 	
+Name: Joseph Kim
+
+ 	
+Title: President and Chief Executive Officer
+
+ENERGY TRANSFER LP
+By:
+
+ 	
+LE GP, LLC, its general partner
+
+By:
+
+ 	/s/ Dylan A. Bramhall
+ 	
+Name: Dylan A. Bramhall
+
+ 	
+Title: EVP & Group CFO

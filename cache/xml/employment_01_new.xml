@@ -1,0 +1,65 @@
+<contract>
+    <parties>
+      <party>
+        <name>Party A (company name)</name>
+        <type>Company</type>
+        <capacity>Employer</capacity>
+        <address>Address</address>
+      </party>
+      <party>
+        <name>Party B (employee name)</name>
+        <type>Individual</type>
+        <capacity>Employee</capacity>
+        <address>Address</address>
+      </party>
+    </parties>
+    <offerAndAcceptance>
+      <offer>Party A offers to employ Party B in accordance with the Labor Law of the People’s Republic of China and relevant laws and regulations.</offer>
+      <acceptance>The Contract shall take effect from the date of confirmation by both parties.</acceptance>
+      <meetingOfMinds>Both parties agree based on principles of equality, voluntariness, legality, fairness, honesty, and credibility.</meetingOfMinds>
+    </offerAndAcceptance>
+    <consideration>
+      <description>This Contract is entered into for employment remuneration for Party B, with a monthly wage as per the Offer Letter or wage confirmation agreement.</description>
+      <value>Monthly wage as per the Offer Letter or wage confirmation agreement.</value>
+    </consideration>
+    <intentionToCreateLegalRelations>This Contract established by Party A and Party B creates legal relations binding on both parties.</intentionToCreateLegalRelations>
+    <legalityOfPurpose>The Contract is lawful and complies with national laws and regulations.</legalityOfPurpose>
+    <certaintyOfTerms>
+      <subjectMatter>Terms of employment, including working hours, duties, and remuneration.</subjectMatter>
+      <price>Monthly wage determined by negotiations and agreements.</price>
+      <timeForPerformance>Contract duration and probation period are specified herein.</timeForPerformance>
+    </certaintyOfTerms>
+    <consent>Party B consents to work and adhere to the terms set forth within the Contract.</consent>
+    <formAndFormalities>The Contract is signed through an electronic signing platform.</formAndFormalities>
+    <durationAndTermination>
+      <duration>Fixed-term labor contract.</duration>
+      <terminationConditions>Contract termination upon expiration or mutual agreement.</terminationConditions>
+      <renewalTerms>Possible renewal upon expiration with mutual agreement.</renewalTerms>
+    </durationAndTermination>
+    <representationsAndWarranties>Both parties warrant the truthfulness of the information provided regarding their identities and capabilities.</representationsAndWarranties>
+    <indemnification>Party B will indemnify Party A against any losses arising from misrepresentation.</indemnification>
+    <disputeResolution>
+      <method>Negotiation and arbitration through the local labor dispute arbitration committee.</method>
+      <details>Should negotiation fail, arbitration will be pursued according to the Labor Dispute Mediation and Arbitration Law.</details>
+    </disputeResolution>
+    <governingLawAndJurisdiction>
+      <governingLaw>Chinese laws and regulations.</governingLaw>
+      <jurisdiction>People’s court where Party A is located.</jurisdiction>
+    </governingLawAndJurisdiction>
+    <severability>If any provision is invalid, the rest of the Contract shall remain effective.</severability>
+    <forceMajeure>No specific mention in the contract text.</forceMajeure>
+    <confidentiality>Party B shall maintain confidentiality of Party A's trade secrets as per the Confidentiality Agreement.</confidentiality>
+    <assignmentAndDelegation>Neither party can assign their rights or obligations without consent from the other.</assignmentAndDelegation>
+    <signatures>
+      <signature>
+        <partyName>Party A</partyName>
+        <dateSigned>DD/MM/YY</dateSigned>
+        <declaration>Party A agrees to the Contract.</declaration>
+      </signature>
+      <signature>
+        <partyName>Party B</partyName>
+        <dateSigned>DD/MM/YY</dateSigned>
+        <declaration>Party B agrees to the terms of the Contract.</declaration>
+      </signature>
+    </signatures>
+  </contract>

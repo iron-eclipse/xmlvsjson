@@ -1,0 +1,63 @@
+<contract>
+  <parties>
+    <party>
+      <name>Brightcast LLC</name>
+      <type>LLC</type>
+      <capacity>Media Buyer</capacity>
+      <address>2699 Pacific Coast Highway, Suite 200, Hermosa Beach, CA 90254</address>
+    </party>
+    <party>
+      <name>Eva Live Inc</name>
+      <type>Corporation</type>
+      <capacity>Company</capacity>
+    </party>
+  </parties>
+  <offerAndAcceptance>
+    <offer>BRIGHTCAST wishes to engage Company to provide the Services set out herein.</offer>
+    <acceptance>Company agrees to provide the Services as described.</acceptance>
+    <meetingOfMinds>The parties agree upon terms regarding services and payment.</meetingOfMinds>
+  </offerAndAcceptance>
+  <consideration>
+    <description>Revenue generated from ad spends.</description>
+    <value>85% of Paid Search Revenues.</value>
+  </consideration>
+  <intentionToCreateLegalRelations>Yes, both parties intend to be legally bound by the Agreement.</intentionToCreateLegalRelations>
+  <legalityOfPurpose>The purpose is to engage in media buying services legally.</legalityOfPurpose>
+  <certaintyOfTerms>
+    <subjectMatter>Media buying services as described in the contract.</subjectMatter>
+    <price>Fees calculated as 85% of revenues.</price>
+    <timeForPerformance>Upon acceptance of the agreement until terminated by either party.</timeForPerformance>
+  </certaintyOfTerms>
+  <consent>Both parties mutually consent to the terms outlined in the Agreement.</consent>
+  <formAndFormalities>Agreement is in writing and signed by both parties.</formAndFormalities>
+  <durationAndTermination>
+    <duration>Indefinite until terminated by either party with 30 days' notice.</duration>
+    <terminationConditions>Either party can terminate without cause with written notice.</terminationConditions>
+  </durationAndTermination>
+  <representationsAndWarranties>BRIGHTCAST represents it owns the necessary intellectual property for the platform.</representationsAndWarranties>
+  <indemnification>Each party indemnifies the other from claims resulting from their acts or omissions.</indemnification>
+  <disputeResolution>
+    <method>Negotiation followed by mediation if unresolved.</method>
+    <details>Parties will designate representatives to resolve disputes informally.</details>
+  </disputeResolution>
+  <governingLawAndJurisdiction>
+    <governingLaw>California</governingLaw>
+    <jurisdiction>State courts of California.</jurisdiction>
+  </governingLawAndJurisdiction>
+  <severability>If any provision is found unenforceable, the remaining provisions remain in force.</severability>
+  <forceMajeure>Neither party is liable for delays due to causes beyond their control.</forceMajeure>
+  <confidentiality>Both parties agree to maintain confidentiality of proprietary information.</confidentiality>
+  <assignmentAndDelegation>Neither party may assign obligations without the prior written consent of the other.</assignmentAndDelegation>
+  <signatures>
+    <signature>
+      <partyName>Brightcast LLC</partyName>
+      <dateSigned>2022-05-05</dateSigned>
+      <declaration>Signed by authorized representative.</declaration>
+    </signature>
+    <signature>
+      <partyName>Eva Live Inc</partyName>
+      <dateSigned>2022-05-16</dateSigned>
+      <declaration>Signed by Phil Aspin, Director.</declaration>
+    </signature>
+  </signatures>
+</contract>
