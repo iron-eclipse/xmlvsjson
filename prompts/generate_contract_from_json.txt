@@ -1,34 +1,28 @@
-You are tasked with reconstructing the text of a legal contract based on an JSON schema and a corresponding JSON document. The JSON schema describes the characteristics of the contract, while the JSON document contains the specific details of an actual contract. Your goal is to recreate the original contract text as accurately as possible.
+You are tasked with converting the text of a legal contract into a JSON format. Your goal is to create a structured JSON representation that accurately captures the key elements and details of the original contract.
 
-First, carefully review the provided JSON schema:
+Examine the contract text provided below:
 
-<JSON_schema>
-{{JSON_SCHEMA}}
-</JSON_schema>
+<contract>
+{{CONTRACT}}
+</contract>
 
-Now, examine the JSON document containing the specific contract details:
+To convert the contract into JSON format, follow these steps:
 
-<JSON_document>
-{{JSON_DOCUMENT}}
-</JSON_document>
+1. Analyze the contract to identify its main components and structure.
+2. Create a JSON object that reflects the hierarchical structure of the contract.
+3. Include all relevant information from the contract, such as parties involved, dates, terms, conditions, and any specific clauses or provisions.
+4. Use appropriate JSON key names that clearly describe the content they represent.
+5. Ensure that all important details, including names, dates, amounts, and specific legal language, are accurately captured.
+6. Maintain the logical flow and structure of the original contract in your JSON representation.
 
-To reconstruct the contract text, follow these steps:
+As you work through the conversion process, you may use a <scratchpad> to organize your thoughts and plan the structure of the JSON. You can use this space to outline the main sections, note important details, or work out any complex relationships between elements.
 
-1. Analyze the JSON schema to understand the structure and elements of the contract.
-2. Identify the main sections and subsections of the contract based on the schema.
-3. Extract the relevant information from the JSON document, matching it to the corresponding elements in the schema.
-4. Use the extracted information to reconstruct each section of the contract in a logical order.
-5. Ensure that all required elements are included and properly formatted.
-6. Pay attention to any conditional elements or attributes that may affect the contract's content.
+When creating the JSON:
+- Use clear and descriptive key names.
+- Nest objects and arrays as needed to represent the contract's structure.
+- Include all relevant details from the original contract.
+- Ensure that the JSON structure allows for easy reconstruction of the original contract text.
 
-As you work through the reconstruction process, use a <scratchpad> to organize your thoughts and plan the structure of the contract. You may use this space to list the main sections, note important details, or work out any complex relationships between elements.
+Once you have completed the conversion, present the final JSON object without any additional commentary or explanations. Enclose your entire JSON output within <json_output> tags.
 
-When reconstructing the contract text:
-- Use appropriate legal language and formatting.
-- Include all relevant details from the JSON document.
-- Maintain a logical flow and structure based on the schema.
-- Ensure that all parties, dates, amounts, and other specific information are accurately represented.
-
-Once you have completed the reconstruction, present the final contract text without any additional commentary or explanations. The output should resemble a standard legal contract as closely as possible.
-
-Begin your reconstruction process now, using the <scratchpad> as needed, and provide the final reconstructed contract text as your output.
+Begin your conversion process now, using the <scratchpad> as needed, and provide the final JSON representation as your output.

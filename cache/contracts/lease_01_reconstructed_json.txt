@@ -1,107 +1,42 @@
-**CONTRACT OF AMENDMENT TO LEASE AGREEMENT**
-
-This Contract of Amendment is made and entered into by and between the following parties:
-
-**PARTIES**
-
-1. **Parish of St. James, State of Louisiana**, a political subdivision with an address in the State of Louisiana (hereinafter referred to as "Issuer").
-
-2. **NuStar Logistics, L.P.**, a limited partnership with an address in the State of Delaware (hereinafter referred to as "Company").
-
-**ADDITIONAL GUARANTORS**
-
-The following entities are recognized as Additional Guarantors under this Amendment:
-
-- **Sunoco LP**, Limited partnership, Delaware
-- **Aloha Petroleum LLC**, Limited liability company, Delaware
-- **Aloha Petroleum, Ltd.**, Corporation, Hawaii
-- **Sunmarks, LLC**, Limited liability company, Delaware
-- **Sunoco, LLC**, Limited liability company, Delaware
-- **Sunoco Midstream LLC**, Limited liability company, Delaware
-- **Sunoco Finance Corp.**, Corporation, Delaware
-- **Sunoco NLR LLC**, Limited liability company, Delaware
-- **Sunoco Refined Products LLC**, Limited liability company, Delaware
-- **Sunoco Retail LLC**, Limited liability company, Pennsylvania
-- **NuStar Energy L.P.**, Limited partnership, Delaware
-- **NuStar Pipeline Operating Partnership L.P.**, Limited partnership, Delaware
-- **NuStar Pipeline Partners L.P.**, Limited partnership, Delaware
-- **NuStar Permian Holdings, LLC**, Limited liability company, Delaware
-
-**OFFER AND ACCEPTANCE**
-
-WHEREAS, **the Issuer** hereby makes an offer to amend the Lease Agreement (the "Agreement") with regard to the terms outlined herein.
-
-AND WHEREAS, **the Company** accepts the offer through the execution and delivery of the Second Supplemental Lease Agreement.
-
-THEREFORE, the parties confirm the meeting of minds regarding the terms of amendment and additions as detailed below.
-
-**CONSIDERATION**
-
-The consideration for this amendment shall be:
-
-- **Description**: Revenue Bonds for the project
-- **Value**: $100,000,000
-
-**INTENTION TO CREATE LEGAL RELATIONS**
-
-The parties intend to create legal relations, which is demonstrated through the formal nature of this amendment.
-
-**LEGality OF PURPOSE**
-
-The purpose of this contract is legal and complies with the nature of the agreement.
-
-**CERTAINTY OF TERMS**
-
-The terms of this amendment are clear and certain as follows:
-
-- **Subject Matter**: Amendment to Lease Agreement regarding construction and storage facilities.
-- **Price**: $100,000,000
-- **Time for Performance**: This amendment shall become effective on July 15, 2024.
-
-**CONSENT**
-
-All parties hereby give their consent to the terms outlined in this amendment.
-
-**DURATION AND TERMINATION**
-
-This amendment shall remain in effect indefinitely until terminated by either party in accordance with the specified terms. Conditions for termination are not explicitly stated herein, and renewal terms are also not detailed.
-
-**REPRESENTATIONS AND WARRANTIES**
-
-Both parties confirm that the representations and warranties provided comply with the original agreement.
-
-**INDEMNIFICATION**
-
-Indemnification terms are not mentioned in the provided sections.
-
-**DISPUTE RESOLUTION**
-
-Dispute resolution methods and details are not specified in this contract.
-
-**GOVERNING LAW AND JURISDICTION**
-
-This contract shall be governed by the laws of the State of Louisiana, and any disputes arising hereunder shall be subject to the jurisdiction of the courts of the State of Louisiana.
-
-**SEVERABILITY**
-
-If any provision of this contract is found to be invalid or unenforceable, the remaining provisions shall continue to be valid and enforceable.
-
-**SIGNATURES**
-
-IN WITNESS WHEREOF, the parties hereto have executed this Contract of Amendment to Lease Agreement as of the date written below.
-
-**For Parish of St. James, State of Louisiana**  
-Date Signed: July 15, 2024  
-By: Pete Dufresne, Parish President
-
-**For NuStar Logistics, L.P.**  
-Date Signed: July 15, 2024  
-By: Dylan A. Bramhall, Chief Financial Officer
-
-**For NuStar Energy L.P.**  
-Date Signed: July 15, 2024  
-By: Dylan A. Bramhall, Chief Financial Officer
-
-**For NuStar Pipeline Operating Partnership L.P.**  
-Date Signed: July 15, 2024  
-By: Dylan A. Bramhall, Chief Financial Officer
+{
+  "contract": {
+    "parties": {
+      "party_1": {
+        "name": "Party One Name",
+        "address": "Party One Address"
+      },
+      "party_2": {
+        "name": "Party Two Name",
+        "address": "Party Two Address"
+      }
+    },
+    "effective_date": "YYYY-MM-DD",
+    "terms": {
+      "general": "General terms and conditions of the contract.",
+      "specific_clauses": [
+        {
+          "title": "Confidentiality",
+          "description": "Both parties agree to keep confidential information private."
+        },
+        {
+          "title": "Termination",
+          "description": "The conditions under which the contract may be terminated."
+        },
+        {
+          "title": "Dispute Resolution",
+          "description": "Procedures for resolving disputes that arise from the contract."
+        }
+      ]
+    },
+    "signatures": {
+      "signed_by_party_1": {
+        "name": "Party One Name",
+        "date_signed": "YYYY-MM-DD"
+      },
+      "signed_by_party_2": {
+        "name": "Party Two Name",
+        "date_signed": "YYYY-MM-DD"
+      }
+    }
+  }
+}

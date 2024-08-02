@@ -1,54 +1,244 @@
-<json_output>
-{
+<json_output>{
   "contract": {
-    "parties": [
-      {
-        "name": "SANTA CRUZ COUNTY REGIONAL TRANSPORTATION COMMISSION",
-        "type": "Commission",
-        "capacity": "Public Agency",
-        "address": "1523 Pacific Ave, Santa Cruz, CA, 95060"
-      },
-      {
+    "title": "PROFESSIONAL SERVICES AGREEMENT",
+    "contractNumber": "___________",
+    "date": {
+      "day": "______",
+      "month": "",
+      "year": "20"
+    },
+    "parties": {
+      "commission": "SANTA CRUZ COUNTY REGIONAL TRANSPORTATION COMMISSION",
+      "consultant": {
         "name": "________ ____",
-        "type": "Consultant",
-        "capacity": "Professional Service Provider",
-        "address": ""
+        "services": "__________________ (services/project name)"
       }
-    ],
-    "offerAndAcceptance": {
-      "offer": "Professional Services Agreement for unspecified services/project name",
-      "acceptance": "Agreement made and entered into this _______ day of , 20",
-      "meetingOfMinds": "Both parties agree to the terms outlined in this contract."
     },
-    "consideration": {
-      "description": "COMMISSION agrees to pay CONSULTANT for services as per attached Fee Schedule.",
-      "value": "Total payment is not to exceed $_____ for time and materials."
-    },
-    "intentionToCreateLegalRelations": "Both parties intend to create a legally binding agreement.",
-    "legalityOfPurpose": "The purpose of the contract is to provide professional services which are legal and permissible.",
-    "certaintyOfTerms": {
-      "subjectMatter": "Professional services as specified in Exhibit A: Scope of Services",
-      "price": "Not to exceed $_____ as per the Fee Schedule in Exhibit B.",
-      "timeForPerformance": "Services to commence after notification to proceed by the COMMISSION’s Contract Manager."
-    },
-    "consent": "Consent required for changes in key personnel as specified in the duties of the agreement.",
-    "durationAndTermination": {
-      "duration": "Commencement after approval with completion on (DATE).",
-      "terminationConditions": "30-day written notice for termination by COMMISSION; valid for both convenience and default.",
-      "renewalTerms": "Agreement may be extended by contract amendment."
-    },
-    "signatures": [
-      {
-        "partyName": "________ ____",
-        "dateSigned": "_____",
-        "declaration": "Authorized signatory for the Consultant."
+    "sections": {
+      "1": {
+        "title": "DUTIES",
+        "clauses": {
+          "A": {
+            "description": "CONSULTANT agrees to exercise special skill to accomplish the following results in a manner reasonably satisfactory to COMMISSION.",
+            "scope": "______________________________, as specified in Exhibit A: Scope of Services."
+          },
+          "B": {
+            "description": "CONSULTANT shall provide the personnel listed below to perform the above-specified services, designated as key personnel.",
+            "keyPersonnel": [
+              {
+                "name": "Principal in Charge",
+                "firm": "",
+                "function": ""
+              },
+              {
+                "name": "Project Manager",
+                "firm": "",
+                "function": ""
+              }
+            ]
+          },
+          "C": {
+            "description": "No person named in paragraph B shall be removed or replaced without prior written consent of COMMISSION."
+          },
+          "D": {
+            "progressReports": {
+              "1": "The CONSULTANT shall submit written progress reports with each invoice.",
+              "2": "The CONSULTANT’s Project Manager shall meet with the COMMISSION’s Contract Manager as needed."
+            }
+          }
+        }
       },
-      {
-        "partyName": "SANTA CRUZ COUNTY REGIONAL TRANSPORTATION COMMISSION",
-        "dateSigned": "_____",
-        "declaration": "Authorized signatory for the Commission."
+      "2": {
+        "title": "COMPENSATION",
+        "clauses": {
+          "A": "Total payment is not to exceed $_____ for time and materials at the rates set forth in Exhibit B: Fee Schedule.",
+          "B": "Overhead costs shall not exceed the rate set forth in the Fee Schedule.",
+          "C": "Transportation and subsistence costs shall not exceed authorized rates.",
+          "D": "Reimbursable expenses will be processed for payment upon approval.",
+          "E": {
+            "description": "Progress payments will be made based on satisfactory services provided and allowable incurred costs.",
+            "conditions": [
+              "Monthly progress payments.",
+              "Pro rata of CONSULTANT’s fixed fee will be included."
+            ]
+          },
+          "F": "No payment will be made prior to approval of any work.",
+          "G": "CONSULTANT shall not exceed milestone cost estimates without prior written approval.",
+          "H": {
+            "invoices": "Invoices must meet specific requirements including:",
+            "requirements": [
+              "Labor details",
+              "Itemized expenses",
+              "Total invoice/payment requested",
+              "Total amount previously paid",
+              "Expenditure reports",
+              "Written progress reports",
+              "Final invoice submission deadline"
+            ]
+          },
+          "I": "All salary increases that result from prevailing wage changes are reimbursable."
+        }
+      },
+      "3": {
+        "title": "TERM",
+        "description": "This Agreement shall take effect on (DATE) and shall end on (DATE), unless terminated or extended.",
+        "notes": "Not binding until fully executed."
+      },
+      "4": {
+        "title": "EARLY TERMINATION",
+        "clauses": {
+          "A": {
+            "description": "COMMISSION may terminate for convenience with 30-day notice.",
+            "payment": "Allowable costs incurred until termination."
+          },
+          "B": {
+            "description": "COMMISSION may terminate for CONSULTANT's default.",
+            "liability": "CONSULTANT may be liable for costs incurred."
+          },
+          "C": {
+            "description": "CONSULTANT may terminate with 120 days notice.",
+            "liability": "CONSULTANT may be responsible for incurred costs."
+          }
+        }
+      },
+      "5": {
+        "title": "INDEMNIFICATION",
+        "clauses": {
+          "A": "CONSULTANT shall indemnify COMMISSION against claims, demands, losses, etc.",
+          "B": "CONSULTANT agrees to pay all taxes incurred during performance."
+        }
+      },
+      "6": {
+        "title": "INSURANCE",
+        "clauses": {
+          "A": {
+            "insuranceTypes": [
+              {
+                "type": "Workers’ Compensation",
+                "conditions": "Statutorily required minimum coverage."
+              },
+              {
+                "type": "Automobile Liability Insurance",
+                "minimumLimit": "$1,000,000",
+                "description": "Coverage for all vehicles used."
+              },
+              {
+                "type": "Comprehensive General Liability Insurance",
+                "minimumLimit": "$1,000,000",
+                "coveredItems": [
+                  "bodily injury",
+                  "personal injury",
+                  "broad form property damage",
+                  "contractual liability"
+                ]
+              },
+              {
+                "type": "Professional Liability Insurance",
+                "minimumLimit": "$1,000,000"
+              }
+            ]
+          },
+          "B": {
+            "otherProvisions": [
+              "Claims-Made coverage extensions.",
+              "Add COMMISSION as additional insured."
+            ]
+          }
+        }
+      },
+      "7": {
+        "title": "COMPLIANCE WITH LAWS",
+        "description": "CONSULTANT shall comply with all applicable federal, state and local laws."
+      },
+      "8": {
+        "title": "EQUAL EMPLOYMENT OPPORTUNITY",
+        "description": "CONSULTANT shall not discriminate against any employee or applicant."
+      },
+      "9": {
+        "title": "HARASSMENT",
+        "description": "Strict prohibition of unlawful harassment."
+      },
+      "10": {
+        "title": "LICENSES",
+        "description": "Consultant warrants that all required licenses are valid and maintained."
+      },
+      "11": {
+        "title": "INDEPENDENT CONSULTANT STATUS",
+        "description": "CONSULTANT is an independent contractor."
+      },
+      "12": {
+        "title": "RETENTION AND AUDIT OF RECORDS",
+        "description": "Maintain books and records for audit purposes for 5 years."
+      },
+      "13": {
+        "title": "INSPECTION OF WORK",
+        "description": "Permit inspection of project activities during the Agreement term."
+      },
+      "14": {
+        "title": "ACKNOWLEDGMENT",
+        "description": "CONSULTANT shall acknowledge COMMISSION in all reports."
+      },
+      "15": {
+        "title": "WORK PRODUCTS",
+        "description": "All work produced belongs to the COMMISSION."
+      },
+      "16": {
+        "title": "SAFETY",
+        "description": "Consultant shall comply with OSHA and safety regulations."
+      },
+      "17": {
+        "title": "MODIFICATION OF AGREEMENT",
+        "description": "This Agreement may be modified only by written agreement."
+      },
+      "18": {
+        "title": "DISPUTES",
+        "description": "Agreement shall be construed under California law."
+      },
+      "19": {
+        "title": "AUDIT REVIEW PROCEDURES",
+        "description": "Procedures for unresolved audit issues."
+      },
+      "20": {
+        "title": "SUBCONTRACTING",
+        "description": "No work shall be subcontracted without prior authorization."
+      },
+      "21": {
+        "title": "NONASSIGNMENT",
+        "description": "The CONSULTANT shall not assign without prior consent."
+      },
+      "22": {
+        "title": "REBATES AND KICKBACKS",
+        "description": "Consultant warrants no unlawful consideration was paid."
+      },
+      "23": {
+        "title": "NOTIFICATION",
+        "description": "All notices shall be mailed certified to designated addresses."
+      },
+      "24": {
+        "title": "COMPLETE AGREEMENT",
+        "description": "This Agreement constitutes the entire Agreement.",
+        "attachments": [
+          "Exhibit A: Scope of Services",
+          "Exhibit B: Fee Schedule"
+        ]
       }
-    ]
+    },
+    "signatures": {
+      "consultant": {
+        "name": "_____________________",
+        "company": "______________",
+        "address": "___________________",
+        "telephone": "( ) __________",
+        "fax": "( ) __________",
+        "email": "________________________"
+      },
+      "commission": {
+        "name": "_____________________",
+        "title": "SANTA CRUZ COUNTY REGIONAL TRANSPORTATION COMMISSION"
+      },
+      "approvedAsToInsurance": "_________________________",
+      "approvedAsToForm": "_______________________"
+    }
   }
 }
 </json_output>

@@ -1,76 +1,160 @@
+<xml_output>
 <contract>
+    <title>SUPPORT AGREEMENT</title>
+    <date>January 22, 2024</date>
     <parties>
-        <party>
+        <party role="Parent">
             <name>Sunoco LP</name>
-            <type>Limited Partnership</type>
-            <capacity>Parent</capacity>
-            <address>8111 Westchester Drive, Suite 400, Dallas, TX 75225</address>
+            <jurisdiction>Delaware</jurisdiction>
         </party>
-        <party>
+        <party role="Partnership">
             <name>NuStar Energy L.P.</name>
-            <type>Limited Partnership</type>
-            <capacity>Partnership</capacity>
-            <address>19003 IH-10 West, San Antonio, TX 78257</address>
+            <jurisdiction>Delaware</jurisdiction>
         </party>
-        <party>
+        <party role="ET">
             <name>Energy Transfer LP</name>
-            <type>Limited Partnership</type>
-            <capacity>ET</capacity>
-            <address>8111 Westchester Drive, Suite 600, Dallas, TX 75225</address>
+            <jurisdiction>Delaware</jurisdiction>
         </party>
     </parties>
-    <offerAndAcceptance>
-        <offer>The Partnership, Parent, and ET entering into this Agreement.</offer>
-        <acceptance>Mutual representations, warranties, covenants, and intentions to be legally bound.</acceptance>
-        <meetingOfMinds>Parties acknowledge their understanding and agreement to the terms and conditions.</meetingOfMinds>
-    </offerAndAcceptance>
-    <consideration>
-        <description>Mutual representations and warranties related to the Merger Agreement.</description>
-        <value>Not specifically quantified in the contract.</value>
-    </consideration>
-    <intentionToCreateLegalRelations>Yes, the parties intend to create legal relations.</intentionToCreateLegalRelations>
-    <legalityOfPurpose>This Agreement is lawful under Delaware law.</legalityOfPurpose>
-    <certaintyOfTerms>
-        <subjectMatter>Support Agreement related to the Merger.</subjectMatter>
-        <price>Not specified</price>
-        <timeForPerformance>Effective until the Support Agreement Termination Date.</timeForPerformance>
-    </certaintyOfTerms>
-    <consent>All parties consent to the terms and conditions of the Agreement.</consent>
-    <formAndFormalities>Executed in multiple originals.</formAndFormalities>
-    <durationAndTermination>
-        <duration>Until the Support Agreement Termination Date which is April 22, 2025.</duration>
-        <terminationConditions>Termination of the Merger Agreement or mutual written agreement.</terminationConditions>
-        <renewalTerms>None specified; automatically terminates.</renewalTerms>
-    </durationAndTermination>
-    <representationsAndWarranties>ET provides certain representations and warranties.</representationsAndWarranties>
-    <indemnification>Not explicitly mentioned.</indemnification>
-    <disputeResolution>
-        <method>Injunctions and equitable relief.</method>
-        <details>Exclusively in the Delaware Court of Chancery.</details>
-    </disputeResolution>
-    <governingLawAndJurisdiction>
-        <governingLaw>State of Delaware</governingLaw>
-        <jurisdiction>Delaware Court of Chancery and state courts.</jurisdiction>
-    </governingLawAndJurisdiction>
-    <severability>Invalid provisions will not affect the remaining Agreement.</severability>
-    <forceMajeure>Not included in the Agreement.</forceMajeure>
-    <confidentiality>Not included in the Agreement.</confidentiality>
-    <assignmentAndDelegation>Neither party can assign rights without consent.</assignmentAndDelegation>
-    <signatures>
-        <signature>
-            <partyName>NuStar Energy L.P.</partyName>
-            <dateSigned>2024-01-22</dateSigned>
-            <declaration>By: Riverwalk Logistics, L.P., its general partner</declaration>
-        </signature>
-        <signature>
-            <partyName>Sunoco LP</partyName>
-            <dateSigned>2024-01-22</dateSigned>
-            <declaration>By: Sunoco GP LLC, its general partner</declaration>
-        </signature>
-        <signature>
-            <partyName>Energy Transfer LP</partyName>
-            <dateSigned>2024-01-22</dateSigned>
-            <declaration>By: LE GP, LLC, its general partner</declaration>
-        </signature>
-    </signatures>
+    <recitals>
+        <recital>
+            <text>Concurrently with the entry into this Agreement, the Partnership, Riverwalk Logistics, L.P., NuStar GP, LLC, Parent, Sunoco Merger Sub, LLC, and Sunoco GP LLC are entering into an Agreement and Plan of Merger, pursuant to which Parent will acquire the Partnership by means of a merger of Merger Sub with and into the Partnership.</text>
+        </recital>
+        <recital>
+            <text>ET wholly owns the Parent GP, beneficially owns all of the issued and outstanding Parent Incentive Distribution Rights, and beneficially owns 28,463,967 Parent Common Units.</text>
+        </recital>
+        <recital>
+            <text>The Partnership, Parent, and ET are entering into this Agreement setting forth certain representations, warranties, covenants, agreements, and other matters in connection with the transactions contemplated by the Merger Agreement.</text>
+        </recital>
+        <recital>
+            <text>ET and Parent acknowledge that the Partnership and its general partners are entering into the Merger Agreement in reliance on the representations and agreements of ET contained in this Agreement.</text>
+        </recital>
+    </recitals>
+    <agreement>
+        <section number="1" title="Term">
+            <text>This Agreement shall automatically terminate as of the earliest of the Effective Time, the termination of the Merger Agreement, the written agreement of the parties to terminate this Agreement, and April 22, 2025.</text>
+        </section>
+        <section number="2" title="Representations and Warranties of ET">
+            <subsection letter="a">
+                <text>ET is a duly organized, validly existing limited partnership in good standing under its jurisdiction; it has the requisite authority to enter into this Agreement.</text>
+            </subsection>
+            <subsection letter="b">
+                <text>The information provided by ET for inclusion in regulatory filings will not contain untrue statements of material facts.</text>
+            </subsection>
+            <subsection letter="c">
+                <text>ET owns all issued and outstanding interests in Parent GP, Parent Common Units, and Parent Incentive Distribution Rights.</text>
+            </subsection>
+            <subsection letter="d">
+                <text>ET does not beneficially own any Partnership Common Units or Partnership Preferred Units outside its affiliates.</text>
+            </subsection>
+            <subsection letter="e">
+                <text>The execution and performance of the Merger Agreement does not conflict with ET’s governing documents.</text>
+            </subsection>
+            <subsection letter="f">
+                <text>ET and affiliates have not employed any brokers or finders in connection with the transactions.</text>
+            </subsection>
+        </section>
+        <section number="3" title="Certain Covenants and Agreements of ET, Parent, and the Partnership">
+            <subsection letter="a">
+                <text>ET shall increase the size of the Parent GP Board and appoint a New Parent Director before the Effective Time.</text>
+            </subsection>
+            <subsection letter="b">
+                <text>ET shall assist Parent and the Partnership in regulatory matters and efforts to obtain necessary approvals.</text>
+            </subsection>
+            <subsection letter="c">
+                <text>ET shall comply with non-solicitation provisions related to Parent.</text>
+            </subsection>
+            <subsection letter="d">
+                <text>ET shall furnish required information for regulatory filings upon request.</text>
+            </subsection>
+            <subsection letter="e">
+                <text>ET shall not transfer its interests in the Parent GP or Parent Common Units without consent.</text>
+            </subsection>
+            <subsection letter="f">
+                <text>ET shall not modify the Parent Incentive Distribution Rights without agreement.</text>
+            </subsection>
+            <subsection letter="g">
+                <text>ET shall not modify the Parent Organizational Documents without permission.</text>
+            </subsection>
+            <subsection letter="h">
+                <text>Provisions for post-termination liability and survival of certain terms are acknowledged.</text>
+            </subsection>
+            <subsection letter="i">
+                <text>No recourse against the ET Non-Recourse Parties under the Merger Agreement is acknowledged.</text>
+            </subsection>
+            <subsection letter="j">
+                <text>Publicity concerning the Merger must be coordinated among parties.</text>
+            </subsection>
+            <subsection letter="k">
+                <text>ET shall not interfere with the Merger Agreement compliance opportunities.</text>
+            </subsection>
+            <subsection letter="l">
+                <text>Parent shall not amend the Merger Agreement materially without ET's consent.</text>
+            </subsection>
+        </section>
+        <section number="4" title="Disclosure">
+            <text>ET authorizes disclosure of its identity and ownership in relevant filings.</text>
+        </section>
+        <section number="5" title="Amendment and Modification">
+            <text>Amendments require written consent from all parties.</text>
+        </section>
+        <section number="6" title="Waiver">
+            <text>No individual waiver impacts other rights under the Agreement.</text>
+        </section>
+        <section number="7" title="Notices">
+            <text>All notices must be in writing and delivered as specified in the Agreement.</text>
+            <address>
+                <to>Parent</to>
+                <details>Sunoco LP, 8111 Westchester Drive, Suite 400, Dallas, TX 75225</details>
+            </address>
+            <address>
+                <to>Partnership</to>
+                <details>NuStar Energy L.P., 19003 IH-10 West, San Antonio, TX 78257</details>
+            </address>
+            <address>
+                <to>ET</to>
+                <details>Energy Transfer LP, 8111 Westchester Drive, Suite 600, Dallas, TX 75225</details>
+            </address>
+        </section>
+        <section number="8" title="Entire Agreement">
+            <text>This Agreement constitutes the entire agreement among the parties.</text>
+        </section>
+        <section number="9" title="Section Headings">
+            <text>Headings are for convenience purposes only.</text>
+        </section>
+        <section number="11" title="Assignment">
+            <text>No assignment without written consent; binding upon successors.</text>
+        </section>
+        <section number="12" title="Governing Law">
+            <text>The Agreement is governed by the laws of the State of Delaware.</text>
+        </section>
+        <section number="13" title="Jurisdiction; Specific Enforcement">
+            <text>Legal actions shall be exclusively brought in courts located in Delaware.</text>
+            <text>Parties waive any objection to personal jurisdiction.</text>
+        </section>
+        <section number="14" title="WAIVER OF JURY TRIAL">
+            <text>Parties waive the right to trial by jury in any legal action related to this Agreement.</text>
+        </section>
+        <section number="15" title="Severability">
+            <text>If any term is found invalid, the remaining terms remain effective.</text>
+        </section>
+        <section number="16" title="Counterparts">
+            <text>This Agreement may be executed in counterparts.</text>
+        </section>
+    </agreement>
+    <signature>
+        <party name="NuStar Energy L.P.">
+            <signatory>Bradley C. Barron</signatory>
+            <title>President and Chief Executive Officer</title>
+        </party>
+        <party name="Sunoco LP">
+            <signatory>Joseph Kim</signatory>
+            <title>President and Chief Executive Officer</title>
+        </party>
+        <party name="Energy Transfer LP">
+            <signatory>Dylan A. Bramhall</signatory>
+            <title>EVP & Group CFO</title>
+        </party>
+    </signature>
 </contract>
+</xml_output>

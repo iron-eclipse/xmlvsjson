@@ -1,64 +1,159 @@
-<contract>
+<xml_output>
+  <contract>
+    <title>MEDIA BUYING AGREEMENT</title>
+    <effectiveDate>May 5, 2022</effectiveDate>
     <parties>
-        <party>
-            <name>Brightcast LLC</name>
-            <type>LLC</type>
-            <capacity>Media Buyer</capacity>
-            <address>2699 Pacific Coast Highway, Suite 200, Hermosa Beach, CA 90254</address>
-        </party>
-        <party>
-            <name>Eva Live Inc</name>
-            <type>Corporation</type>
-            <capacity>Company</capacity>
-        </party>
+      <party>
+        <name>Brightcast LLC</name>
+        <abbreviation>BRIGHTCAST</abbreviation>
+      </party>
+      <party>
+        <name>Eva Live Inc</name>
+        <abbreviation>Company</abbreviation>
+      </party>
     </parties>
-    <offerAndAcceptance>
-        <offer>The engagement of Company to provide media buying services as specified in the Agreement.</offer>
-        <acceptance>Company agrees to provide the services set out in the Agreement.</acceptance>
-        <meetingOfMinds>The parties have mutually agreed to the terms and conditions as described in this Agreement.</meetingOfMinds>
-    </offerAndAcceptance>
-    <consideration>
-        <description>Revenue Share Fees</description>
-        <value>85% of Paid Search Revenues</value>
-    </consideration>
-    <intentionToCreateLegalRelations>Yes, the parties intend to create legally binding relations.</intentionToCreateLegalRelations>
-    <legalityOfPurpose>The purpose of this Agreement is legal and enforceable.</legalityOfPurpose>
-    <certaintyOfTerms>
-        <subjectMatter>Media Buying Agreement and associated services</subjectMatter>
-        <price>Fees paid by BRIGHTCAST to Company</price>
-        <timeForPerformance>Fees are due within ten (10) days upon receipt of payment from Oath.</timeForPerformance>
-    </certaintyOfTerms>
-    <consent>The parties consent to the terms outlined in this Agreement.</consent>
-    <formAndFormalities>Executed and signed in counterparts.</formAndFormalities>
-    <durationAndTermination>
-        <duration>Indefinite until termination by either party.</duration>
-        <terminationConditions>30 days written notice.</terminationConditions>
-        <renewalTerms>No specific terms mentioned.</renewalTerms>
-    </durationAndTermination>
-    <representationsAndWarranties>The parties represent and warrant that they have the authority to enter into this Agreement.</representationsAndWarranties>
-    <indemnification>Each party indemnifies the other from third-party claims arising from their actions.</indemnification>
-    <disputeResolution>
-        <method>Informal resolution followed by mediation.</method>
-        <details>Notification in writing and scheduling a meeting to resolve disputes.</details>
-    </disputeResolution>
-    <governingLawAndJurisdiction>
-        <governingLaw>California</governingLaw>
-        <jurisdiction>California courts</jurisdiction>
-    </governingLawAndJurisdiction>
-    <severability>If any provision is found invalid, the rest remains enforceable.</severability>
-    <forceMajeure>Neither party is liable for delays due to causes beyond their control.</forceMajeure>
-    <confidentiality>The parties agree to keep Confidential Information confidential.</confidentiality>
-    <assignmentAndDelegation>Neither party may assign or subcontract without consent from the other party.</assignmentAndDelegation>
+    <sections>
+      <section number="1" title="Appointment of Company">
+        <content>Subject to the terms and conditions of this Agreement, BRIGHTCAST wishes to engage Company to provide the Services set out herein.</content>
+      </section>
+      <section number="2" title="Services">
+        <content>The “Services” to be performed by Company shall mean the following:</content>
+        <subsection>
+          <title>2a</title>
+          <content>Company is the media buyer and is being granted permission by BRIGHTCAST to make media buys for BRIGHTCAST and/or approved affiliates of BRIGHTCAST. Ad spend targets must be mutually agreed upon in writing... </content>
+        </subsection>
+        <subsection>
+          <title>2b</title>
+          <content>Site visitors will be directed by Company to landing pages that are mutually agreed upon with BRIGHTCAST...</content>
+        </subsection>
+        <subsection>
+          <title>2c</title>
+          <content>Company will be responsible for contributing and/or funding the money for the ad spends on behalf of BRIGHTCAST.</content>
+        </subsection>
+      </section>
+      <section number="3" title="Responsibilities of BRIGHTCAST">
+        <subsection>
+          <title>3a</title>
+          <content>Revenue generated from ad spends shall be owed and paid by Oath to BRIGHTCAST pursuant to the Oath Agreement...</content>
+        </subsection>
+        <subsection>
+          <title>3b</title>
+          <content>BRIGHTCAST will provide Company with 24/7 access to a proprietary revenue reporting platform...</content>
+        </subsection>
+      </section>
+      <section number="4" title="Revenue Share Fees">
+        <content>BRIGHTCAST will pay to Company a revenue share of eighty-five percent (85%)...</content>
+      </section>
+      <section number="5" title="Clawbacks">
+        <content>Fees paid to BRIGHTCAST under the Oath Agreement with respect to poor quality traffic...</content>
+      </section>
+      <section number="6" title="Availability; Changes">
+        <content>During the Term, Company agrees to use reasonable effort to maintain, at all times, the operation and availability of the Company’s Services...</content>
+      </section>
+      <section number="7" title="Full Disclosure">
+        <content>Company agrees to provide BRIGHTCAST with full visibility into the buying tactics...</content>
+      </section>
+      <section number="8" title="Oath & Verizon Media Group Policies, Updates, and Requirements">
+        <content>BRIGHTCAST and Company agree to adhere to Oath’s and Verizon Media Group’s written policies...</content>
+      </section>
+      <section number="9" title="Traffic Quality">
+        <content>All traffic must adhere to traffic quality targets of 7 for desktop and 5 for mobile...</content>
+      </section>
+      <section number="10" title="Confidentiality">
+        <content>Company and BRIGHTCAST shall each hold the Confidential Information of the other Party in trust and confidence...</content>
+        <definition>
+          <title>Confidential Information</title>
+          <content>Any and all information, business practices, or proprietary materials not generally known...</content>
+        </definition>
+      </section>
+      <section number="11" title="Intellectual Property">
+        <content>Company acknowledges and agrees that BRIGHTCAST or its licensors are the sole owners of all BRIGHTCAST Intellectual Property...</content>
+      </section>
+      <section number="12" title="No Warranty">
+        <content>NEITHER PARTY MAKES ANY WARRANTIES OR REPRESENTATIONS...</content>
+      </section>
+      <section number="13" title="Limitation of Liability">
+        <content>UNDER NO CIRCUMSTANCES SHALL EITHER PARTY BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES...</content>
+      </section>
+      <section number="14" title="Indemnification">
+        <content>Each party will indemnify and hold harmless the other party from and against any claims or actions...</content>
+      </section>
+      <section number="15" title="Business Conduct">
+        <content>During the Term, each Party shall maintain high standards of professionalism...</content>
+      </section>
+      <section number="16" title="Term and Termination">
+        <content>The term of this Agreement shall begin the Effective Date and continue until terminated...</content>
+      </section>
+      <section number="17" title="Dispute Resolution">
+        <content>The parties will attempt in good faith to resolve informally any disputes or disagreements...</content>
+      </section>
+      <section number="18" title="Force Majeure">
+        <content>Neither party will be liable or in default for delays or failures in performance resulting from acts of God...</content>
+      </section>
+      <section number="19" title="Non-exclusive Relationship">
+        <content>BRIGHTCAST and Company are entering into a non-exclusive commercial relationship...</content>
+      </section>
+      <section number="20" title="No Assignment">
+        <content>Neither party shall have the right to assign or subcontract any obligations under this Agreement...</content>
+      </section>
+      <section number="21" title="Construction">
+        <content>The section headings in this Agreement are for convenience of reference only...</content>
+      </section>
+      <section number="22" title="Governing Law">
+        <content>The laws of the state of California will govern all disputes arising out of this Agreement...</content>
+      </section>
+      <section number="23" title="Notices">
+        <content>Notices or other communications shall be in writing and sufficient if delivered personally...</content>
+        <contacts>
+          <contact role="BRIGHTCAST">
+            <name>Brightcast LLC</name>
+            <address>2699 Pacific Coast Highway, Suite 200, Hermosa Beach, CA 90254</address>
+            <attention>Sean Moriarty</attention>
+            <email>sean@BRIGHTCAST.com</email>
+          </contact>
+          <contact role="Company">
+            <name>Eva Live Inc</name>
+            <attention>David Boulette</attention>
+            <email>dave@eva.live</email>
+          </contact>
+        </contacts>
+      </section>
+      <section number="24" title="Independent Contractors">
+        <content>The parties are independent contractors and will have no power or authority to assume...</content>
+      </section>
+      <section number="25" title="Modification; Waiver">
+        <content>No provisions of this Agreement may be modified or waived unless agreed in writing...</content>
+      </section>
+      <section number="26" title="Severability">
+        <content>If any provision of this Agreement is found to be invalid or unenforceable...</content>
+      </section>
+      <section number="27" title="Counterparts">
+        <content>This Agreement may be executed in counterparts, each of which will be deemed an original...</content>
+      </section>
+      <section number="28" title="Electronic Signatures">
+        <content>The Parties agree that electronic signatures may be utilized for execution of this Agreement...</content>
+      </section>
+      <section number="29" title="Entire Agreement">
+        <content>This Agreement constitutes the entire understanding of the Parties...</content>
+      </section>
+    </sections>
     <signatures>
-        <signature>
-            <partyName>Brightcast LLC</partyName>
-            <dateSigned>2022-05-16</dateSigned>
-            <declaration>By: Authorizing Signatory</declaration>
-        </signature>
-        <signature>
-            <partyName>Eva Live Inc</partyName>
-            <dateSigned>2022-05-16</dateSigned>
-            <declaration>By: Phil Aspin, Director</declaration>
-        </signature>
+      <signature>
+        <party>Brightcast LLC</party>
+        <signatory>
+          <name></name>
+          <title></title>
+          <date></date>
+        </signatory>
+      </signature>
+      <signature>
+        <party>Eva Live Inc</party>
+        <signatory>
+          <name>Phil Aspin</name>
+          <title>Director</title>
+          <date>16th May 2022</date>
+        </signatory>
+      </signature>
     </signatures>
-</contract>
+  </contract>
+</xml_output>

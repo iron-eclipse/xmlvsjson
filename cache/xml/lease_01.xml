@@ -1,65 +1,152 @@
-<contract>
-  <parties>
-    <party>
-      <name>PARISH OF ST. JAMES, STATE OF LOUISIANA</name>
-      <type>Issuer</type>
-      <capacity>Political subdivision</capacity>
-      <address/>
-    </party>
-    <party>
-      <name>NUSTAR LOGISTICS, L.P.</name>
-      <type>Company</type>
-      <capacity>Limited partnership</capacity>
-      <address/>
-    </party>
-  </parties>
-  <offerAndAcceptance>
-    <offer>Issuer issued its Revenue Bonds (NuStar Logistics, L.P.) Series 2010 in the original principal amount of $100,000,000.</offer>
-    <acceptance>Company desires to add Sunoco LP and other entities as additional guarantors of the Series 2010 Bonds.</acceptance>
-    <meetingOfMinds>This Second Supplemental Lease Agreement is made and entered into as of July 15, 2024.</meetingOfMinds>
-  </offerAndAcceptance>
-  <consideration>
-    <description>Issuance of Revenue Bonds to fund the acquisition of crude storage capacity.</description>
-    <value>$100,000,000</value>
-  </consideration>
-  <intentionToCreateLegalRelations>Parties intend to create a legally binding agreement.</intentionToCreateLegalRelations>
-  <legalityOfPurpose>The purpose of the agreement is legal.</legalityOfPurpose>
-  <certaintyOfTerms>
-    <subjectMatter>Lease Agreement pertaining to the Project.</subjectMatter>
-    <price>$100,000,000</price>
-    <timeForPerformance>As specified in the agreement.</timeForPerformance>
-  </certaintyOfTerms>
-  <consent>Company consents to the execution and delivery of the Second Supplemental Indenture.</consent>
-  <formAndFormalities>This Second Supplemental Lease Agreement may be executed in several counterparts.</formAndFormalities>
-  <durationAndTermination>
-    <duration>Indefinite duration until terminated as per conditions.</duration>
-    <terminationConditions>Default under the Original Agreement shall be considered a default under this Supplemental Agreement.</terminationConditions>
-    <renewalTerms>Shall form a part of the Original Agreement for all purposes.</renewalTerms>
-  </durationAndTermination>
-  <representationsAndWarranties>Representations and warranties of the Issuer and Company are confirmed as of the date of this Supplemental Lease Agreement.</representationsAndWarranties>
-  <indemnification/>
-  <disputeResolution>
-    <method>Governing law is that of the State of Louisiana.</method>
-    <details/>
-  </disputeResolution>
-  <governingLawAndJurisdiction>
-    <governingLaw>Law of the State of Louisiana</governingLaw>
-    <jurisdiction>State of Louisiana</jurisdiction>
-  </governingLawAndJurisdiction>
-  <severability>If any portion of this Agreement is found invalid, the rest remains effective.</severability>
-  <forceMajeure/>
-  <confidentiality/>
-  <assignmentAndDelegation/>
-  <signatures>
-    <signature>
-      <partyName>PARISH OF ST. JAMES, STATE OF LOUISIANA</partyName>
-      <dateSigned>2024-07-15</dateSigned>
-      <declaration>Signed by Pete Dufresne, Parish President.</declaration>
-    </signature>
-    <signature>
-      <partyName>NUSTAR LOGISTICS, L.P.</partyName>
-      <dateSigned>2024-07-15</dateSigned>
-      <declaration>Signed by Dylan A. Bramhall, Chief Financial Officer.</declaration>
-    </signature>
-  </signatures>
-</contract>
+<xml_output>
+    <contract>
+        <title>SECOND SUPPLEMENT AND AMENDMENT TO LEASE AGREEMENT</title>
+        <parties>
+            <party>
+                <name>PARISH OF ST. JAMES, STATE OF LOUISIANA</name>
+                <role>Issuer</role>
+            </party>
+            <party>
+                <name>NUSTAR LOGISTICS, L.P.</name>
+                <role>Company</role>
+            </party>
+        </parties>
+        <date>JULY 15, 2024</date>
+        <related_instruments>
+            <instrument>
+                <type>Revenue Bonds</type>
+                <amount>$100,000,000</amount>
+                <description>NuStar Logistics, L.P. Project</description>
+                <series>Series 2010</series>
+            </instrument>
+        </related_instruments>
+        <table_of_contents>
+            <article>
+                <title>ARTICLE I - DEFINITIONS AND RULES OF CONSTRUCTION</title>
+                <sections>
+                    <section>
+                        <number>1.01</number>
+                        <title>Definitions</title>
+                    </section>
+                </sections>
+            </article>
+            <article>
+                <title>ARTICLE II - ADDITION OF EXHIBIT E TO THE ORIGINAL AGREEMENT</title>
+                <sections>
+                    <section>
+                        <number>2.01</number>
+                        <title>Addition of Exhibit E</title>
+                    </section>
+                </sections>
+            </article>
+            <article>
+                <title>ARTICLE III - MISCELLANEOUS</title>
+                <sections>
+                    <section>
+                        <number>3.01</number>
+                        <title>Ratification and Confirmation</title>
+                    </section>
+                    <section>
+                        <number>3.02</number>
+                        <title>Representations and Warranties of the Issuer</title>
+                    </section>
+                    <section>
+                        <number>3.03</number>
+                        <title>Execution and Counterparts</title>
+                    </section>
+                    <section>
+                        <number>3.04</number>
+                        <title>Applicable Law</title>
+                    </section>
+                    <section>
+                        <number>3.05</number>
+                        <title>Interdependence with the Original Agreement</title>
+                    </section>
+                    <section>
+                        <number>3.06</number>
+                        <title>Severability</title>
+                    </section>
+                    <section>
+                        <number>3.07</number>
+                        <title>Dating</title>
+                    </section>
+                    <section>
+                        <number>3.08</number>
+                        <title>Indenture</title>
+                    </section>
+                    <section>
+                        <number>3.09</number>
+                        <title>Consent of Company</title>
+                    </section>
+                </sections>
+            </article>
+        </table_of_contents>
+        <witness_ether>
+            <clause>W I T N E S S E T H</clause>
+            <whereas>
+                <statement>Issuer issued its Revenue Bonds.</statement>
+                <statement>The Company desires to add Sunoco LP and additional entities as additional guarantors.</statement>
+                <statement>Trustee and Issuer consented to the amendment of the Original Agreement.</statement>
+            </whereas>
+            <now_therefore>
+                <statement>Agreement between Issuer, Company, and Guarantors.</statement>
+            </now_therefore>
+        </witness_ether>
+        <exhibits>
+            <exhibit>
+                <title>EXHIBIT A - Additional Guarantors</title>
+                <guarantors>
+                    <guarantor>Sunoco LP, a Delaware limited partnership.</guarantor>
+                    <guarantor>Aloha Petroleum LLC, a Delaware limited liability company.</guarantor>
+                    <guarantor>Aloha Petroleum, Ltd., a Hawaii corporation.</guarantor>
+                    <guarantor>Sunmarks, LLC, a Delaware limited liability company.</guarantor>
+                    <guarantor>Sunoco, LLC, a Delaware limited liability company.</guarantor>
+                    <guarantor>Sunoco Midstream LLC, a Delaware limited liability company.</guarantor>
+                    <guarantor>Sunoco Finance Corp., a Delaware corporation.</guarantor>
+                    <guarantor>Sunoco NLR LLC, a Delaware limited liability company.</guarantor>
+                    <guarantor>Sunoco Refined Products LLC, a Delaware limited liability company.</guarantor>
+                    <guarantor>Sunoco Retail LLC, a Pennsylvania limited liability company.</guarantor>
+                    <guarantor>NuStar Energy L.P., a Delaware limited partnership.</guarantor>
+                    <guarantor>NuStar Logistics, L.P., a Delaware limited partnership.</guarantor>
+                    <guarantor>NuStar Pipeline Operating Partnership L.P., a Delaware limited partnership.</guarantor>
+                    <guarantor>NuStar Pipeline Partners L.P., a Delaware limited partnership.</guarantor>
+                    <guarantor>NuStar Permian Holdings, LLC, a Delaware limited liability company.</guarantor>
+                </guarantors>
+            </exhibit>
+        </exhibits>
+        <signatures>
+            <signature>
+                <party>PARISH OF ST. JAMES, STATE OF LOUISIANA</party>
+                <signatory>
+                    <name>Pete Dufresne</name>
+                    <title>Parish President</title>
+                </signatory>
+                <attest>
+                    <name>Linda Hubbell</name>
+                    <title>Secretary, Parish Council</title>
+                </attest>
+            </signature>
+            <signature>
+                <party>NUSTAR LOGISTICS, L.P.</party>
+                <signatory>
+                    <name>Dylan A. Bramhall</name>
+                    <title>Chief Financial Officer</title>
+                </signatory>
+            </signature>
+            <signature>
+                <party>NUSTAR ENERGY L.P.</party>
+                <signatory>
+                    <name>Dylan A. Bramhall</name>
+                    <title>Chief Financial Officer</title>
+                </signatory>
+            </signature>
+            <signature>
+                <party>NUSTAR PIPELINE OPERATING PARTNERSHIP L.P.</party>
+                <signatory>
+                    <name>Dylan A. Bramhall</name>
+                    <title>Chief Financial Officer</title>
+                </signatory>
+            </signature>
+        </signatures>
+    </contract>
+</xml_output>

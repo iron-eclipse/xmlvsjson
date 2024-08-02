@@ -1,65 +1,161 @@
+```xml_output
 <contract>
+    <title>Sample Contract</title>
+    <contractNumber>Contract No.___________</contractNumber>
+    <agreementType>PROFESSIONAL SERVICES AGREEMENT</agreementType>
     <parties>
         <party>
             <name>SANTA CRUZ COUNTY REGIONAL TRANSPORTATION COMMISSION</name>
-            <type>Commission</type>
-            <capacity>Public Authority</capacity>
-            <address>Santa Cruz County Regional Transportation Commission, 1523 Pacific Ave, Santa Cruz, CA 95060</address>
+            <role>COMMISSION</role>
         </party>
         <party>
-            <name>CONSULTANT</name>
-            <type>Consultant</type>
-            <capacity>Professional Service Provider</capacity>
-            <address>________ (Address not provided)</address>
+            <name>________ ____</name>
+            <role>CONSULTANT</role>
         </party>
     </parties>
-    <offerAndAcceptance>
-        <offer>This Agreement serves as a Professional Services Agreement for specific services or projects as referenced in the contract.</offer>
-        <acceptance>Both parties acknowledge and consent to the terms and conditions as outlined herein.</acceptance>
-        <meetingOfMinds>The parties have reached a mutual understanding and agreement of the terms laid out in this document.</meetingOfMinds>
-    </offerAndAcceptance>
-    <consideration>
-        <description>Payment for professional services rendered by the CONSULTANT.</description>
-        <value>Not to exceed $_____ for time and materials as per Exhibit B - Fee Schedule.</value>
-    </consideration>
-    <intentionToCreateLegalRelations>Both parties intend for this Agreement to create legal obligations.</intentionToCreateLegalRelations>
-    <legalityOfPurpose>The purpose of this Agreement complies with all applicable laws and regulations.</legalityOfPurpose>
-    <certaintyOfTerms>
-        <subjectMatter>Scope of Services as laid out in Exhibit A.</subjectMatter>
-        <price>Not to exceed $_____.</price>
-        <timeForPerformance>This Agreement shall commence upon approval and notification to proceed.</timeForPerformance>
-    </certaintyOfTerms>
-    <consent>CONSULTANT shall obtain written consent for any changes to key personnel as specified.</consent>
-    <formAndFormalities>This Agreement constitutes the entire agreement between the parties and is binding upon execution.</formAndFormalities>
-    <durationAndTermination>
-        <duration>This Agreement shall take effect on (DATE) and end on (DATE).</duration>
-        <terminationConditions>Termination by either party with a written notice as specified.</terminationConditions>
-        <renewalTerms>Renewal shall be documented by written agreement from both parties.</renewalTerms>
-    </durationAndTermination>
-    <representationsAndWarranties>Each party represents that they have the authority to enter into this Agreement.</representationsAndWarranties>
-    <indemnification>CONSULTANT shall indemnify and hold harmless COMMISSION from any claims arising from negligence.</indemnification>
-    <disputeResolution>
-        <method>Dispute resolution via a committee of the COMMISSION's Contract Manager and Executive Director.</method>
-        <details>Unresolved disputes may be reviewed by the COMMISSION GOVERNING BOARD.</details>
-    </disputeResolution>
-    <governingLawAndJurisdiction>
-        <governingLaw>State of California</governingLaw>
-        <jurisdiction>Jurisdiction in the courts in California.</jurisdiction>
-    </governingLawAndJurisdiction>
-    <severability>If any provision is found to be invalid, the remainder will still be enforceable.</severability>
-    <forceMajeure>Neither party shall be liable for failure to perform due to unforeseen circumstances.</forceMajeure>
-    <confidentiality>All proprietary information obtained during this Agreement shall remain confidential.</confidentiality>
-    <assignmentAndDelegation>CONSULTANT cannot assign this Agreement without prior written consent from COMMISSION.</assignmentAndDelegation>
+    <services>
+        <projectName>__________________ (services/project name)</projectName>
+    </services>
+    <sections>
+        <section number="1" title="DUTIES">
+            <subsection letter="A">
+                <text>CONSULTANT agrees to exercise special skill to accomplish the following results in a manner reasonably satisfactory to COMMISSION: ______________________________, as specified in Exhibit A: Scope of Services, which by this reference is incorporated herein.</text>
+            </subsection>
+            <subsection letter="B">
+                <text>CONSULTANT shall provide the personnel listed below to perform the above-specified services, which persons are hereby designated as key personnel under this Agreement.</text>
+                <keyPersonnel>
+                    <person>
+                        <name>Principal in Charge</name>
+                        <firm/>
+                        <function/>
+                    </person>
+                    <person>
+                        <name>Project Manager</name>
+                        <firm/>
+                        <function/>
+                    </person>
+                </keyPersonnel>
+            </subsection>
+            <subsection letter="C">
+                <text>No person named in paragraph B of this Section, or his or her successor, shall be removed or replaced by CONSULTANT, nor shall his or her agreed-upon function hereunder be changed, without the prior written consent of COMMISSION. Such consent shall not be unreasonably withheld.</text>
+            </subsection>
+            <subsection letter="D">
+                <text>CONSULTANT’S PROGRESS REPORTS AND/OR MEETINGS</text>
+                <reportRequirements>
+                    <requirement>
+                        <text>The CONSULTANT shall submit written progress reports with each invoice. The report should be sufficiently detailed for the Contract Manager to determine if the CONSULTANT is performing to expectations or is on schedule; to provide communication of interim findings; and to sufficiently address any difficulties or special problems encountered, so remedies can be developed.</text>
+                    </requirement>
+                    <requirement>
+                        <text>The CONSULTANT’s Project Manager shall meet with the COMMISSION’s Contract Manager, as needed, to discuss progress on the contract.</text>
+                    </requirement>
+                </reportRequirements>
+            </subsection>
+        </section>
+        <section number="2" title="COMPENSATION">
+            <compensationDetails>
+                <subsection letter="A">
+                    <text>Total payment is not to exceed $_____ for time and materials at the rates and conditions set forth in Exhibit B: Fee Schedule, which by this reference is incorporated herein.</text>
+                </subsection>
+                <subsection letter="B">
+                    <text>In no event, will the CONSULTANT be reimbursed for overhead costs at a rate that exceeds the overhead rate set forth in the Fee Schedule.</text>
+                </subsection>
+                <subsection letter="C">
+                    <text>Transportation and subsistence costs shall not exceed the rates authorized to employees under current U.S. General Service Administration rules.</text>
+                </subsection>
+                <subsection letter="D">
+                    <text>Reimbursable expenses will be billed by CONSULTANT and processed for payment upon approval of the Contract Manager.</text>
+                </subsection>
+                <subsection letter="E">
+                    <text>Progress payments will be made no less than monthly in arrears based on satisfactory services provided and actual allowable incurred costs.</text>
+                </subsection>
+                <subsection letter="F">
+                    <text>No payment will be made prior to approval of any work, nor for any work performed prior to approval of this Agreement.</text>
+                </subsection>
+                <subsection letter="G">
+                    <text>CONSULTANT shall not exceed milestone cost estimates as shown in Exhibit B, except with the prior written approval of the Contract Manager.</text>
+                </subsection>
+                <subsection letter="H">
+                    <text>The CONSULTANT will be reimbursed after receipt by the COMMISSION’s Contract Manager of itemized invoices.</text>
+                    <invoiceRequirements>
+                        <requirement>Labor (staff name, hours charged, hourly billing rate, current charges and cumulative charges) performed during the billing period by task;</requirement>
+                        <requirement>Itemized expenses incurred during the billing period;</requirement>
+                        <requirement>Total invoice/payment requested;</requirement>
+                        <requirement>Total amount previously paid under this Agreement;</requirement>
+                        <requirement>Report of expenditures by CONSULTANT and subconsultants for each task and subtask or milestone and estimated percentage completion by such divisions of work;</requirement>
+                        <requirement>Written progress reports in a mutually agreed format;</requirement>
+                        <requirement>CONSULTANT's final invoice must be submitted within 60-calendar days after acceptance of the CONSULTANT’s work by the Contract Manager.</requirement>
+                    </invoiceRequirements>
+                </subsection>
+                <subsection letter="I">
+                    <text>For personnel subject to prevailing wage rates as described in the California Labor Code, all salary increases, which are the direct result of changes in the prevailing wage rates are reimbursable.</text>
+                </subsection>
+            </compensationDetails>
+        </section>
+        <section number="3" title="TERM">
+            <text>This Agreement shall take effect on (DATE); contingent upon prior approval by the COMMISSION governing board, and the CONSULTANT shall commence work after notification to proceed by the COMMISSION’S Contract Manager. The Agreement shall end on (DATE), unless earlier terminated or extended by contract amendment.</text>
+        </section>
+        <section number="4" title="EARLY TERMINATION">
+            <subsection letter="A">
+                <text>COMMISSION may terminate this Agreement for its convenience any time, in whole or part, by giving CONSULTANT thirty-day (30-day) written notice thereof.</text>
+            </subsection>
+            <subsection letter="B">
+                <text>COMMISSION may terminate this Agreement for CONSULTANT's default if certain conditions are met, including failure to cure any breach within ten (10) days after written notice.</text>
+            </subsection>
+            <subsection letter="C">
+                <text>CONSULTANT may terminate this Agreement by giving the COMMISSION at least one hundred and twenty (120) days advance written notice.</text>
+            </subsection>
+        </section>
+        <section number="5" title="INDEMNIFICATION FOR DAMAGES, TAXES AND CONTRIBUTIONS">
+            <subsection letter="A">
+                <text>CONSULTANT shall indemnify, defend, and hold harmless the COMMISSION from claims arising out of CONSULTANT’S negligence.</text>
+            </subsection>
+            <subsection letter="B">
+                <text>CONSULTANT shall be responsible for any necessary Federal, State, and Local taxes.</text>
+            </subsection>
+        </section>
+        <section number="6" title="INSURANCE">
+            <text>CONSULTANT shall obtain and maintain minimum insurance coverage as specified.</text>
+            <coverageRequirements>
+                <coverage type="Workers’ Compensation">
+                    <minLimit>Minimum statutorily required coverage amounts</minLimit>
+                </coverage>
+                <coverage type="Automobile Liability Insurance">
+                    <minLimit>$1,000,000 combined single limit per occurrence</minLimit>
+                </coverage>
+                <coverage type="Comprehensive or Commercial General Liability Insurance">
+                    <minLimit>$1,000,000 combined single limit (CSL)</minLimit>
+                </coverage>
+                <coverage type="Professional Liability Insurance">
+                    <minLimit>$1,000,000 combined single limit</minLimit>
+                </coverage>
+            </coverageRequirements>
+        </section>
+        <!-- Additional sections can be structured similarly -->
+        <section number="24" title="COMPLETE AGREEMENT">
+            <subsection letter="A">
+                <text>This Agreement constitutes the entire Agreement made in duplicate between the two parties.</text>
+            </subsection>
+            <subsection letter="B">
+                <text>The Executive Director of COMMISSION shall have the authority to act for and exercise rights under this Agreement.</text>
+            </subsection>
+            <subsection letter="C">
+                <text>This Agreement includes all exhibits, attachments, and documents which constitute the complete statement of terms and conditions.</text>
+            </subsection>
+        </section>
+    </sections>
+    <attachments>
+        <attachment>Exhibit A: Scope of Services</attachment>
+        <attachment>Exhibit B: Fee Schedule</attachment>
+    </attachments>
     <signatures>
-        <signature>
-            <partyName>CONSULTANT</partyName>
-            <dateSigned>_______ (Date not provided)</dateSigned>
-            <declaration>This Agreement is executed by the duly authorized representatives.</declaration>
+        <signature role="CONSULTANT">
+            <name>__________________________</name>
         </signature>
-        <signature>
-            <partyName>SANTA CRUZ COUNTY REGIONAL TRANSPORTATION COMMISSION</partyName>
-            <dateSigned>_______ (Date not provided)</dateSigned>
-            <declaration>This Agreement is executed by the duly authorized representatives.</declaration>
+        <signature role="COMMISSION">
+            <name>SANTA CRUZ COUNTY REGIONAL TRANSPORTATION COMMISSION</name>
         </signature>
     </signatures>
 </contract>
+``` 
+
+This XML structure captures the hierarchical organization of the provided contract, with appropriate sections and subsections representing key elements while keeping clarity in naming conventions for better understanding.

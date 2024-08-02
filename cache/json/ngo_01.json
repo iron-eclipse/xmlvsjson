@@ -1,66 +1,174 @@
 <json_output>
 {
   "contract": {
-    "parties": [
+    "title": "SAMPLE CONTRACT",
+    "effectiveDate": "(Date)",
+    "parties": {
+      "firstParty": "NGO/UN agency",
+      "secondParty": "Company/agent"
+    },
+    "articles": [
       {
-        "name": "NGO/UN agency",
-        "type": "first party",
-        "capacity": "Transfer agent for humanitarian activities",
-        "address": "Turkey"
+        "title": "Objective of the Agreement",
+        "sections": [
+          {
+            "number": "1.1",
+            "text": "The first party intends to transfer money to people residing in areas outside of the control of the Government of Syria."
+          },
+          {
+            "number": "1.2",
+            "text": "The second party has the proven capacity, experience and highest reasonable standard of diligence to facilitate the transfers."
+          }
+        ]
       },
       {
-        "name": "Company/agent",
-        "type": "second party",
-        "capacity": "Facilitator for financial transfers",
-        "address": "Syria"
-      }
-    ],
-    "offerAndAcceptance": {
-      "offer": "Transfer money from Turkey into Syria for humanitarian purposes.",
-      "acceptance": "Agreement to collaborate on the transfer of money.",
-      "meetingOfMinds": "Both parties agree on the terms regarding the transfer."
-    },
-    "consideration": {
-      "description": "Transfer of funds for humanitarian assistance.",
-      "value": "Monetary value agreed upon by both parties."
-    },
-    "intentionToCreateLegalRelations": "Both parties intend to create a legally binding agreement.",
-    "legalityOfPurpose": "The purpose of the contract is legal and humanitarian.",
-    "certaintyOfTerms": {
-      "subjectMatter": "Financial transfers intended for recipients outside governmental control.",
-      "price": "Variable, based on the amount of money transferred.",
-      "timeForPerformance": "Payment must be made within 7 days before the due date."
-    },
-    "consent": "Both parties consent to the terms and conditions set forth in the agreement.",
-    "durationAndTermination": {
-      "duration": "To be determined (____ months) from the date of signature.",
-      "terminationConditions": "Two weeks notice required for termination.",
-      "renewalTerms": "Renewal upon mutual written consent."
-    },
-    "signatures": [
-      {
-        "partyName": "NGO/UN agency",
-        "dateSigned": "Date to be filled",
-        "declaration": "Agreement to uphold the terms outlined in this contract."
+        "title": "Obligations of the first party",
+        "sections": [
+          {
+            "number": "2.1",
+            "text": "Apply the highest reasonable standard of diligence to ensure that the money transferred under this agreement is not transferred to any individual or entity listed as a Designated Terrorist."
+          },
+          {
+            "number": "2.2",
+            "text": "Coordinate what public statements / agree comms strategy will be made regarding the transfers that involve beneficiaries."
+          },
+          {
+            "number": "2.3",
+            "text": "Inform the second party of the amount of money to be transferred to Syria at least 7 days before the due date of payment so that they can arrange the necessary liquidity."
+          },
+          {
+            "number": "2.4",
+            "text": "Inform the second party of the specific locations where the money is required, within a 6km radius of the most distantly located recipients, so that they can position agents within safe reach of the intended recipient."
+          },
+          {
+            "number": "2.5",
+            "text": "Provide the second party with the full list of recipients 1 day before the due date of disbursement."
+          },
+          {
+            "number": "2.6",
+            "text": "In a hawala transaction where no physical cash provided to the second party is taken cross-border, reimburse the same amount plus the agreed commission charge by bank transfer within no more than 3 days after the distribution."
+          },
+          {
+            "number": "2.7",
+            "text": "In a transaction where physical cash provided to the second party is taken cross-border, ensure bank notes are legal tender and undamaged, and pre-agree the maximum liability allowable that can be covered by bank guarantee or private bond."
+          },
+          {
+            "number": "2.8",
+            "text": "Payment will be in USD or Euro, based on a pre-agreed exchange rate."
+          }
+        ]
       },
       {
-        "partyName": "Company/agent",
-        "dateSigned": "Date to be filled",
-        "declaration": "Agreement to uphold the terms outlined in this contract."
+        "title": "Obligations of the second party",
+        "sections": [
+          {
+            "number": "3.1",
+            "text": "Apply the highest reasonable standard of diligence to ensure that the money transferred under this agreement is not transferred to any individual or entity listed as a Designated Terrorist."
+          },
+          {
+            "number": "3.2",
+            "text": "Provide first party’s representatives with Syrian Pounds (SYP), Turkish Liras (TL) or US Dollars (USD), as appropriate, within an agreed schedule per distribution area."
+          },
+          {
+            "number": "3.3",
+            "text": "Use an exchange rate equal to or more competitive than the Money Changers in the black currency exchange market."
+          },
+          {
+            "number": "3.4",
+            "text": "Include all overheads, including any taxes incurred as a result of this agreement, as part of the commission for each area."
+          },
+          {
+            "number": "3.5",
+            "text": "Transfer the exact amount of money to the people listed within an agreed schedule per distribution area."
+          },
+          {
+            "number": "3.6",
+            "text": "Inform the first party about any problem which may cause delay in cash being delivered beyond the agreed distribution period."
+          },
+          {
+            "number": "3.7",
+            "text": "In case of cash being provided late (i.e. more than 24 hours after being requested), the exchange rate offered will be revised again."
+          },
+          {
+            "number": "3.8",
+            "text": "During transit and disbursement of cash, provide personnel, security, logistics, and communication to ensure secure and timely delivery."
+          },
+          {
+            "number": "3.9",
+            "text": "At the end of each individual disbursement, issue a 3-copy receipt of the delivered amount for the recipient to sign."
+          },
+          {
+            "number": "3.10",
+            "text": "Provide a full account of payments made along with photographs of the receipts and ID cards at the end of the distribution cycle."
+          },
+          {
+            "number": "3.11",
+            "text": "Provide bank notes that are legal tender and undamaged."
+          },
+          {
+            "number": "3.12",
+            "text": "In cash transport across the border, provide a bank guarantee or personal bond equivalent to the maximum cash payment released."
+          }
+        ]
+      },
+      {
+        "title": "Duration",
+        "sections": [
+          {
+            "number": "4.1",
+            "text": "This contract is valid for a period of ______months commencing from the signature date."
+          }
+        ]
+      },
+      {
+        "title": "Modification and Cancellation",
+        "sections": [
+          {
+            "number": "5.1",
+            "text": "The Parties may only amend this agreement through mutual written consent."
+          },
+          {
+            "number": "5.2",
+            "text": "If the second party cannot provide the required amount, they should submit a written reason for the first party to seek another dealer."
+          },
+          {
+            "number": "5.3",
+            "text": "Should either party intend to terminate the agreement prematurely, notice of two weeks must be submitted in writing."
+          }
+        ]
+      },
+      {
+        "title": "Dispute Resolution",
+        "sections": [
+          {
+            "number": "6.1",
+            "text": "Both parties shall use their best efforts to resolve any dispute in a friendly manner."
+          },
+          {
+            "number": "6.2",
+            "text": "Any unresolved disputes will be taken to a mutually agreed mediator on a cost-sharing basis."
+          }
+        ]
       }
     ],
-    "disputeResolution": {
-      "method": "Consultation and clear communication between parties.",
-      "details": "Any unresolved disputes will go to a mutually agreed mediator on a cost-sharing basis."
-    },
-    "governingLawAndJurisdiction": {
-      "governingLaw": "Applicable law to be determined.",
-      "jurisdiction": "Jurisdiction subject to both parties' agreement."
-    },
-    "severability": "If any provision is found unenforceable, the remainder of the contract remains in effect.",
-    "forceMajeure": "Parties are not liable for failures due to circumstances beyond their control.",
-    "confidentiality": "Both parties agree to keep the terms and details confidential.",
-    "assignmentAndDelegation": "Neither party may assign or delegate any obligations under this Agreement without written consent."
+    "signatories": [
+      {
+        "party": "NGO/UN agency",
+        "name": "",
+        "position": "",
+        "date": ""
+      },
+      {
+        "party": "Company/agent",
+        "name": "",
+        "position": "",
+        "date": ""
+      }
+    ],
+    "additionalNotes": [
+      "Aid agencies should hold sufficient information about the circumstances and business of their supplier to manage their money laundering and terrorist financing risks effectively.",
+      "The information about a hawala agent or MSB that they should consider obtaining includes the maturity of the business and its owners’ experience, locations served, and ownership/control."
+    ]
   }
 }
 </json_output>

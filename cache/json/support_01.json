@@ -1,79 +1,96 @@
 <json_output>
 {
   "contract": {
+    "title": "SUPPORT AGREEMENT",
+    "date": "January 22, 2024",
     "parties": [
       {
         "name": "Sunoco LP",
-        "type": "Limited Partnership",
-        "capacity": "Parent",
-        "address": "8111 Westchester Drive, Suite 400, Dallas, TX 75225"
+        "role": "Parent",
+        "type": "Delaware limited partnership"
       },
       {
         "name": "NuStar Energy L.P.",
-        "type": "Limited Partnership",
-        "capacity": "Partnership",
-        "address": "19003 IH-10 West, San Antonio, TX 78257"
+        "role": "Partnership",
+        "type": "Delaware limited partnership"
       },
       {
         "name": "Energy Transfer LP",
-        "type": "Limited Partnership",
-        "capacity": "ET",
-        "address": "8111 Westchester Drive, Suite 600, Dallas, TX 75225"
+        "role": "ET",
+        "type": "Delaware limited partnership"
       }
     ],
-    "offerAndAcceptance": {
-      "offer": "The Partnership, Parent and ET agree as of January 22, 2024.",
-      "acceptance": "The parties hereby agree to the terms set forth in this Agreement.",
-      "meetingOfMinds": "The parties acknowledge reliance on representations and warranties of ET."
-    },
-    "consideration": {
-      "description": "Representations and warranties of ET and covenants in connection with the Merger Agreement.",
-      "value": "Mutual representations, warranties and covenants."
-    },
-    "intentionToCreateLegalRelations": "The parties intend to be legally bound by the terms of this Agreement.",
-    "legalityOfPurpose": "The purposes of the Agreement are lawful under Delaware State law.",
-    "certaintyOfTerms": {
-      "subjectMatter": "Support Agreement related to the acquisition under the Merger Agreement.",
-      "price": "Not defined in this Agreement.",
-      "timeForPerformance": "Automatic termination on the earlier of various conditions."
-    },
-    "consent": "All parties consent to the terms set forth in this Agreement.",
-    "durationAndTermination": {
-      "duration": "Term will continue until the Support Agreement Termination Date.",
-      "terminationConditions": "Termination conditions are defined in the Agreement.",
-      "renewalTerms": "Not applicable."
-    },
-    "representationsAndWarranties": "Representations and warranties of ET include validity and ownership of interests.",
-    "indemnification": "Provided under the applicable provisions of the Merger Agreement.",
-    "disputeResolution": {
-      "method": "Delaware Court of Chancery jurisdiction for disputes.",
-      "details": "Remedies to include injunctions and specific performance."
-    },
-    "governingLawAndJurisdiction": {
-      "governingLaw": "Laws of the State of Delaware.",
-      "jurisdiction": "Exclusive jurisdiction in Delaware Court of Chancery."
-    },
-    "severability": "Any invalid provision will be severed without affecting the remaining terms.",
-    "forceMajeure": "Not explicitly mentioned in this Agreement.",
-    "confidentiality": "Any disclosure requires consultation among the parties.",
-    "assignmentAndDelegation": "Rights and interests cannot be assigned without consent.",
-    "signatures": [
+    "recitals": [
       {
-        "partyName": "NuStar Energy L.P.",
-        "dateSigned": "2024-01-22",
-        "declaration": "Executed by authorized representative."
+        "content": "Concurrently with the entry into this Agreement, the Partnership, Riverwalk Logistics, L.P., NuStar GP, LLC, Parent, Sunoco Merger Sub, LLC, and Sunoco GP LLC are entering into a Merger Agreement."
       },
       {
-        "partyName": "Sunoco LP",
-        "dateSigned": "2024-01-22",
-        "declaration": "Executed by authorized representative."
+        "content": "ET wholly owns the Parent GP, beneficially owns all issued and outstanding Parent Incentive Distribution Rights and beneficially owns 28,463,967 Parent Common Units."
       },
       {
-        "partyName": "Energy Transfer LP",
-        "dateSigned": "2024-01-22",
-        "declaration": "Executed by authorized representative."
+        "content": "The Partnership, Parent, and ET are entering this Agreement setting forth certain representations, warranties, and covenants of ET."
       }
-    ]
+    ],
+    "agreement": {
+      "term": {
+        "description": "This Agreement shall automatically terminate without further action by any of the parties hereto and shall have no further force or effect as of the earliest of (a) the Effective Time, (b) the termination of the Merger Agreement, (c) the written agreement of the parties to terminate, and (d) April 22, 2025.",
+        "termination_conditions": [
+          "Effective Time",
+          "Termination of the Merger Agreement",
+          "Written agreement of the parties to terminate",
+          "April 22, 2025"
+        ]
+      },
+      "representations_and_warranties": {
+        "et": {
+          "a": "ET is a duly organized, validly existing limited partnership in good standing.",
+          "b": "None of the information provided by ET will contain untrue statements of material facts.",
+          "c": "ET is the record and beneficial owner of all issued interests in Parent GP, 28,463,967 Parent Common Units, and all Parent Incentive Distribution Rights.",
+          "d": "ET does not beneficially own any Partnership Common Units or Preferred Units.",
+          "e": "Execution of the Merger Agreement does not conflict with the provisions of ET's organizational documents."
+        }
+      },
+      "covenants_agreements": {
+        "new_parent_director": {
+          "description": "ET will ensure that the Parent GP Board is increased by one member prior to the Effective Time.",
+          "duration": "12 months"
+        },
+        "regulatory_matters": {
+          "description": "ET shall assist in obtaining necessary approvals and consents in connection with the Merger.",
+          "actions": [
+            "Use reasonable best efforts to obtain actions from Governmental Authorities.",
+            "Make available information as requested by Parent and Partnership."
+          ]
+        },
+        "non_solicitation": {
+          "description": "ET shall comply with non-solicitation provisions applicable to Parent and/or Parent GP."
+        }
+      }
+    },
+    "disclosure": {
+      "description": "ET authorizes the Partnership and Parent to publish and disclose its identity and ownership interests."
+    },
+    "miscellaneous": {
+      "notices": {
+        "to_parent": {
+          "address": "8111 Westchester Drive, Suite 400, Dallas, TX 75225",
+          "attention": "Arnold Dodderer",
+          "email": "Arnold.Dodderer@sunoco.com"
+        },
+        "to_partnership": {
+          "address": "19003 IH-10 West, San Antonio, TX 78257",
+          "attention": "Amy L. Perry",
+          "email": "Amy.Perry@nustarenergy.com"
+        },
+        "to_et": {
+          "address": "8111 Westchester Drive, Suite 600, Dallas, TX 75225",
+          "attention": "James M. Wright",
+          "email": "jim.wright@energytransfer.com"
+        }
+      },
+      "governing_law": "The laws of the State of Delaware.",
+      "entire_agreement": "This Agreement constitutes the entire agreement between the parties."
+    }
   }
 }
 </json_output>

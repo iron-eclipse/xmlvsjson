@@ -1,51 +1,164 @@
 <json_output>
 {
   "contract": {
-    "parties": [
-      {
+    "title": "Media Buying Agreement",
+    "effective_date": "May 5, 2022",
+    "parties": {
+      "brightcast": {
         "name": "Brightcast LLC",
-        "type": "Corporation",
-        "capacity": "Media Buying Entity",
-        "address": "2699 Pacific Coast Highway, Suite 200, Hermosa Beach, CA 90254"
+        "abbreviation": "BRIGHTCAST"
       },
-      {
-        "name": "Eva Live Inc",
-        "type": "Corporation",
-        "capacity": "Service Provider",
-        "address": "Attention: David Boulette; Email: dave@eva.live"
+      "company": {
+        "name": "Eva Live Inc"
       }
-    ],
-    "offerAndAcceptance": {
-      "offer": "Engage Company (Eva Live Inc) to provide media buying services.",
-      "acceptance": "Implied by the signing of the agreement.",
-      "meetingOfMinds": "Parties agreed on terms of service and responsibilities."
     },
-    "consideration": {
-      "description": "Revenue share of 85% of paid search revenues.",
-      "value": "85%"
-    },
-    "intentionToCreateLegalRelations": "The parties entered into a formal agreement.",
-    "legalityOfPurpose": "This contract has a lawful purpose (media buying).",
-    "certaintyOfTerms": {
-      "subjectMatter": "Provision of media buying services.",
-      "price": "85%",
-      "timeForPerformance": "Effective from May 5, 2022 until termination."
-    },
-    "consent": "Implied consent through signature.",
-    "durationAndTermination": {
-      "duration": "Effective from May 5, 2022 until terminated with 30-day written notice.",
-      "terminationConditions": "Material breach, actions by Oath."
+    "sections": {
+      "1": {
+        "title": "Appointment of Company",
+        "content": "Subject to the terms and conditions of this Agreement, BRIGHTCAST wishes to engage Company to provide the Services set out herein."
+      },
+      "2": {
+        "title": "Services",
+        "subsections": {
+          "2a": "Company is the media buyer and is being granted permission by BRIGHTCAST to make media buys for BRIGHTCAST and/or approved affiliates of BRIGHTCAST. Ad spend targets, ad spend sources and any changes thereto must be mutually agreed upon in writing between the parties (email sufficing), provided that Company may, in its reasonable discretion, pause any media buy campaign in accordance with the terms of this Agreement and BRIGHTCAST may, in its sole discretion, request a pause of any media buy campaign in accordance with the terms of this Agreement.",
+          "2b": "Site visitors will be directed by Company to landing pages that are mutually agreed upon with BRIGHTCAST, leveraging BRIGHTCAST’s agreement with Oath Holdings, Inc. dated July 11, 2007.",
+          "2c": "Company will be responsible for contributing and/or funding the money for the ad spends on behalf of BRIGHTCAST."
+        }
+      },
+      "3": {
+        "title": "Responsibilities of BRIGHTCAST",
+        "subsections": {
+          "3a": "Revenue generated from such ad spends shall be owed and paid by Oath to BRIGHTCAST pursuant to the Oath Agreement. BRIGHTCAST will then pay the Fees to Company.",
+          "3b": "BRIGHTCAST will provide Company with 24/7 access to a proprietary revenue reporting platform (the BRIGHTCAST Platform)."
+        }
+      },
+      "4": {
+        "title": "Revenue Share Fees",
+        "content": "BRIGHTCAST will pay to Company a revenue share (the Fees) of eighty-five percent (85%) of Paid Search Revenues upon BRIGHTCAST receiving search revenues due by Oath. Payment of Fees owed by BRIGHTCAST to Company will occur within ten (10) days upon receipt of payment from Oath."
+      },
+      "5": {
+        "title": "Clawbacks",
+        "content": "Fees paid to BRIGHTCAST under the Oath Agreement with respect to poor quality traffic are subject to clawbacks. Company will refund to BRIGHTCAST depending on the cause of the clawback."
+      },
+      "6": {
+        "title": "Availability; Changes",
+        "content": "Company agrees to use reasonable effort to maintain the operation and availability of the Company’s Services. Company may pause any media buying campaign if data from the BRIGHTCAST Platform is inaccurate."
+      },
+      "7": {
+        "title": "Full Disclosure",
+        "content": "Company agrees to provide BRIGHTCAST with full visibility into the buying tactics, sources, and creatives related to Services."
+      },
+      "8": {
+        "title": "Oath & Verizon Media Group Policies, Updates, and Requirements",
+        "content": "Both parties agree to adhere to Oath’s policies during the Term."
+      },
+      "9": {
+        "title": "Traffic Quality",
+        "content": "All traffic must adhere to traffic quality targets set by Oath. Company must respond to quality requests from BRIGHTCAST."
+      },
+      "10": {
+        "title": "Confidentiality",
+        "subsections": {
+          "10a": {
+            "content": "Both parties hold the Confidential Information of the other Party in trust and confidence.",
+            "definition": "Confidential Information includes any information not generally known in the trade."
+          },
+          "10b": "Obligations do not apply to publicly available information or information independently developed.",
+          "10c": "Company certifies compliance with laws regarding Personal Information."
+        }
+      },
+      "11": {
+        "title": "Intellectual Property",
+        "subsections": {
+          "11a": "Company acknowledges BRIGHTCAST as the exclusive owner of all BRIGHTCAST Intellectual Property.",
+          "11b": "Definition of Intellectual Property Rights."
+        }
+      },
+      "12": {
+        "title": "No Warranty",
+        "content": "Neither party makes any warranties regarding this Agreement."
+      },
+      "13": {
+        "title": "Limitation of Liability",
+        "content": "Neither Party shall be liable for any special, indirect, incidental, or consequential damages."
+      },
+      "14": {
+        "title": "Indemnification",
+        "content": "Each party will indemnify the other against claims by third parties."
+      },
+      "15": {
+        "title": "Business Conduct",
+        "content": "Each Party shall maintain high standards of professionalism."
+      },
+      "16": {
+        "title": "Term and Termination",
+        "content": "The term begins on the Effective Date and may be terminated with a written notice of 30 days."
+      },
+      "17": {
+        "title": "Dispute Resolution",
+        "content": "Parties will attempt to resolve disputes informally before engaging in mediation."
+      },
+      "18": {
+        "title": "Force Majeure",
+        "content": "Neither party is liable for delays caused by unforeseen events."
+      },
+      "19": {
+        "title": "Non-exclusive Relationship",
+        "content": "BRIGHTCAST and Company enter into a non-exclusive relationship."
+      },
+      "20": {
+        "title": "No Assignment",
+        "content": "Neither party shall assign obligations without consent."
+      },
+      "21": {
+        "title": "Construction",
+        "content": "Headings are for convenience and do not affect interpretation."
+      },
+      "22": {
+        "title": "Governing Law",
+        "content": "The laws of California will govern disputes arising from this Agreement."
+      },
+      "23": {
+        "title": "Notices",
+        "content": "Notices must be in writing and sufficient as outlined."
+      },
+      "24": {
+        "title": "Independent Contractors",
+        "content": "This Agreement does not create a partnership."
+      },
+      "25": {
+        "title": "Modification; Waiver",
+        "content": "No waivers or modifications unless in writing signed by both parties."
+      },
+      "26": {
+        "title": "Severability",
+        "content": "If any provision is invalid, the rest of the Agreement remains in effect."
+      },
+      "27": {
+        "title": "Counterparts",
+        "content": "Agreement may be executed in counterparts."
+      },
+      "28": {
+        "title": "Electronic Signatures",
+        "content": "Electronic signatures are valid and enforceable."
+      },
+      "29": {
+        "title": "Entire Agreement",
+        "content": "This Agreement constitutes the entire understanding of the Parties."
+      }
     },
     "signatures": [
       {
-        "partyName": "Brightcast LLC",
-        "dateSigned": "2022-05-16",
-        "declaration": "Authorized Signatory"
+        "party": "Brightcast LLC",
+        "name": "",
+        "title": "",
+        "date": ""
       },
       {
-        "partyName": "Eva Live Inc",
-        "dateSigned": "2022-05-16",
-        "declaration": "Authorized Signatory; Title: Director; Print Name: Phil Aspin"
+        "party": "Eva Live Inc",
+        "name": "Phil Aspin",
+        "title": "Director",
+        "date": "16th May 2022"
       }
     ]
   }

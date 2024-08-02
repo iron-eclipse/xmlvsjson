@@ -1,55 +1,105 @@
+```xml_output
 <contract>
-  <parties>
-    <party>
-      <name>NGO/UN agency</name>
-      <type>First Party</type>
-      <capacity>First party desires to transfer money</capacity>
-      <address/>
-    </party>
-    <party>
-      <name>Company/agent</name>
-      <type>Second Party</type>
-      <capacity>Second party facilitates transfers</capacity>
-      <address/>
-    </party>
-  </parties>
-  <offerAndAcceptance>
-    <offer>The first party intends to transfer money to people residing in areas outside of the control of the Government of Syria.</offer>
-    <acceptance>The second party has the proven capacity, experience and highest reasonable standard of diligence to facilitate the transfers.</acceptance>
-    <meetingOfMinds>Both parties agree to collaborate on the transfer of funds.</meetingOfMinds>
-  </offerAndAcceptance>
-  <consideration>
-    <description>Transfer of money for humanitarian activities</description>
-    <value>Value corresponds to the money being transferred</value>
-  </consideration>
-  <intentionToCreateLegalRelations>Yes</intentionToCreateLegalRelations>
-  <legalityOfPurpose>Funds are to be transferred for humanitarian activities in Syria.</legalityOfPurpose>
-  <certaintyOfTerms>
-    <subjectMatter>Transfer of funds to recipients in Syria</subjectMatter>
-    <price>USD or Euro based on a pre-agreed exchange rate</price>
-    <timeForPerformance>Transfer should notify the second party 7 days in advance</timeForPerformance>
-  </certaintyOfTerms>
-  <consent>Mutual written consent required for amendments.</consent>
-  <formAndFormalities>Contract effective upon signature by both parties.</formAndFormalities>
-  <durationAndTermination>
-    <duration>Valid for a period of ______ months</duration>
-    <terminationConditions>Notice of two weeks must be submitted to terminate.</terminationConditions>
-    <renewalTerms>Not specified.</renewalTerms>
-  </durationAndTermination>
-  <disputeResolution>
-    <method>Mutually agreed mediator on a cost-sharing basis.</method>
-    <details>Resolve disputes through consultation and clear communication.</details>
-  </disputeResolution>
-  <signatures>
-    <signature>
-      <partyName>NGO/UN agency</partyName>
-      <dateSigned>Not specified</dateSigned>
-      <declaration>For the first party</declaration>
-    </signature>
-    <signature>
-      <partyName>Company/agent</partyName>
-      <dateSigned>Not specified</dateSigned>
-      <declaration>For the second party</declaration>
-    </signature>
-  </signatures>
+    <title>SAMPLE CONTRACT</title>
+    <effective_date>Date</effective_date>
+    <parties>
+        <party role="first_party">
+            <name>NGO/UN agency</name>
+        </party>
+        <party role="second_party">
+            <name>Company/agent</name>
+        </party>
+    </parties>
+    <whereas>
+        <statement>The first party desires to transfer money from Turkey into Syria within the frame of its humanitarian activities in the north of Idleb Governorate, Syria, and the second party has the proven capacity, experience and highest reasonable standard of financial due diligence to facilitate the transfers.</statement>
+    </whereas>
+    <primary_contact>
+        <description>The Parties agree to nominate one primary contact person to manage this account on daily basis and to collaborate.</description>
+    </primary_contact>
+    <articles>
+        <article number="1" title="Objective of the Agreement">
+            <clause number="1.1">The first party intends to transfer money to people residing in areas outside of the control of the Government of Syria;</clause>
+            <clause number="1.2">The second party has the proven capacity, experience and highest reasonable standard of diligence to facilitate the transfers.</clause>
+        </article>
+        <article number="2" title="Obligations of the first party">
+            <clause number="2.1">Apply the highest reasonable standard of diligence to ensure that the money transferred under this agreement is not transferred to any individual or entity listed as a Designated Terrorist;</clause>
+            <clause number="2.2">Coordinate what public statements / agree comms strategy will be made regarding the transfers that involve beneficiaries;</clause>
+            <clause number="2.3">Inform the second party of the amount of money to be transferred to Syria at least 7 days before the due date of payment so that they can arrange the necessary liquidity;</clause>
+            <clause number="2.4">Inform the second party of the specific locations where the money is required, within a 6km radius of the most distantly located recipients, so that they can position agents within safe reach;</clause>
+            <clause number="2.5">Provide the second party with the full list of recipients 1 day before the due date of disbursement;</clause>
+            <clause number="2.6">In a hawala transaction where no physical cash provided to the second party is taken cross-border, reimburse the same amount plus the agreed commission charge by bank transfer within no more than 3 days after the distribution;</clause>
+            <clause number="2.7">
+                <sub_clause>In a transaction where physical cash provided to the second party is taken cross-border:</sub_clause>
+                <details>
+                    <item>Ensure bank notes are legal tender and undamaged. Invalid or damaged notes will be changed with newer ones;</item>
+                    <item>Pre-agree the maximum liability allowable that can be covered by bank guarantee or private bond;</item>
+                </details>
+            </clause>
+            <clause number="2.8">Payment will be in USD or Euro, based on a pre-agreed exchange rate (see 3.3).</clause>
+        </article>
+        <article number="3" title="Obligations of the second party">
+            <clause number="3.1">Apply the highest reasonable standard of diligence to ensure that the money transferred under this agreement is not transferred to any individual or entity listed as a Designated Terrorist;</clause>
+            <clause number="3.2">Provide first party’s representatives with Syrian Pounds (SYP), Turkish Liras (TL) or US Dollars (USD), as appropriate, within an agreed schedule per distribution area;</clause>
+            <clause number="3.3">Use an exchange rate equal to or more competitive than the Money Changers in the black currency exchange market;</clause>
+            <clause number="3.4">
+                <sub_clause>Include all overheads, including any taxes incurred as a result of this agreement, as part of the commission for each area:</sub_clause>
+                <rates>
+                    <rate area="Sarmada">0.6%</rate>
+                    <rate area="xxx">1.0%</rate>
+                    <rate area="xxx">2.5%</rate>
+                </rates>
+            </clause>
+            <clause number="3.5">Transfer the exact amount of money to the people listed within an agreed schedule per distribution area;</clause>
+            <clause number="3.6">Inform the first party about any problem which may cause delay in the cash being delivered beyond the agreed distribution period;</clause>
+            <clause number="3.7">In the case of cash being provided late (i.e. more than 24 hours after being requested), the exchange rate offered will be revised again (at the time of delivery) with conditions on the original agreed rate;</clause>
+            <clause number="3.8">During the transit and disbursement of cash, provide the necessary and suitable personnel, security, logistics and communication arrangements to ensure that the recipients receive their money on time;</clause>
+            <clause number="3.9">At the end of each individual disbursement, issue a 3-copy receipt of the delivered amount to the recipient; one copy to the recipient, one to the first party, and one kept by the second party;</clause>
+            <clause number="3.10">At the end of the distribution cycle, provide a full account of payments made together with photographs of the receipts (and ID cards) to avoid accidental loss;</clause>
+            <clause number="3.11">Provide bank notes that are legal tender and undamaged. Invalid or damaged notes will be changed with newer ones;</clause>
+            <clause number="3.12">In a transaction involving the transport of cash provided by the second party across the border, provide a bank guarantee or personal bond equivalent to the maximum cash payment released by the second party as cash security;</clause>
+        </article>
+        <article number="4" title="Duration">
+            <clause number="4.1">This contract is valid for a period of ______months commencing from the signature date.</clause>
+        </article>
+        <article number="5" title="Modification and Cancellation">
+            <clause number="5.1">The Parties may only amend this agreement through mutual written consent;</clause>
+            <clause number="5.2">In case the second party cannot provide the required amount, they should submit something in writing to the first party stating the reason;</clause>
+            <clause number="5.3">Should either of the parties intend to terminate this agreement prematurely, notice of two weeks must be submitted to the other party in writing;</clause>
+        </article>
+        <article number="6" title="Dispute Resolution">
+            <clause number="6.1">Both parties shall use their best efforts to resolve any dispute in a friendly manner, through consultation and clear communication;</clause>
+            <clause number="6.2">Any dispute which cannot be resolved will be taken to a mutually agreed mediator on a cost-sharing basis.</clause>
+        </article>
+    </articles>
+    <signatures>
+        <signature for="first_party">
+            <name>NGO/UN agency</name>
+            <position></position>
+            <date></date>
+        </signature>
+        <signature for="second_party">
+            <name>Company/agent</name>
+            <position></position>
+            <date></date>
+        </signature>
+    </signatures>
+    <validation>Two original signed copies should be produced to validate the contract.</validation>
+    <know_your_supplier>
+        <description>Aid agencies should hold sufficient information about the circumstances and business of their supplier...</description>
+        <sections>
+            <section title="Maturity of the business and its owners’ experience" />
+            <section title="Location(s) and market(s) served" />
+            <section title="Ownership and control" />
+        </sections>
+        <interpretation>
+            <description>Guide for how to interpret: ‘highest reasonable standard of diligence’</description>
+            <questions>
+                <question>(1) Agent selection: who is your agent at the pay-out destination?...</question>
+                <question>(2) Payment method: how do you settle payment with your agents?...</question>
+                <question>(3) Human resources: will you use your own resources, or will you outsource some of the assignment?...</question>
+                <question>(4) Working capital: what is your average transaction size, and your largest?</question>
+            </questions>
+        </interpretation>
+    </know_your_supplier>
 </contract>
+```

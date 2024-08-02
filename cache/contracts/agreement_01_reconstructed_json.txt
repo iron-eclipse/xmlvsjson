@@ -1,63 +1,53 @@
-**Contract Agreement**
-
-**This Contract ("Agreement") is made effective as of November 1, 2023.**
-
-**BETWEEN:**
-
-1. **Equitable Financial Life Insurance Company**, a corporation duly organized and existing under the laws of New York, with an address of 1290 Avenue of the Americas, New York, New York, 10104 (hereinafter referred to as "Equitable Financial").
-
-2. **Equitable Distributors, LLC**, a Limited Liability Company (LLC) with a capacity as Distributor, with an address of 1290 Avenue of the Americas, New York, New York, 10104 (hereinafter referred to as "Equitable Distributors").
-
-**WHEREAS**, the parties agree to the following terms:
-
-**1. Offer and Acceptance**
-
-Equitable Financial agrees to provide services, personnel, and property to Equitable Distributors. Both parties hereby affirm their acceptance of the terms as stated in this Agreement. This Agreement shall be effective as of November 1, 2023, marking the meeting of the minds.
-
-**2. Consideration**
-
-The consideration for this Agreement shall be reimbursement for costs incurred for services provided, the value of which shall be documented and settled through expense allocations.
-
-**3. Intention to Create Legal Relations**
-
-The parties intend to create a binding legal agreement by entering into this Contract.
-
-**4. Legality of Purpose**
-
-This Agreement pertains to the distribution of legally permissible insurance products.
-
-**5. Certainty of Terms**
-
-The subject matter includes the use of personnel, property, and services for management and distribution functions. The time for performance shall commence on November 1, 2023, and continue until one party provides notice of termination.
-
-**6. Consent**
-
-Both parties have consented by executing this Agreement.
-
-**7. Duration and Termination**
-
-This Agreement shall be effective indefinitely from the effective date, subject to termination conditions. Either party may terminate this Agreement upon providing 90 days written notice to the other party.
-
-**8. Dispute Resolution**
-
-In the event of any disputes arising under this Agreement, the method of resolution shall be through arbitration in New York according to the American Arbitration Association rules.
-
-**9. Governing Law and Jurisdiction**
-
-This Agreement shall be governed by, and construed in accordance with, the laws of New York. Any disputes shall fall under the jurisdiction of New York.
-
-**10. Signatures**
-
-IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the dates set forth below.
-
-_________________________  
-Robin M. Raju  
-Chief Financial Officer  
-Equitable Financial Life Insurance Company  
-Date Signed: November 1, 2023  
-
-_________________________  
-Nick Lane  
-President  
-Equitable Distributors, LLC  
-Date Signed: November 1, 2023
+{
+  "contract": {
+    "parties": [
+      {
+        "name": "Party A",
+        "role": "Lender",
+        "address": "123 Lender St, City, State, ZIP"
+      },
+      {
+        "name": "Party B",
+        "role": "Borrower",
+        "address": "456 Borrower Ave, City, State, ZIP"
+      }
+    ],
+    "effective_date": "2023-01-01",
+    "terms": {
+      "loan_amount": 100000,
+      "interest_rate": 5.0,
+      "payment_schedule": "Monthly",
+      "duration": "5 years",
+      "default_terms": {
+        "penalty": 2000,
+        "grace_period": 15
+      }
+    },
+    "clauses": [
+      {
+        "title": "Governing Law",
+        "content": "This Agreement shall be governed by and construed in accordance with the laws of the State."
+      },
+      {
+        "title": "Severability",
+        "content": "If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect."
+      },
+      {
+        "title": "Amendments",
+        "content": "No modification or amendment of this Agreement shall be valid unless in writing and signed by both parties."
+      }
+    ],
+    "signatures": [
+      {
+        "name": "Party A",
+        "title": "Lender",
+        "date": "2023-01-01"
+      },
+      {
+        "name": "Party B",
+        "title": "Borrower",
+        "date": "2023-01-01"
+      }
+    ]
+  }
+}

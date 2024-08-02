@@ -1,61 +1,198 @@
 <json_output>
 {
   "contract": {
+    "title": "Amended and Restated Agreement for Cooperative and Joint Use of Personnel, Property and Services",
+    "effectiveDate": "November 1, 2023",
     "parties": [
       {
         "name": "Equitable Financial Life Insurance Company",
-        "type": "Corporation",
-        "capacity": "Insurance Company",
-        "address": "1290 Avenue of the Americas, New York, New York, 10104"
+        "type": "New York stock life insurance company",
+        "abbreviation": "Equitable Financial"
       },
       {
         "name": "Equitable Distributors, LLC",
-        "type": "LLC",
-        "capacity": "Distributor",
-        "address": "1290 Avenue of the Americas, New York, New York, 10104"
+        "type": "Delaware limited liability company",
+        "abbreviation": "Equitable Distributors"
       }
     ],
-    "offerAndAcceptance": {
-      "offer": "Provision of services, personnel, and property by Equitable Financial to Equitable Distributors.",
-      "acceptance": "Both parties agree to the terms as stated in this contract.",
-      "meetingOfMinds": "Effective as of November 1, 2023."
-    },
-    "consideration": {
-      "description": "Reimbursement for costs incurred for services provided.",
-      "value": "Costs to be documented and settled through expense allocations."
-    },
-    "intentionToCreateLegalRelations": "The parties intend to create a binding legal agreement.",
-    "legalityOfPurpose": "The agreement pertains to the distribution of legally permissible insurance products.",
-    "certaintyOfTerms": {
-      "subjectMatter": "Use of personnel, property, and services for management and distribution functions.",
-      "timeForPerformance": "Effective from November 1, 2023, until termination."
-    },
-    "consent": "Both parties have consented by executing this agreement.",
-    "durationAndTermination": {
-      "duration": "Effective indefinitely from the effective date with termination conditions.",
-      "terminationConditions": "90 days written notice by either party.",
-      "renewalTerms": "Not specified."
-    },
-    "disputeResolution": {
-      "method": "Arbitration",
-      "details": "Arbitration in New York according to the American Arbitration Association rules."
-    },
-    "governingLawAndJurisdiction": {
-      "governingLaw": "New York",
-      "jurisdiction": "New York"
-    },
-    "signatures": [
+    "recitals": [
       {
-        "partyName": "Robin M. Raju",
-        "dateSigned": "2023-11-01",
-        "declaration": "Chief Financial Officer for Equitable Financial"
+        "text": "Equitable Distributors is an indirect wholly-owned subsidiary of Equitable Financial."
       },
       {
-        "partyName": "Nick Lane",
-        "dateSigned": "2023-11-01",
-        "declaration": "President for Equitable Distributors"
+        "text": "Equitable Distributors will be engaged in the distribution of life insurance and annuity contracts issued by Equitable Financial and Equitable Financial Life Insurance Company of America."
+      },
+      {
+        "text": "Equitable Distributors desires to utilize Equitable Financial’s personnel, property and services in carrying out its management, administrative and other corporate functions."
+      },
+      {
+        "text": "Equitable Distributors intends to reimburse Equitable Financial, via expense allocations, for the costs of personnel, property and services provided."
+      },
+      {
+        "text": "Both parties desire to enter into this Agreement, superseding prior agreements."
       }
-    ]
+    ],
+    "sections": [
+      {
+        "number": 1,
+        "title": "Services Provided",
+        "content": "Equitable Financial may provide, as available, the personnel, property and services reasonably necessary to perform management, administrative and other corporate functions.",
+        "subsections": [
+          "General corporate and management functions",
+          "Distribution of life insurance and annuity contracts",
+          "Processing of payments and disbursements",
+          "Processing of commission payments",
+          "Licensing and supervision of registered persons"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Qualification of Personnel",
+        "content": "Equitable Financial shall cause its agents or employees to become qualified as registered persons of Equitable Distributors at Equitable Distributors’ expense."
+      },
+      {
+        "number": 3,
+        "title": "Standards of Care",
+        "content": "Equitable Financial agrees to use ordinary care and reasonable diligence in providing Services."
+      },
+      {
+        "number": 4,
+        "title": "Judgment and Best Interests",
+        "content": "Equitable Financial shall act in a manner reasonably calculated to be in the best interests of Equitable Distributors."
+      },
+      {
+        "number": 5,
+        "title": "Exclusions",
+        "content": "Services under this Agreement shall not include services provided under separate agreements."
+      },
+      {
+        "number": 6,
+        "title": "Payment and Expense Allocations",
+        "subsections": [
+          {
+            "a": "Equitable Distributors shall pay actual costs incurred for Services.",
+            "b": "Equitable Distributors will maintain records of costs and expenses.",
+            "c": "Equitable Distributors shall maintain separate schedules of costs.",
+            "d": "Equitable Distributors shall have no liability other than set forth in this Agreement.",
+            "e": "Equitable Financial agrees to provide the expense allocation methodology."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "title": "Monthly Review",
+        "content": "Equitable Financial and Distributors shall review expenses monthly and resolve discrepancies."
+      },
+      {
+        "number": 8,
+        "title": "Audits",
+        "content": "Each party shall have the right to audit the other's records concerning Services."
+      },
+      {
+        "number": 9,
+        "title": "Ownership of Records",
+        "content": "Each party shall maintain ownership of its records."
+      },
+      {
+        "number": 10,
+        "title": "Transaction Accounting",
+        "content": "Records must disclose the nature and details of transactions."
+      },
+      {
+        "number": 11,
+        "title": "Confidentiality",
+        "content": "Each party shall preserve confidentiality of customer information shared."
+      },
+      {
+        "number": 12,
+        "title": "Contact Persons",
+        "content": "Each party shall appoint individuals as contact persons for this Agreement."
+      },
+      {
+        "number": 13,
+        "title": "Dispute Resolution",
+        "content": "Differences shall be submitted to arbitration."
+      },
+      {
+        "number": 14,
+        "title": "Term and Termination",
+        "content": "Agreement commences on the effective date and can be terminated with 90 days notice."
+      },
+      {
+        "number": 15,
+        "title": "Governing Law",
+        "content": "This Agreement will be governed by the laws of New York."
+      },
+      {
+        "number": 16,
+        "title": "Precedence",
+        "content": "Requirements of Equitable Financial take precedence."
+      },
+      {
+        "number": 17,
+        "title": "Assignment",
+        "content": "No assignment without written consent."
+      },
+      {
+        "number": 18,
+        "title": "Successors and Assigns",
+        "content": "Agreement benefits successors and assigns."
+      },
+      {
+        "number": 19,
+        "title": "Notice to FINRA",
+        "content": "Equitable Distributors will notify FINRA of any new arrangements."
+      },
+      {
+        "number": 20,
+        "title": "Entire Agreement",
+        "content": "This document constitutes the entire agreement."
+      },
+      {
+        "number": 21,
+        "title": "Counterparts",
+        "content": "Agreement may be executed in separate counterparts."
+      },
+      {
+        "number": 22,
+        "title": "Limitation of Liability",
+        "content": "Liability for direct damages is limited to the Net Limitation Amount."
+      }
+    ],
+    "signatories": [
+      {
+        "party": "Equitable Financial Life Insurance Company",
+        "name": "Robin M. Raju",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "party": "Equitable Distributors, LLC",
+        "name": "Nick Lane",
+        "title": "President"
+      }
+    ],
+    "schedule": {
+      "title": "Schedule I",
+      "content": "This Schedule I is attached to and made part of this Agreement.",
+      "allocationDrivers": [
+        {
+          "name": "Wholesale Sales",
+          "allocationMethod": "Total expenses related to wholesale sales are allocated."
+        },
+        {
+          "name": "Initial Sales Support",
+          "allocationMethod": "Allocation is based on the monthly first year premium."
+        },
+        {
+          "name": "Sales Support Reclass",
+          "allocationMethod": "Based on annual review of expenses."
+        },
+        {
+          "name": "Corporate Expenses",
+          "allocationMethod": "Fixed percentage based on historical trends."
+        }
+      ]
+    }
   }
 }
 </json_output>

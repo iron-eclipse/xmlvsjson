@@ -1,51 +1,61 @@
-**CONTRACT FOR MEDIA BUYING SERVICES**
-
-**This Contract** is made and entered into as of the 16th day of May, 2022, by and between the following parties:
-
-**PARTIES**
-
-1. **Brightcast LLC**, a corporation, having a capacity of Media Buying Entity, located at 2699 Pacific Coast Highway, Suite 200, Hermosa Beach, CA 90254 ("Party A").
-
-2. **Eva Live Inc**, a corporation, having a capacity of Service Provider, with principal address to Attention: David Boulette; Email: dave@eva.live ("Party B").
-
-**OFFER AND ACCEPTANCE**
-
-Party A hereby offers to engage Party B to provide media buying services, which offer is accepted by Party B’s signing of this agreement. The parties have exchanged mutual promises and have reached a meeting of the minds regarding the terms of service and responsibilities.
-
-**CONSIDERATION**
-
-The consideration for this contract includes a revenue share of eighty-five percent (85%) of all paid search revenues generated through media buying services provided by Party B.
-
-**INTENTION TO CREATE LEGAL RELATIONS**
-
-The parties entered into a formal agreement with the intention of creating legal relations, establishing enforceable rights and obligations under this contract.
-
-**LEGality OF PURPOSE**
-
-This contract is established for a lawful purpose concerning media buying, a recognized business activity.
-
-**CERTAINTY OF TERMS**
-
-The subject matter of this contract encompasses the provision of media buying services. The price as consideration shall be eighty-five percent (85%) of designated amounts, with services deemed effective commencing from May 5, 2022 until termination according to the terms outlined herein. 
-
-**CONSENT**
-
-Each party demonstrates consent through their respective signatures at the end of this contract.
-
-**DURATION AND TERMINATION**
-
-This contract shall be effective from May 5, 2022, and shall continue until terminated by either party, with a written notice provided a minimum of thirty (30) days prior to termination. Conditions for termination include material breach and actions taken by Oath that impact this agreement.
-
-**SIGNATURES**
-
-IN WITNESS WHEREOF, the parties hereto have executed this Contract as of the date first above written.
-
-___________________________  
-**Brightcast LLC**  
-Date Signed: May 16, 2022  
-Authorized Signatory  
-
-___________________________  
-**Eva Live Inc**  
-Date Signed: May 16, 2022  
-Authorized Signatory; Title: Director; Print Name: Phil Aspin
+{
+  "contract": {
+    "parties": {
+      "seller": {
+        "name": "Company A",
+        "role": "Seller"
+      },
+      "buyer": {
+        "name": "Company B",
+        "role": "Buyer"
+      }
+    },
+    "dates": {
+      "effectiveDate": "YYYY-MM-DD",
+      "terminationDate": "YYYY-MM-DD"
+    },
+    "sections": {
+      "introduction": {
+        "preamble": "This contract is made between Company A and Company B."
+      },
+      "definitions": {
+        "terms": [
+          {
+            "name": "Goods",
+            "definition": "The products to be sold."
+          },
+          {
+            "name": "Purchase Price",
+            "definition": "The total amount to be paid for the Goods."
+          }
+        ]
+      },
+      "obligations": {
+        "seller": {
+          "obligation": "Deliver the Goods on the specified date."
+        },
+        "buyer": {
+          "obligation": "Pay the Purchase Price upon delivery."
+        }
+      },
+      "paymentTerms": {
+        "amount": "10000",
+        "currency": "USD",
+        "dueDate": "YYYY-MM-DD"
+      },
+      "warranties": {
+        "sellerWarranties": [
+          "Goods are free from defects.",
+          "Goods meet all specified standards."
+        ]
+      },
+      "governingLaw": {
+        "jurisdiction": "State of Example"
+      },
+      "miscellaneous": {
+        "disputeResolution": "Any disputes will be settled through arbitration.",
+        "amendments": "Any amendments to this contract must be in writing."
+      }
+    }
+  }
+}

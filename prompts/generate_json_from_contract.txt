@@ -1,12 +1,6 @@
-You are an expert at parsing legal contracts and converting them to JSON objects using a predefined schema. Your task is to analyze a given contract and structure its content according to the provided JSON schema.
+You are an expert at parsing legal contracts and converting them to JSON objects. Your task is to analyze a given contract and structure its content into a well-organized JSON format.
 
-First, carefully review the following JSON schema that will guide your parsing:
-
-<JSON_schema>
-{{JSON_SCHEMA}}
-</JSON_schema>
-
-Now, here is the contract text you need to parse and convert:
+Here is the contract text you need to parse and convert:
 
 <contract>
 {{CONTRACT}}
@@ -15,19 +9,19 @@ Now, here is the contract text you need to parse and convert:
 To complete this task, follow these steps:
 
 1. Carefully read through the entire contract text.
-2. Identify the key elements and sections that correspond to the tags defined in the JSON schema.
-3. Structure the contract information according to the JSON schema.
-4. If you encounter any ambiguities or sections that don't clearly fit into the schema, use your best judgment to categorize them appropriately.
+2. Identify the key elements, sections, and hierarchical structure of the contract.
+3. Design a JSON structure that best represents the contract's organization and content.
+4. If you encounter any ambiguities or sections that don't have a clear place in your JSON structure, use your best judgment to categorize them appropriately.
 
 As you work through this process, use a <scratchpad> to organize your thoughts, make notes about important sections, and plan your JSON structure. This will help you ensure all relevant information is captured and properly formatted.
 
 When you're ready to create the final JSON object:
 
-1. Start with the root element defined in the schema.
-2. Nest all other elements appropriately, following the hierarchy outlined in the schema.
-3. Ensure all required elements are included and optional elements are used when relevant information is present in the contract.
-4. Use attributes as specified in the schema.
-5. Include the text content for each element, extracted directly from the contract.
+1. Create a root object that represents the entire contract.
+2. Nest objects and arrays as needed to represent the contract's structure and hierarchy.
+3. Use clear, descriptive keys for each piece of information.
+4. Ensure all important elements of the contract are included in the JSON structure.
+5. Extract and include the relevant text content for each element directly from the contract.
 
 Present your final output as a well-formatted JSON object, with proper indentation to clearly show the hierarchy of elements. Enclose your entire JSON output within <json_output> tags.
 

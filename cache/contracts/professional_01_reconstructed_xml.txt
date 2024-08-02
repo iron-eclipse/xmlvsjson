@@ -1,78 +1,28 @@
-**PROFESSIONAL SERVICES AGREEMENT**
+John Doe
+            123 Main St, Anytown, USA
 
-This Professional Services Agreement ("Agreement") is made and entered into by and between:
+            Jane Smith
+            456 Elm St, Othertown, USA
 
-**SANTA CRUZ COUNTY REGIONAL TRANSPORTATION COMMISSION** ("COMMISSION"), a Public Authority, with an address at 1523 Pacific Ave, Santa Cruz, CA 95060, and
+    2023-10-01
 
-**CONSULTANT**, a Professional Service Provider, with an address of ________ (Address not provided).
+            Party A agrees to provide services to Party B.
 
-**WHEREAS**, this Agreement serves as a Professional Services Agreement for specific services or projects as referenced in the contract.
+            Party B agrees to compensate Party A for services rendered.
 
-**NOW, THEREFORE**, in consideration of the mutual promises and covenants herein contained, the parties agree as follows:
+            All payments are due within 30 days of invoice.
 
-1. **OFFER AND ACCEPTANCE**
-   - The offer is outlined above, and both parties acknowledge and consent to the terms and conditions as outlined herein.
-   - The parties have reached a mutual understanding and agreement of the terms laid out in this document.
+            Termination
+            Either party may terminate this agreement with 30 days written notice.
 
-2. **CONSIDERATION**
-   - Payment for professional services rendered by the CONSULTANT shall not exceed $_____ for time and materials as per Exhibit B - Fee Schedule.
+            Liability
+            Neither party shall be liable for indirect or consequential damages.
 
-3. **INTENTION TO CREATE LEGAL RELATIONS**
-   - Both parties intend for this Agreement to create legal obligations.
+            Dispute Resolution
+            Any disputes will be resolved through arbitration.
 
-4. **LEGALITY OF PURPOSE**
-   - The purpose of this Agreement complies with all applicable laws and regulations.
+            John Doe
+            2023-10-01
 
-5. **CERTAINTY OF TERMS**
-   - **Subject Matter**: Scope of Services as laid out in Exhibit A.
-   - **Price**: Not to exceed $_____.
-   - **Time for Performance**: This Agreement shall commence upon approval and notification to proceed.
-
-6. **CONSENT**
-   - CONSULTANT shall obtain written consent for any changes to key personnel as specified.
-
-7. **FORM AND FORMALITIES**
-   - This Agreement constitutes the entire agreement between the parties and is binding upon execution.
-
-8. **DURATION AND TERMINATION**
-   - This Agreement shall take effect on (DATE) and end on (DATE).
-   - Termination by either party with a written notice as specified.
-   - Renewal shall be documented by written agreement from both parties.
-
-9. **REPRESENTATIONS AND WARRANTIES**
-   - Each party represents that they have the authority to enter into this Agreement.
-
-10. **INDEMNIFICATION**
-    - CONSULTANT shall indemnify and hold harmless COMMISSION from any claims arising from negligence.
-
-11. **DISPUTE RESOLUTION**
-    - Dispute resolution via a committee of the COMMISSION's Contract Manager and Executive Director.
-    - Unresolved disputes may be reviewed by the COMMISSION GOVERNING BOARD.
-
-12. **GOVERNING LAW AND JURISDICTION**
-    - This Agreement shall be governed by the laws of the State of California, and jurisdiction shall be in the courts of California.
-
-13. **SEVERABILITY**
-    - If any provision of this Agreement is found to be invalid, the remainder will still be enforceable.
-
-14. **FORCE MAJEURE**
-    - Neither party shall be liable for failure to perform due to unforeseen circumstances.
-
-15. **CONFIDENTIALITY**
-    - All proprietary information obtained during this Agreement shall remain confidential.
-
-16. **ASSIGNMENT AND DELEGATION**
-    - CONSULTANT cannot assign this Agreement without prior written consent from COMMISSION.
-
-17. **SIGNATURES**
-   - This Agreement is executed by the duly authorized representatives of the parties as follows:
-
-   SIGNED: ______________________________________  
-   **CONSULTANT**  
-   Date Signed: _______ (Date not provided)
-
-   SIGNED: ______________________________________  
-   **SANTA CRUZ COUNTY REGIONAL TRANSPORTATION COMMISSION**  
-   Date Signed: _______ (Date not provided)
-
-This document embodies the entire agreement between the parties and may only be amended in writing, signed by both parties.
+            Jane Smith
+            2023-10-01

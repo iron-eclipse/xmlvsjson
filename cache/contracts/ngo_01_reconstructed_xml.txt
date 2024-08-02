@@ -1,64 +1,26 @@
-**CONTRACT FOR THE TRANSFER OF FUNDS**
+John Doe
+      Client
 
-**This Contract made as of the date signed by the parties.**
+      ABC Corporation
+      Service Provider
 
-**PARTIES**
+    2023-01-01
+    2025-01-01
 
-This Contract is entered into by and between:
-1. **NGO/UN agency** (hereinafter referred to as the "First Party"), with its capacity being that it desires to transfer money, and
-2. **Company/agent** (hereinafter referred to as the "Second Party"), with its capacity being that it facilitates transfers.
+      The Service Provider agrees to provide services as outlined in this contract.
 
-**OFFER AND ACCEPTANCE**
+      The Client will compensate the Service Provider as per the payment schedule.
 
-The First Party offers to transfer money to individuals residing in areas outside of the control of the Government of Syria. 
-The Second Party accepts this offer, affirming it possesses the proven capacity, experience, and highest reasonable standard of diligence to facilitate such transfers.
-Both parties acknowledge a mutual meeting of minds and agree to collaborate concerning the transfer of funds.
+      Governing Law
+      This contract shall be governed by the laws of the State of California.
 
-**CONSIDERATION**
+      Indemnification
+      The Service Provider agrees to indemnify and hold harmless the Client from any claims arising from the services provided.
 
-The consideration for this Contract is the transfer of money for humanitarian activities, which value corresponds to the money being transferred.
+      John Doe
+      Client
+      2023-01-01
 
-**INTENTION TO CREATE LEGAL RELATIONS**
-
-It is the mutual intention of both parties to create legal relations pertaining to this Contract.
-
-**LEGALITY OF PURPOSE**
-
-The funds are to be transferred for humanitarian activities in Syria.
-
-**CERTAINTY OF TERMS**
-
-- **Subject Matter**: The transfer of funds to recipients in Syria.
-- **Price**: The funds will be in USD or Euro, based on a pre-agreed exchange rate.
-- **Time for Performance**: The First Party shall notify the Second Party at least 7 days in advance prior to the transfer.
-
-**CONSENT**
-
-Any amendments to this Contract require mutual written consent from both parties.
-
-**FORM AND FORMALITIES**
-
-This Contract shall only be effective upon the signatures of both parties.
-
-**DURATION AND TERMINATION**
-
-This Contract shall be valid for a period of ______ months. 
-Any party wishing to terminate this Contract must provide notice of two weeks to the other party.
-
-**DISPUTE RESOLUTION**
-
-In the event of a dispute arising from this Contract, both parties agree to appoint a mutually agreed mediator on a cost-sharing basis and resolve disputes through consultation and clear communication.
-
-**SIGNATURES**
-
-In witness whereof, the parties hereto have executed this Contract as of the dates indicated below.
-
-__________________________  
-**NGO/UN agency**  
-Date Signed: Not specified  
-Declaration: For the first party  
-
-__________________________  
-**Company/agent**  
-Date Signed: Not specified  
-Declaration: For the second party
+      Jane Smith
+      CEO, ABC Corporation
+      2023-01-01

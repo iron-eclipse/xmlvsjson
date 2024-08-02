@@ -1,80 +1,201 @@
+```xml_output
 <contract>
-  <parties>
-    <party>
-      <name>Equitable Financial Life Insurance Company</name>
-      <type>Corporation</type>
-      <capacity>Provider</capacity>
-      <address>1290 Avenue of the Americas, New York, New York, 10104</address>
-    </party>
-    <party>
-      <name>Equitable Distributors, LLC</name>
-      <type>Limited Liability Company</type>
-      <capacity>Recipient</capacity>
-      <address>1290 Avenue of the Americas, New York, New York, 10104</address>
-    </party>
-  </parties>
-  
-  <offerAndAcceptance>
-    <offer>This Amended and Restated Agreement is made as of the 1st day of November 2023.</offer>
-    <acceptance>Both parties desire to enter into this Agreement.</acceptance>
-    <meetingOfMinds>This Agreement is intended to supersede, amend and restate prior agreements.</meetingOfMinds>
-  </offerAndAcceptance>
-  
-  <consideration>
-    <description>Equitable Distributors will reimburse Equitable Financial for personnel, property, and services.</description>
-    <value>Cost allocation based on actual costs incurred for Services.</value>
-  </consideration>
-  
-  <intentionToCreateLegalRelations>Yes</intentionToCreateLegalRelations>
-  <legalityOfPurpose>Permitted by law under New York regulations.</legalityOfPurpose>
-  
-  <certaintyOfTerms>
-    <subjectMatter>Provision of services related to management and distribution of life insurance and annuity contracts.</subjectMatter>
-    <price>Not directly stated; based on costs incurred.</price>
-    <timeForPerformance>As needed and agreed upon.</timeForPerformance>
-  </certaintyOfTerms>
-  
-  <consent>Consent of both parties to proceed with the agreement.</consent>
-  <formAndFormalities>Agreement executed in separate counterparts.</formAndFormalities>
-  
-  <durationAndTermination>
-    <duration>Effective November 1, 2023, until terminated.</duration>
-    <terminationConditions>90 days written notice from either party.</terminationConditions>
-    <renewalTerms>Subject to mutual agreement.</renewalTerms>
-  </durationAndTermination>
-  
-  <representationsAndWarranties>Each party maintains ownership of their records and customer information.</representationsAndWarranties>
-  
-  <indemnification>No specific indemnification clause found.</indemnification>
-  
-  <disputeResolution>
-    <method>Arbitration</method>
-    <details>Conducted per the American Arbitration Association rules in New York, with shared costs.</details>
-  </disputeResolution>
-  
-  <governingLawAndJurisdiction>
-    <governingLaw>State of New York</governingLaw>
-    <jurisdiction>New York County, New York</jurisdiction>
-  </governingLawAndJurisdiction>
-  
-  <severability>Severability of provisions is assumed under legal standards.</severability>
-  
-  <forceMajeure>Not explicitly mentioned but typically implied.</forceMajeure>
-  
-  <confidentiality>Obligations to maintain confidentiality of customer information.</confidentiality>
-  
-  <assignmentAndDelegation>No assignment without consent.</assignmentAndDelegation>
-  
-  <signatures>
-    <signature>
-      <partyName>Equitable Financial Life Insurance Company</partyName>
-      <dateSigned>2023-11-01</dateSigned>
-      <declaration>Executed by Robin M. Raju, Chief Financial Officer.</declaration>
-    </signature>
-    <signature>
-      <partyName>Equitable Distributors, LLC</partyName>
-      <dateSigned>2023-11-01</dateSigned>
-      <declaration>Executed by Nick Lane, President.</declaration>
-    </signature>
-  </signatures>
+    <title>
+        AMENDED AND RESTATED AGREEMENT FOR COOPERATIVE AND JOINT USE OF PERSONNEL, PROPERTY AND SERVICES
+    </title>
+    <effectiveDate>2023-11-01</effectiveDate>
+    <parties>
+        <party>
+            <name>Equitable Financial Life Insurance Company</name>
+            <type>Company</type>
+            <jurisdiction>New York</jurisdiction>
+        </party>
+        <party>
+            <name>Equitable Distributors, LLC</name>
+            <type>Company</type>
+            <jurisdiction>Delaware</jurisdiction>
+        </party>
+    </parties>
+    <recitals>
+        <recital>
+            Equitable Distributors is an indirect wholly-owned subsidiary of Equitable Financial.
+        </recital>
+        <recital>
+            Equitable Distributors will be engaged in the distribution of life insurance and annuity contracts issued by Equitable Financial and Equitable America, as well as various other securities, products and services.
+        </recital>
+        <recital>
+            Equitable Distributors desires to utilize Equitable Financial's personnel, property, and services.
+        </recital>
+        <recital>
+            Equitable Distributors intends to reimburse Equitable Financial for costs incurred.
+        </recital>
+        <recital>
+            The parties desire to enter this Agreement, supplanting prior agreements regarding joint use.
+        </recital>
+    </recitals>
+    <terms>
+        <term number="1">
+            <description>
+                Equitable Financial may provide the necessary Services to Equitable Distributors.
+            </description>
+            <services>
+                <service>Corporate and management functions</service>
+                <service>Distribution of life insurance and annuity contracts</service>
+                <service>Processing of payments and disbursements</service>
+                <service>Processing of commission payments</service>
+                <service>Licensing and supervision of registered persons</service>
+            </services>
+        </term>
+        <term number="2">
+            <description>
+                Agents or employees will be qualified as registered persons at Equitable Distributors’ expense.
+            </description>
+        </term>
+        <term number="3">
+            <description>
+                Equitable Financial shall use ordinary care and reasonable diligence.
+            </description>
+        </term>
+        <term number="4">
+            <description>
+                Services will be performed in accordance with standards developed by Equitable Distributors.
+            </description>
+        </term>
+        <term number="5">
+            <description>
+                Exclusions from Services provided concerning separate agreements.
+            </description>
+        </term>
+        <term number="6">
+            <description>
+                Payment for actual costs incurred in furnishing Services.
+            </description>
+            <subterms>
+                <subterm>a">
+                    Expenses allocation based on an agreed module.
+                </subterm>
+                <subterm>b">
+                    Record keeping of costs as per SEC rules.
+                </subterm>
+                <subterm>c">
+                    Compliance requirements for expense tracking.
+                </subterm>
+                <subterm>d">
+                    Liability stipulations for Equitable Distributors.
+                </subterm>
+                <subterm>e">
+                    Provision of expense methodology to Equitable Distributors.
+                </subterm>
+            </subterms>
+        </term>
+        <term number="7">
+            <description>
+                Monthly review of direct and indirect expenses.
+            </description>
+        </term>
+        <term number="8">
+            <description>
+                Rights to audit books and records at respective expenses.
+            </description>
+        </term>
+        <term number="9">
+            <description>
+                Ownership of records maintained by both parties.
+            </description>
+        </term>
+        <term number="10">
+            <description>
+                Accurate disclosure of transactions in record keeping.
+            </description>
+        </term>
+        <term number="11">
+            <description>
+                Confidentiality of customer information.
+            </description>
+        </term>
+        <term number="12">
+            <description>
+                Designated contact persons for both parties.
+            </description>
+        </term>
+        <term number="13">
+            <description>
+                Arbitration for irreconcilable differences.
+            </description>
+        </term>
+        <term number="14">
+            <description>
+                Term of Agreement and termination notice requirements.
+            </description>
+        </term>
+        <term number="15">
+            <description>
+                Governing law as State of New York.
+            </description>
+        </term>
+        <term number="16">
+            <description>
+                Precedence of Equitable Financial's requirements.
+            </description>
+        </term>
+        <term number="17">
+            <description>
+                Restrictions on assignment of Agreement.
+            </description>
+        </term>
+        <term number="18">
+            <description>
+                Binding nature of Agreement on successors.
+            </description>
+        </term>
+        <term number="19">
+            <description>
+                Notification to FINRA regarding expense sharing arrangements.
+            </description>
+        </term>
+        <term number="20">
+            <description>
+                Entirety of Agreement.
+            </description>
+        </term>
+        <term number="21">
+            <description>
+                Execution in counterparts.
+            </description>
+        </term>
+        <term number="22">
+            <description>
+                Liability limitations and definitions.
+            </description>
+        </term>
+    </terms>
+    <execution>
+        <parties>
+            <party>
+                <name>Equitable Financial Life Insurance Company</name>
+                <signature>
+                    <name>Robin M. Raju</name>
+                    <title>Chief Financial Officer</title>
+                </signature>
+            </party>
+            <party>
+                <name>Equitable Distributors, LLC</name>
+                <signature>
+                    <name>Nick Lane</name>
+                    <title>President</title>
+                </signature>
+            </party>
+        </parties>
+    </execution>
+    <schedule>
+        <name>Schedule I</name>
+        <description>
+            Attached Schedule detailing Expense Allocation.
+        </description>
+        <allocation>
+            <driver>Wholesale Sales</driver>
+            <allocationMethod>Various allocation methods demonstrated in schedule.</allocationMethod>
+        </allocation>
+    </schedule>
 </contract>
+```

@@ -1,84 +1,23 @@
-**Support Agreement**
+John Doe
+            123 Elm St, Springfield, IL
 
-This Support Agreement ("Agreement") is made and entered into by and among the following parties:
+            Jane Smith
+            456 Maple Ave, Springfield, IL
 
-1. Sunoco LP, a Limited Partnership with the capacity of Parent, located at 8111 Westchester Drive, Suite 400, Dallas, TX 75225.
+    2023-01-01
+    1 year
 
-2. NuStar Energy L.P., a Limited Partnership with the capacity of Partnership, located at 19003 IH-10 West, San Antonio, TX 78257.
+        Any information disclosed by either party that is marked as confidential.
+        Amount owed by the buyer to the seller.
 
-3. Energy Transfer LP, a Limited Partnership with the capacity of ET, located at 8111 Westchester Drive, Suite 600, Dallas, TX 75225.
+        To pay the agreed amount on time.
+        To deliver the goods as specified in the agreement.
 
-**WHEREAS**, the parties wish to evidence their agreement and understanding concerning their mutual representations, warranties, covenants, and intentions.
+        5000.00
+        2023-02-01
 
-**NOW, THEREFORE**, the parties hereto agree as follows:
+        Both parties agree to keep all confidential information private.
 
-**1. Offer and Acceptance**
-   - The Partnership, Parent, and ET enter into this Agreement. 
-   - The parties make mutual representations, warranties, covenants, and express their intention to be legally bound.
-   - The parties acknowledge their understanding and agreement to these terms and conditions.
+        Either party may terminate this agreement with 30 days written notice.
 
-**2. Consideration**
-   - The consideration for this Agreement is mutual representations and warranties relating to the Merger Agreement.
-   - The value is not specifically quantified in this contract.
-
-**3. Intention to Create Legal Relations**
-   - The parties intend to create legal relations as evidenced by their signatures below.
-
-**4. Legality of Purpose**
-   - This Agreement is lawful under Delaware law.
-
-**5. Certainty of Terms**
-   - Subject Matter: This Agreement is related to the support agreement concerning the Merger.
-   - Price: Not specified.
-   - Time for Performance: This Agreement shall be effective until the Support Agreement Termination Date.
-
-**6. Consent**
-   - All parties do hereby consent to the terms and conditions described in this Agreement.
-
-**7. Form and Formalities**
-   - This Agreement has been executed in multiple originals.
-
-**8. Duration and Termination**
-   - Duration: This Agreement shall last until the Support Agreement Termination Date, which is April 22, 2025.
-   - Termination Conditions: This Agreement shall terminate upon the termination of the Merger Agreement or by mutual written agreement of the parties.
-   - Renewal Terms: No renewal terms are specified; the Agreement shall automatically terminate.
-
-**9. Representations and Warranties**
-   - Energy Transfer LP provides certain representations and warranties as necessary herein.
-
-**10. Indemnification**
-   - Indemnification clauses are not explicitly mentioned in this Agreement.
-
-**11. Dispute Resolution**
-   - The method for dispute resolution shall include injunctions and equitable relief, exclusively in the Delaware Court of Chancery.
-
-**12. Governing Law and Jurisdiction**
-   - This Agreement shall be governed by the laws of the State of Delaware, and jurisdiction shall reside with the Delaware Court of Chancery and state courts therein.
-
-**13. Severability**
-   - If any provision of this Agreement is found to be invalid, such invalid provision shall not affect the remaining provisions.
-
-**14. Force Majeure**
-   - The concept of force majeure is not included in this Agreement.
-
-**15. Confidentiality**
-   - The terms of confidentiality are not included in this Agreement.
-
-**16. Assignment and Delegation**
-   - Neither party may assign their rights under this Agreement without the prior written consent of the other party.
-
-**17. Signatures**
-
-IN WITNESS WHEREOF, the undersigned have executed this Agreement as of the dates set forth below:
-
-1. NuStar Energy L.P.  
-   Date Signed: January 22, 2024  
-   By: Riverwalk Logistics, L.P., its general partner.  
-
-2. Sunoco LP  
-   Date Signed: January 22, 2024  
-   By: Sunoco GP LLC, its general partner.  
-
-3. Energy Transfer LP  
-   Date Signed: January 22, 2024  
-   By: LE GP, LLC, its general partner.
+    State of Illinois
