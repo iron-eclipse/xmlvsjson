@@ -1,146 +1,162 @@
+<json_output>
 {
   "contract": {
     "parties": [
       {
-        "name": "PARISH OF ST. JAMES, STATE OF LOUISIANA",
+        "name": "Parish of St. James, State of Louisiana",
         "type": "Issuer",
-        "capacity": "Political Subdivision",
+        "capacity": "Political subdivision",
         "address": "State of Louisiana"
       },
       {
-        "name": "NUSTAR LOGISTICS, L.P.",
+        "name": "NuStar Logistics, L.P.",
         "type": "Company",
-        "capacity": "Limited Partnership",
+        "capacity": "Limited partnership",
         "address": "State of Delaware"
       },
       {
         "name": "Sunoco LP",
-        "type": "Guarantor",
-        "capacity": "Limited Partnership",
+        "type": "Additional Guarantor",
+        "capacity": "Limited partnership",
         "address": "Delaware"
       },
       {
         "name": "Aloha Petroleum LLC",
-        "type": "Guarantor",
-        "capacity": "Limited Liability Company",
+        "type": "Additional Guarantor",
+        "capacity": "Limited liability company",
         "address": "Delaware"
       },
       {
         "name": "Aloha Petroleum, Ltd.",
-        "type": "Guarantor",
+        "type": "Additional Guarantor",
         "capacity": "Corporation",
         "address": "Hawaii"
       },
       {
         "name": "Sunmarks, LLC",
-        "type": "Guarantor",
-        "capacity": "Limited Liability Company",
+        "type": "Additional Guarantor",
+        "capacity": "Limited liability company",
         "address": "Delaware"
       },
       {
         "name": "Sunoco, LLC",
-        "type": "Guarantor",
-        "capacity": "Limited Liability Company",
+        "type": "Additional Guarantor",
+        "capacity": "Limited liability company",
         "address": "Delaware"
       },
       {
         "name": "Sunoco Midstream LLC",
-        "type": "Guarantor",
-        "capacity": "Limited Liability Company",
+        "type": "Additional Guarantor",
+        "capacity": "Limited liability company",
         "address": "Delaware"
       },
       {
         "name": "Sunoco Finance Corp.",
-        "type": "Guarantor",
+        "type": "Additional Guarantor",
         "capacity": "Corporation",
         "address": "Delaware"
       },
       {
         "name": "Sunoco NLR LLC",
-        "type": "Guarantor",
-        "capacity": "Limited Liability Company",
+        "type": "Additional Guarantor",
+        "capacity": "Limited liability company",
         "address": "Delaware"
       },
       {
         "name": "Sunoco Refined Products LLC",
-        "type": "Guarantor",
-        "capacity": "Limited Liability Company",
+        "type": "Additional Guarantor",
+        "capacity": "Limited liability company",
         "address": "Delaware"
       },
       {
         "name": "Sunoco Retail LLC",
-        "type": "Guarantor",
-        "capacity": "Limited Liability Company",
+        "type": "Additional Guarantor",
+        "capacity": "Limited liability company",
         "address": "Pennsylvania"
       },
       {
         "name": "NuStar Energy L.P.",
-        "type": "Guarantor",
-        "capacity": "Limited Partnership",
+        "type": "Additional Guarantor",
+        "capacity": "Limited partnership",
         "address": "Delaware"
       },
       {
         "name": "NuStar Pipeline Operating Partnership L.P.",
-        "type": "Guarantor",
-        "capacity": "Limited Partnership",
+        "type": "Additional Guarantor",
+        "capacity": "Limited partnership",
         "address": "Delaware"
       },
       {
         "name": "NuStar Pipeline Partners L.P.",
-        "type": "Guarantor",
-        "capacity": "Limited Partnership",
+        "type": "Additional Guarantor",
+        "capacity": "Limited partnership",
         "address": "Delaware"
       },
       {
         "name": "NuStar Permian Holdings, LLC",
-        "type": "Guarantor",
-        "capacity": "Limited Liability Company",
+        "type": "Additional Guarantor",
+        "capacity": "Limited liability company",
         "address": "Delaware"
       }
     ],
     "offerAndAcceptance": {
-      "offer": "Amendment to the Original Agreement for the addition of Exhibit E.",
-      "acceptance": "Consent by Issuer and Company.",
-      "meetingOfMinds": "Agreement on terms regarding the Project and additional guarantors."
+      "offer": "Amendment of Lease Agreement",
+      "acceptance": "Execution and delivery of the Second Supplemental Lease Agreement",
+      "meetingOfMinds": "Parties agree to the terms of amendment and additions"
     },
     "consideration": {
-      "description": "Revenue Bonds for the NuStar Logistics Project.",
+      "description": "Revenue Bonds for the project",
       "value": "$100,000,000"
     },
-    "intentionToCreateLegalRelations": "The parties intend to create binding obligations.",
-    "legalityOfPurpose": "The agreement is for the lawful purpose of managing and financing a storage project.",
+    "intentionToCreateLegalRelations": "It is disclosed through the formal nature of the amendment.",
+    "legalityOfPurpose": "The purpose is legal as per the nature of the contract.",
     "certaintyOfTerms": {
-      "subjectMatter": "Crude storage capacity at NuStar St. James Terminal.",
+      "subjectMatter": "Amendment to Lease Agreement regarding construction and storage facilities.",
       "price": "$100,000,000",
-      "timeForPerformance": "Upon execution of the Second Supplemental Lease Agreement."
+      "timeForPerformance": "Effective on July 15, 2024"
     },
-    "consent": "Consent from all parties for amendments and additions to the original agreements.",
+    "consent": "Consent from parties regarding the amendment.",
     "durationAndTermination": {
-      "duration": "Ongoing until mutually terminated or agreed upon amended.",
-      "terminationConditions": "As per Original Agreement.",
-      "renewalTerms": "Not specified in the contract."
+      "duration": "Indefinite until terminated by either party as per terms.",
+      "terminationConditions": "Conditions not explicitly stated in the provided sections.",
+      "renewalTerms": "Renewal terms not explicitly detailed."
     },
+    "representationsAndWarranties": "Confirmed by both parties as per the earlier agreement.",
+    "indemnification": "Not mentioned in the provided text.",
+    "disputeResolution": {
+      "method": "Not specified.",
+      "details": "Not specified."
+    },
+    "governingLawAndJurisdiction": {
+      "governingLaw": "State of Louisiana",
+      "jurisdiction": "Courts in the State of Louisiana"
+    },
+    "severability": "If any part is found invalid, the remainder shall still be valid.",
+    "forceMajeure": "Not mentioned in the provided text.",
+    "confidentiality": "Not mentioned in the provided text.",
+    "assignmentAndDelegation": "Not mentioned in the provided text.",
     "signatures": [
       {
-        "partyName": "PARISH OF ST. JAMES, STATE OF LOUISIANA",
+        "partyName": "Parish of St. James, State of Louisiana",
         "dateSigned": "2024-07-15",
-        "declaration": "Signature of Parish President"
+        "declaration": "By: Pete Dufresne, Parish President"
       },
       {
-        "partyName": "NUSTAR LOGISTICS, L.P.",
+        "partyName": "NuStar Logistics, L.P.",
         "dateSigned": "2024-07-15",
-        "declaration": "By: Riverwalk Logistics, L.P. Its General Partner"
+        "declaration": "By: Dylan A. Bramhall, Chief Financial Officer"
       },
       {
-        "partyName": "NUSTAR ENERGY L.P.",
+        "partyName": "NuStar Energy L.P.",
         "dateSigned": "2024-07-15",
-        "declaration": "By: Riverwalk Logistics, L.P. Its General Partner"
+        "declaration": "By: Dylan A. Bramhall, Chief Financial Officer"
       },
       {
-        "partyName": "NUSTAR PIPELINE OPERATING PARTNERSHIP L.P.",
+        "partyName": "NuStar Pipeline Operating Partnership L.P.",
         "dateSigned": "2024-07-15",
-        "declaration": "By: NuStar Pipeline Company, LLC Its General Partner"
+        "declaration": "By: Dylan A. Bramhall, Chief Financial Officer"
       }
     ]
   }
 }
+</json_output>

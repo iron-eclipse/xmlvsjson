@@ -20,57 +20,57 @@
         </party>
     </parties>
     <offerAndAcceptance>
-        <offer>Enter into this SUPPORT AGREEMENT</offer>
-        <acceptance>Partnership, Parent and ET hereby agree as follows.</acceptance>
-        <meetingOfMinds>ET and Parent acknowledge that the Partnership is entering into the Merger Agreement in reliance on the representations, warranties, covenants and other agreements of ET.</meetingOfMinds>
+        <offer>The Partnership, Parent, and ET entering into this Agreement.</offer>
+        <acceptance>Mutual representations, warranties, covenants, and intentions to be legally bound.</acceptance>
+        <meetingOfMinds>Parties acknowledge their understanding and agreement to the terms and conditions.</meetingOfMinds>
     </offerAndAcceptance>
     <consideration>
-        <description>No monetary consideration is explicitly mentioned, but mutual representations and warranties are acknowledged as consideration.</description>
-        <value>Not specified</value>
+        <description>Mutual representations and warranties related to the Merger Agreement.</description>
+        <value>Not specifically quantified in the contract.</value>
     </consideration>
-    <intentionToCreateLegalRelations>Intending to be legally bound hereby.</intentionToCreateLegalRelations>
-    <legalityOfPurpose>Legality under applicable Delaware law.</legalityOfPurpose>
+    <intentionToCreateLegalRelations>Yes, the parties intend to create legal relations.</intentionToCreateLegalRelations>
+    <legalityOfPurpose>This Agreement is lawful under Delaware law.</legalityOfPurpose>
     <certaintyOfTerms>
-        <subjectMatter>Support Agreement pertaining to a merger.</subjectMatter>
-        <price></price>
-        <timeForPerformance>Automatic termination as of the Support Agreement Termination Date or as specified in the Merger Agreement.</timeForPerformance>
+        <subjectMatter>Support Agreement related to the Merger.</subjectMatter>
+        <price>Not specified</price>
+        <timeForPerformance>Effective until the Support Agreement Termination Date.</timeForPerformance>
     </certaintyOfTerms>
-    <consent>Parties agree to various covenants and agreements.</consent>
-    <formAndFormalities>Must be in writing as specified.</formAndFormalities>
+    <consent>All parties consent to the terms and conditions of the Agreement.</consent>
+    <formAndFormalities>Executed in multiple originals.</formAndFormalities>
     <durationAndTermination>
-        <duration>Effective from date of execution until the Support Agreement Termination Date or as specified.</duration>
-        <terminationConditions>Automatic termination conditions included.</terminationConditions>
-        <renewalTerms>Not specified</renewalTerms>
+        <duration>Until the Support Agreement Termination Date which is April 22, 2025.</duration>
+        <terminationConditions>Termination of the Merger Agreement or mutual written agreement.</terminationConditions>
+        <renewalTerms>None specified; automatically terminates.</renewalTerms>
     </durationAndTermination>
-    <representationsAndWarranties>Representations made by ET regarding organization and authority.</representationsAndWarranties>
-    <indemnification>Not explicitly stated but implied through mutual agreements.</indemnification>
+    <representationsAndWarranties>ET provides certain representations and warranties.</representationsAndWarranties>
+    <indemnification>Not explicitly mentioned.</indemnification>
     <disputeResolution>
-        <method>Injunction or equitable relief to prevent breaches.</method>
-        <details>Exclusive jurisdiction of the Delaware Court of Chancery.</details>
+        <method>Injunctions and equitable relief.</method>
+        <details>Exclusively in the Delaware Court of Chancery.</details>
     </disputeResolution>
     <governingLawAndJurisdiction>
         <governingLaw>State of Delaware</governingLaw>
-        <jurisdiction>Delaware Court of Chancery</jurisdiction>
+        <jurisdiction>Delaware Court of Chancery and state courts.</jurisdiction>
     </governingLawAndJurisdiction>
-    <severability>Invalid provisions do not invalidate the agreement as a whole.</severability>
-    <forceMajeure>Not stated.</forceMajeure>
-    <confidentiality>Not explicitly stated but implied by the nature of the agreement.</confidentiality>
-    <assignmentAndDelegation>Cannot assign without written consent.</assignmentAndDelegation>
+    <severability>Invalid provisions will not affect the remaining Agreement.</severability>
+    <forceMajeure>Not included in the Agreement.</forceMajeure>
+    <confidentiality>Not included in the Agreement.</confidentiality>
+    <assignmentAndDelegation>Neither party can assign rights without consent.</assignmentAndDelegation>
     <signatures>
         <signature>
             <partyName>NuStar Energy L.P.</partyName>
             <dateSigned>2024-01-22</dateSigned>
-            <declaration>By: Riverwalk Logistics, L.P. as general partner; signed by Bradley C. Barron, President and CEO.</declaration>
+            <declaration>By: Riverwalk Logistics, L.P., its general partner</declaration>
         </signature>
         <signature>
             <partyName>Sunoco LP</partyName>
             <dateSigned>2024-01-22</dateSigned>
-            <declaration>By: Sunoco GP LLC as general partner; signed by Joseph Kim, President and CEO.</declaration>
+            <declaration>By: Sunoco GP LLC, its general partner</declaration>
         </signature>
         <signature>
             <partyName>Energy Transfer LP</partyName>
             <dateSigned>2024-01-22</dateSigned>
-            <declaration>By: LE GP, LLC as general partner; signed by Dylan A. Bramhall, EVP & Group CFO.</declaration>
+            <declaration>By: LE GP, LLC, its general partner</declaration>
         </signature>
     </signatures>
 </contract>

@@ -1,65 +1,80 @@
 <contract>
-    <parties>
-        <party>
-            <name>Equitable Financial Life Insurance Company</name>
-            <type>Corporation</type>
-            <capacity>Party</capacity>
-            <address>1290 Avenue of the Americas, New York, New York, 10104</address>
-        </party>
-        <party>
-            <name>Equitable Distributors, LLC</name>
-            <type>Limited Liability Company</type>
-            <capacity>Party</capacity>
-            <address>1290 Avenue of the Americas, New York, New York, 10104</address>
-        </party>
-    </parties>
-    <offerAndAcceptance>
-        <offer>The provision of personnel, property, and services in accordance with specified terms and conditions.</offer>
-        <acceptance>The parties agree to enter into this Amended and Restated Agreement.</acceptance>
-        <meetingOfMinds>The effective date of the Agreement is November 1, 2023.</meetingOfMinds>
-    </offerAndAcceptance>
-    <consideration>
-        <description>Equitable Distributors shall reimburse Equitable Financial for costs incurred.</description>
-        <value>Based on direct and indirect costs as specified in the Agreement.</value>
-    </consideration>
-    <intentionToCreateLegalRelations>Both parties intend to create legal relations.</intentionToCreateLegalRelations>
-    <legalityOfPurpose>The purpose of the Agreement is lawful under applicable laws.</legalityOfPurpose>
-    <certaintyOfTerms>
-        <subjectMatter>Provision of services including management and administrative functions.</subjectMatter>
-        <price>Costs based on actual expenses incurred.</price>
-        <timeForPerformance>The term commences on the Effective Date and continues until terminated.</timeForPerformance>
-    </certaintyOfTerms>
-    <consent>Both parties consent to the terms and conditions outlined in this Agreement.</consent>
-    <formAndFormalities>Agreement is signed and executed in counterparts.</formAndFormalities>
-    <durationAndTermination>
-        <duration>Until terminated by either party with 90 days’ written notice.</duration>
-        <terminationConditions>The termination conditions are specified within the Agreement.</terminationConditions>
-        <renewalTerms>No specified renewal terms; termination can occur at will.</renewalTerms>
-    </durationAndTermination>
-    <representationsAndWarranties>Both parties agree to confidentiality and compliance with applicable laws.</representationsAndWarranties>
-    <indemnification>No specific indemnification clause provided.</indemnification>
-    <disputeResolution>
-        <method>Arbitration according to the rules of the American Arbitration Association.</method>
-        <details>Arbitration to take place in New York, New York.</details>
-    </disputeResolution>
-    <governingLawAndJurisdiction>
-        <governingLaw>State of New York</governingLaw>
-        <jurisdiction>New York, New York</jurisdiction>
-    </governingLawAndJurisdiction>
-    <severability>Should any provision be found invalid, the remaining provisions shall remain in effect.</severability>
-    <forceMajeure>No explicit force majeure clause noted.</forceMajeure>
-    <confidentiality>Both parties agree to preserve the confidentiality of shared customer information.</confidentiality>
-    <assignmentAndDelegation>No assignment shall take effect without prior written consent from the other party.</assignmentAndDelegation>
-    <signatures>
-        <signature>
-            <partyName>Equitable Financial Life Insurance Company</partyName>
-            <dateSigned>2023-11-01</dateSigned>
-            <declaration>By: Robin M. Raju, Chief Financial Officer</declaration>
-        </signature>
-        <signature>
-            <partyName>Equitable Distributors, LLC</partyName>
-            <dateSigned>2023-11-01</dateSigned>
-            <declaration>By: Nick Lane, President</declaration>
-        </signature>
-    </signatures>
+  <parties>
+    <party>
+      <name>Equitable Financial Life Insurance Company</name>
+      <type>Corporation</type>
+      <capacity>Provider</capacity>
+      <address>1290 Avenue of the Americas, New York, New York, 10104</address>
+    </party>
+    <party>
+      <name>Equitable Distributors, LLC</name>
+      <type>Limited Liability Company</type>
+      <capacity>Recipient</capacity>
+      <address>1290 Avenue of the Americas, New York, New York, 10104</address>
+    </party>
+  </parties>
+  
+  <offerAndAcceptance>
+    <offer>This Amended and Restated Agreement is made as of the 1st day of November 2023.</offer>
+    <acceptance>Both parties desire to enter into this Agreement.</acceptance>
+    <meetingOfMinds>This Agreement is intended to supersede, amend and restate prior agreements.</meetingOfMinds>
+  </offerAndAcceptance>
+  
+  <consideration>
+    <description>Equitable Distributors will reimburse Equitable Financial for personnel, property, and services.</description>
+    <value>Cost allocation based on actual costs incurred for Services.</value>
+  </consideration>
+  
+  <intentionToCreateLegalRelations>Yes</intentionToCreateLegalRelations>
+  <legalityOfPurpose>Permitted by law under New York regulations.</legalityOfPurpose>
+  
+  <certaintyOfTerms>
+    <subjectMatter>Provision of services related to management and distribution of life insurance and annuity contracts.</subjectMatter>
+    <price>Not directly stated; based on costs incurred.</price>
+    <timeForPerformance>As needed and agreed upon.</timeForPerformance>
+  </certaintyOfTerms>
+  
+  <consent>Consent of both parties to proceed with the agreement.</consent>
+  <formAndFormalities>Agreement executed in separate counterparts.</formAndFormalities>
+  
+  <durationAndTermination>
+    <duration>Effective November 1, 2023, until terminated.</duration>
+    <terminationConditions>90 days written notice from either party.</terminationConditions>
+    <renewalTerms>Subject to mutual agreement.</renewalTerms>
+  </durationAndTermination>
+  
+  <representationsAndWarranties>Each party maintains ownership of their records and customer information.</representationsAndWarranties>
+  
+  <indemnification>No specific indemnification clause found.</indemnification>
+  
+  <disputeResolution>
+    <method>Arbitration</method>
+    <details>Conducted per the American Arbitration Association rules in New York, with shared costs.</details>
+  </disputeResolution>
+  
+  <governingLawAndJurisdiction>
+    <governingLaw>State of New York</governingLaw>
+    <jurisdiction>New York County, New York</jurisdiction>
+  </governingLawAndJurisdiction>
+  
+  <severability>Severability of provisions is assumed under legal standards.</severability>
+  
+  <forceMajeure>Not explicitly mentioned but typically implied.</forceMajeure>
+  
+  <confidentiality>Obligations to maintain confidentiality of customer information.</confidentiality>
+  
+  <assignmentAndDelegation>No assignment without consent.</assignmentAndDelegation>
+  
+  <signatures>
+    <signature>
+      <partyName>Equitable Financial Life Insurance Company</partyName>
+      <dateSigned>2023-11-01</dateSigned>
+      <declaration>Executed by Robin M. Raju, Chief Financial Officer.</declaration>
+    </signature>
+    <signature>
+      <partyName>Equitable Distributors, LLC</partyName>
+      <dateSigned>2023-11-01</dateSigned>
+      <declaration>Executed by Nick Lane, President.</declaration>
+    </signature>
+  </signatures>
 </contract>

@@ -4,68 +4,62 @@
       <name>PARISH OF ST. JAMES, STATE OF LOUISIANA</name>
       <type>Issuer</type>
       <capacity>Political subdivision</capacity>
-      <address>State of Louisiana</address>
+      <address/>
     </party>
     <party>
       <name>NUSTAR LOGISTICS, L.P.</name>
       <type>Company</type>
-      <capacity>Limited Partnership</capacity>
-      <address>State of Delaware</address>
+      <capacity>Limited partnership</capacity>
+      <address/>
     </party>
   </parties>
   <offerAndAcceptance>
-    <offer>Lease Agreement dated as of July 1, 2010</offer>
-    <acceptance>Execution of the Second Supplemental Lease Agreement as of July 15, 2024</acceptance>
-    <meetingOfMinds>Amendment of the Original Agreement with consent of affected parties</meetingOfMinds>
+    <offer>Issuer issued its Revenue Bonds (NuStar Logistics, L.P.) Series 2010 in the original principal amount of $100,000,000.</offer>
+    <acceptance>Company desires to add Sunoco LP and other entities as additional guarantors of the Series 2010 Bonds.</acceptance>
+    <meetingOfMinds>This Second Supplemental Lease Agreement is made and entered into as of July 15, 2024.</meetingOfMinds>
   </offerAndAcceptance>
   <consideration>
-    <description>Revenue Bonds Series 2010</description>
+    <description>Issuance of Revenue Bonds to fund the acquisition of crude storage capacity.</description>
     <value>$100,000,000</value>
   </consideration>
-  <intentionToCreateLegalRelations>This Second Supplemental Lease Agreement is made and entered into to formalize the agreement between the parties outlined.</intentionToCreateLegalRelations>
-  <legalityOfPurpose>Purpose of the Lease Agreement complies with laws of the State of Louisiana.</legalityOfPurpose>
+  <intentionToCreateLegalRelations>Parties intend to create a legally binding agreement.</intentionToCreateLegalRelations>
+  <legalityOfPurpose>The purpose of the agreement is legal.</legalityOfPurpose>
   <certaintyOfTerms>
-    <subjectMatter>Lease of an additional storage capacity at the NuStar St. James Terminal</subjectMatter>
+    <subjectMatter>Lease Agreement pertaining to the Project.</subjectMatter>
     <price>$100,000,000</price>
-    <timeForPerformance>The agreement becomes effective on July 15, 2024.</timeForPerformance>
+    <timeForPerformance>As specified in the agreement.</timeForPerformance>
   </certaintyOfTerms>
-  <consent>Consents for the amendment of the Original Agreement were obtained from the Trustee and the Issuer.</consent>
-  <formAndFormalities>This amendment is executed to comply with required legal formalities.</formAndFormalities>
+  <consent>Company consents to the execution and delivery of the Second Supplemental Indenture.</consent>
+  <formAndFormalities>This Second Supplemental Lease Agreement may be executed in several counterparts.</formAndFormalities>
   <durationAndTermination>
-    <duration>Indeterminate, based on the terms outlined in the Original Agreement.</duration>
-    <terminationConditions>Default provisions as specified in the Original Agreement.</terminationConditions>
-    <renewalTerms>Renewable under the same terms as the original unless amended.</renewalTerms>
+    <duration>Indefinite duration until terminated as per conditions.</duration>
+    <terminationConditions>Default under the Original Agreement shall be considered a default under this Supplemental Agreement.</terminationConditions>
+    <renewalTerms>Shall form a part of the Original Agreement for all purposes.</renewalTerms>
   </durationAndTermination>
-  <representationsAndWarranties>A confirmation of representations and warranties of the Issuer and Company as per the Original Agreement.</representationsAndWarranties>
+  <representationsAndWarranties>Representations and warranties of the Issuer and Company are confirmed as of the date of this Supplemental Lease Agreement.</representationsAndWarranties>
+  <indemnification/>
   <disputeResolution>
-    <method>Negotiation and mediation preferred</method>
-    <details>Any disputes are addressed in accordance with applicable law.</details>
+    <method>Governing law is that of the State of Louisiana.</method>
+    <details/>
   </disputeResolution>
   <governingLawAndJurisdiction>
-    <governingLaw>State of Louisiana</governingLaw>
-    <jurisdiction>Any dispute arising under this agreement shall be governed by the laws of Louisiana.</jurisdiction>
+    <governingLaw>Law of the State of Louisiana</governingLaw>
+    <jurisdiction>State of Louisiana</jurisdiction>
   </governingLawAndJurisdiction>
-  <severability>If any provision of this agreement is determined to be illegal or unenforceable, the remaining provisions remain in effect.</severability>
+  <severability>If any portion of this Agreement is found invalid, the rest remains effective.</severability>
+  <forceMajeure/>
+  <confidentiality/>
+  <assignmentAndDelegation/>
   <signatures>
     <signature>
       <partyName>PARISH OF ST. JAMES, STATE OF LOUISIANA</partyName>
       <dateSigned>2024-07-15</dateSigned>
-      <declaration>By Pete Dufresne, Parish President</declaration>
+      <declaration>Signed by Pete Dufresne, Parish President.</declaration>
     </signature>
     <signature>
       <partyName>NUSTAR LOGISTICS, L.P.</partyName>
       <dateSigned>2024-07-15</dateSigned>
-      <declaration>By Dylan A. Bramhall, Chief Financial Officer</declaration>
-    </signature>
-    <signature>
-      <partyName>NUSTAR ENERGY L.P.</partyName>
-      <dateSigned>2024-07-15</dateSigned>
-      <declaration>By Dylan A. Bramhall, Chief Financial Officer</declaration>
-    </signature>
-    <signature>
-      <partyName>NUSTAR PIPELINE OPERATING PARTNERSHIP L.P.</partyName>
-      <dateSigned>2024-07-15</dateSigned>
-      <declaration>By Dylan A. Bramhall, Chief Financial Officer</declaration>
+      <declaration>Signed by Dylan A. Bramhall, Chief Financial Officer.</declaration>
     </signature>
   </signatures>
 </contract>

@@ -1,3 +1,4 @@
+<json_output>
 {
   "contract": {
     "parties": [
@@ -21,42 +22,58 @@
       }
     ],
     "offerAndAcceptance": {
-      "offer": "Certain representations and warranties of ET regarding the transactions contemplated by the Merger Agreement.",
-      "acceptance": "Agreement among the Partnership, Parent, and ET.",
-      "meetingOfMinds": "Both parties intend to create a binding legal agreement."
+      "offer": "The Partnership, Parent and ET agree as of January 22, 2024.",
+      "acceptance": "The parties hereby agree to the terms set forth in this Agreement.",
+      "meetingOfMinds": "The parties acknowledge reliance on representations and warranties of ET."
     },
     "consideration": {
-      "description": "Entry into the Support Agreement as a material inducement for the merger.",
-      "value": "Implied value through mutual representations and warranties."
+      "description": "Representations and warranties of ET and covenants in connection with the Merger Agreement.",
+      "value": "Mutual representations, warranties and covenants."
     },
-    "intentionToCreateLegalRelations": "The parties intend to be legally bound by this Agreement.",
-    "legalityOfPurpose": "The Agreement is legal and is governed by the laws of Delaware.",
+    "intentionToCreateLegalRelations": "The parties intend to be legally bound by the terms of this Agreement.",
+    "legalityOfPurpose": "The purposes of the Agreement are lawful under Delaware State law.",
     "certaintyOfTerms": {
-      "subjectMatter": "Merger contemplated by the Merger Agreement.",
-      "timeForPerformance": "Effective Time subject to conditions, around April 22, 2025."
+      "subjectMatter": "Support Agreement related to the acquisition under the Merger Agreement.",
+      "price": "Not defined in this Agreement.",
+      "timeForPerformance": "Automatic termination on the earlier of various conditions."
     },
-    "consent": "The parties have mutually consented to the terms of the Agreement.",
+    "consent": "All parties consent to the terms set forth in this Agreement.",
     "durationAndTermination": {
-      "duration": "Automatically terminates at Support Agreement Termination Date.",
-      "terminationConditions": "Conditions outlined for termination based on occurrence of events or mutual agreement.",
-      "renewalTerms": "Subject to mutual agreement on conditions."
+      "duration": "Term will continue until the Support Agreement Termination Date.",
+      "terminationConditions": "Termination conditions are defined in the Agreement.",
+      "renewalTerms": "Not applicable."
     },
+    "representationsAndWarranties": "Representations and warranties of ET include validity and ownership of interests.",
+    "indemnification": "Provided under the applicable provisions of the Merger Agreement.",
+    "disputeResolution": {
+      "method": "Delaware Court of Chancery jurisdiction for disputes.",
+      "details": "Remedies to include injunctions and specific performance."
+    },
+    "governingLawAndJurisdiction": {
+      "governingLaw": "Laws of the State of Delaware.",
+      "jurisdiction": "Exclusive jurisdiction in Delaware Court of Chancery."
+    },
+    "severability": "Any invalid provision will be severed without affecting the remaining terms.",
+    "forceMajeure": "Not explicitly mentioned in this Agreement.",
+    "confidentiality": "Any disclosure requires consultation among the parties.",
+    "assignmentAndDelegation": "Rights and interests cannot be assigned without consent.",
     "signatures": [
       {
-        "partyName": "Bradley C. Barron",
+        "partyName": "NuStar Energy L.P.",
         "dateSigned": "2024-01-22",
-        "declaration": "President and Chief Executive Officer of NuStar Energy L.P."
+        "declaration": "Executed by authorized representative."
       },
       {
-        "partyName": "Joseph Kim",
+        "partyName": "Sunoco LP",
         "dateSigned": "2024-01-22",
-        "declaration": "President and Chief Executive Officer of Sunoco LP."
+        "declaration": "Executed by authorized representative."
       },
       {
-        "partyName": "Dylan A. Bramhall",
+        "partyName": "Energy Transfer LP",
         "dateSigned": "2024-01-22",
-        "declaration": "EVP & Group CFO of Energy Transfer LP."
+        "declaration": "Executed by authorized representative."
       }
     ]
   }
 }
+</json_output>

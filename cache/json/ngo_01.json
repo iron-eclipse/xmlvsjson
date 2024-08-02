@@ -1,55 +1,66 @@
+<json_output>
 {
   "contract": {
     "parties": [
       {
         "name": "NGO/UN agency",
         "type": "first party",
-        "capacity": "Non-profit organization",
-        "address": "Not provided"
+        "capacity": "Transfer agent for humanitarian activities",
+        "address": "Turkey"
       },
       {
         "name": "Company/agent",
         "type": "second party",
-        "capacity": "Financial agent",
-        "address": "Not provided"
+        "capacity": "Facilitator for financial transfers",
+        "address": "Syria"
       }
     ],
     "offerAndAcceptance": {
-      "offer": "First party offers to transfer money.",
-      "acceptance": "Second party accepts the role of facilitating these transfers.",
-      "meetingOfMinds": "Both parties agree to collaborate on financial transfers."
+      "offer": "Transfer money from Turkey into Syria for humanitarian purposes.",
+      "acceptance": "Agreement to collaborate on the transfer of money.",
+      "meetingOfMinds": "Both parties agree on the terms regarding the transfer."
     },
     "consideration": {
-      "description": "Transfer of monetary funds between parties.",
-      "value": "Amounts are not specified in the contract."
+      "description": "Transfer of funds for humanitarian assistance.",
+      "value": "Monetary value agreed upon by both parties."
     },
-    "intentionToCreateLegalRelations": "Both parties intend to create a legal binding agreement.",
-    "legalityOfPurpose": "Transfer of funds for humanitarian activities.",
+    "intentionToCreateLegalRelations": "Both parties intend to create a legally binding agreement.",
+    "legalityOfPurpose": "The purpose of the contract is legal and humanitarian.",
     "certaintyOfTerms": {
-      "subjectMatter": "Transfer of money for humanitarian assistance.",
-      "timeForPerformance": "To be coordinated by the agreement of both parties."
+      "subjectMatter": "Financial transfers intended for recipients outside governmental control.",
+      "price": "Variable, based on the amount of money transferred.",
+      "timeForPerformance": "Payment must be made within 7 days before the due date."
     },
-    "consent": "Implied consent through mutual agreements in the contract.",
+    "consent": "Both parties consent to the terms and conditions set forth in the agreement.",
     "durationAndTermination": {
-      "duration": "Valid for a period of ______ months commencing from the signature date.",
-      "terminationConditions": "Two weeks notice in writing required for early termination.",
-      "renewalTerms": "Not specified in the contract."
-    },
-    "disputeResolution": {
-      "method": "Friendly resolution and consultation.",
-      "details": "In case of no resolution, disputes will be taken to a mutually agreed mediator."
+      "duration": "To be determined (____ months) from the date of signature.",
+      "terminationConditions": "Two weeks notice required for termination.",
+      "renewalTerms": "Renewal upon mutual written consent."
     },
     "signatures": [
       {
         "partyName": "NGO/UN agency",
-        "dateSigned": "Not provided",
-        "declaration": "For [NGO/UN agency]"
+        "dateSigned": "Date to be filled",
+        "declaration": "Agreement to uphold the terms outlined in this contract."
       },
       {
         "partyName": "Company/agent",
-        "dateSigned": "Not provided",
-        "declaration": "For [company/agent]"
+        "dateSigned": "Date to be filled",
+        "declaration": "Agreement to uphold the terms outlined in this contract."
       }
-    ]
+    ],
+    "disputeResolution": {
+      "method": "Consultation and clear communication between parties.",
+      "details": "Any unresolved disputes will go to a mutually agreed mediator on a cost-sharing basis."
+    },
+    "governingLawAndJurisdiction": {
+      "governingLaw": "Applicable law to be determined.",
+      "jurisdiction": "Jurisdiction subject to both parties' agreement."
+    },
+    "severability": "If any provision is found unenforceable, the remainder of the contract remains in effect.",
+    "forceMajeure": "Parties are not liable for failures due to circumstances beyond their control.",
+    "confidentiality": "Both parties agree to keep the terms and details confidential.",
+    "assignmentAndDelegation": "Neither party may assign or delegate any obligations under this Agreement without written consent."
   }
 }
+</json_output>

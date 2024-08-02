@@ -3,57 +3,63 @@
         <party>
             <name>SANTA CRUZ COUNTY REGIONAL TRANSPORTATION COMMISSION</name>
             <type>Commission</type>
-            <capacity>Government Entity</capacity>
-            <address>1523 Pacific Ave, Santa Cruz, CA, 95060</address>
+            <capacity>Public Authority</capacity>
+            <address>Santa Cruz County Regional Transportation Commission, 1523 Pacific Ave, Santa Cruz, CA 95060</address>
         </party>
         <party>
             <name>CONSULTANT</name>
             <type>Consultant</type>
-            <capacity>Service Provider</capacity>
-            <address>________ (insert address here)</address>
+            <capacity>Professional Service Provider</capacity>
+            <address>________ (Address not provided)</address>
         </party>
     </parties>
     <offerAndAcceptance>
-        <offer>The CONSULTANT agrees to exercise special skill to accomplish the specified results.</offer>
-        <acceptance>AGREEMENT made and entered into this _______ day of , 20.</acceptance>
-        <meetingOfMinds>The parties have reached an understanding regarding the terms of professional services.</meetingOfMinds>
+        <offer>This Agreement serves as a Professional Services Agreement for specific services or projects as referenced in the contract.</offer>
+        <acceptance>Both parties acknowledge and consent to the terms and conditions as outlined herein.</acceptance>
+        <meetingOfMinds>The parties have reached a mutual understanding and agreement of the terms laid out in this document.</meetingOfMinds>
     </offerAndAcceptance>
     <consideration>
-        <description>Payment for time and materials.</description>
-        <value>Up to $_______ (insert total payment amount here).</value>
+        <description>Payment for professional services rendered by the CONSULTANT.</description>
+        <value>Not to exceed $_____ for time and materials as per Exhibit B - Fee Schedule.</value>
     </consideration>
-    <intentionToCreateLegalRelations>This Agreement is intended to create legal obligations.</intentionToCreateLegalRelations>
-    <legalityOfPurpose>The purpose of this Agreement is lawful and valid under applicable laws.</legalityOfPurpose>
+    <intentionToCreateLegalRelations>Both parties intend for this Agreement to create legal obligations.</intentionToCreateLegalRelations>
+    <legalityOfPurpose>The purpose of this Agreement complies with all applicable laws and regulations.</legalityOfPurpose>
     <certaintyOfTerms>
-        <subjectMatter>Professional Services</subjectMatter>
-        <price>Up to $_______ (insert total payment amount here).</price>
-        <timeForPerformance>To commence upon notification from the Contract Manager.</timeForPerformance>
+        <subjectMatter>Scope of Services as laid out in Exhibit A.</subjectMatter>
+        <price>Not to exceed $_____.</price>
+        <timeForPerformance>This Agreement shall commence upon approval and notification to proceed.</timeForPerformance>
     </certaintyOfTerms>
-    <consent>All parties have consented to the terms of this Agreement.</consent>
-    <formAndFormalities>This Agreement must be executed in writing.</formAndFormalities>
+    <consent>CONSULTANT shall obtain written consent for any changes to key personnel as specified.</consent>
+    <formAndFormalities>This Agreement constitutes the entire agreement between the parties and is binding upon execution.</formAndFormalities>
     <durationAndTermination>
-        <duration>This Agreement shall take effect on (insert date here) and end on (insert date here).</duration>
-        <terminationConditions>The COMMISSION may terminate the Agreement with thirty (30) days written notice.</terminationConditions>
+        <duration>This Agreement shall take effect on (DATE) and end on (DATE).</duration>
+        <terminationConditions>Termination by either party with a written notice as specified.</terminationConditions>
+        <renewalTerms>Renewal shall be documented by written agreement from both parties.</renewalTerms>
     </durationAndTermination>
-    <indemnification>CONSULTANT shall indemnify the COMMISSION against claims arising from negligence, etc.</indemnification>
+    <representationsAndWarranties>Each party represents that they have the authority to enter into this Agreement.</representationsAndWarranties>
+    <indemnification>CONSULTANT shall indemnify and hold harmless COMMISSION from any claims arising from negligence.</indemnification>
     <disputeResolution>
-        <method>Committee review consisting of the COMMISSION’s Contract Manager and Executive Director.</method>
-        <details>Any disputes may be submitted for review within 30 days of completion of deliverables.</details>
+        <method>Dispute resolution via a committee of the COMMISSION's Contract Manager and Executive Director.</method>
+        <details>Unresolved disputes may be reviewed by the COMMISSION GOVERNING BOARD.</details>
     </disputeResolution>
     <governingLawAndJurisdiction>
         <governingLaw>State of California</governingLaw>
-        <jurisdiction>Jurisdiction for any disputes shall be in the state courts of California.</jurisdiction>
+        <jurisdiction>Jurisdiction in the courts in California.</jurisdiction>
     </governingLawAndJurisdiction>
+    <severability>If any provision is found to be invalid, the remainder will still be enforceable.</severability>
+    <forceMajeure>Neither party shall be liable for failure to perform due to unforeseen circumstances.</forceMajeure>
+    <confidentiality>All proprietary information obtained during this Agreement shall remain confidential.</confidentiality>
+    <assignmentAndDelegation>CONSULTANT cannot assign this Agreement without prior written consent from COMMISSION.</assignmentAndDelegation>
     <signatures>
         <signature>
             <partyName>CONSULTANT</partyName>
-            <dateSigned>______ (insert signature date here)</dateSigned>
-            <declaration>By signing, the CONSULTANT certifies agreement to the terms.</declaration>
+            <dateSigned>_______ (Date not provided)</dateSigned>
+            <declaration>This Agreement is executed by the duly authorized representatives.</declaration>
         </signature>
         <signature>
             <partyName>SANTA CRUZ COUNTY REGIONAL TRANSPORTATION COMMISSION</partyName>
-            <dateSigned>______ (insert signature date here)</dateSigned>
-            <declaration>By signing, the COMMISSION certifies agreement to the terms.</declaration>
+            <dateSigned>_______ (Date not provided)</dateSigned>
+            <declaration>This Agreement is executed by the duly authorized representatives.</declaration>
         </signature>
     </signatures>
 </contract>

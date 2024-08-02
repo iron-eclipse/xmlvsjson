@@ -1,50 +1,53 @@
+<json_output>
 {
   "contract": {
     "parties": [
       {
         "name": "Brightcast LLC",
-        "type": "Business",
-        "capacity": "Media Buying Agency",
+        "type": "Corporation",
+        "capacity": "Media Buying Entity",
         "address": "2699 Pacific Coast Highway, Suite 200, Hermosa Beach, CA 90254"
       },
       {
         "name": "Eva Live Inc",
-        "type": "Business",
-        "capacity": "Media Buyer",
-        "address": ""
+        "type": "Corporation",
+        "capacity": "Service Provider",
+        "address": "Attention: David Boulette; Email: dave@eva.live"
       }
     ],
     "offerAndAcceptance": {
-      "offer": "Engagement of Company to provide media buying services.",
-      "acceptance": "Subject to the terms and conditions of the Agreement.",
-      "meetingOfMinds": "Both parties agree to the terms outlined."
+      "offer": "Engage Company (Eva Live Inc) to provide media buying services.",
+      "acceptance": "Implied by the signing of the agreement.",
+      "meetingOfMinds": "Parties agreed on terms of service and responsibilities."
     },
     "consideration": {
-      "description": "Revenue share based on ad revenues from Oath.",
-      "value": "85% of Paid Search Revenues."
+      "description": "Revenue share of 85% of paid search revenues.",
+      "value": "85%"
     },
-    "intentionToCreateLegalRelations": "Both parties have intention to create legal relations by signing this agreement.",
-    "legalityOfPurpose": "Legal engagement in media buying services.",
+    "intentionToCreateLegalRelations": "The parties entered into a formal agreement.",
+    "legalityOfPurpose": "This contract has a lawful purpose (media buying).",
     "certaintyOfTerms": {
-      "subjectMatter": "Media buying services.",
-      "timeForPerformance": "Indefinite until terminated."
+      "subjectMatter": "Provision of media buying services.",
+      "price": "85%",
+      "timeForPerformance": "Effective from May 5, 2022 until termination."
     },
-    "consent": "Implied consent from both parties agreeing to the terms.",
+    "consent": "Implied consent through signature.",
     "durationAndTermination": {
-      "duration": "Indefinite until terminated by either party with a 30-day written notice.",
-      "terminationConditions": "Immediate termination for breach of agreement."
+      "duration": "Effective from May 5, 2022 until terminated with 30-day written notice.",
+      "terminationConditions": "Material breach, actions by Oath."
     },
     "signatures": [
       {
         "partyName": "Brightcast LLC",
         "dateSigned": "2022-05-16",
-        "declaration": "Signed by authorized representative."
+        "declaration": "Authorized Signatory"
       },
       {
         "partyName": "Eva Live Inc",
         "dateSigned": "2022-05-16",
-        "declaration": "Signed by Phil Aspin, Director."
+        "declaration": "Authorized Signatory; Title: Director; Print Name: Phil Aspin"
       }
     ]
   }
 }
+</json_output>
