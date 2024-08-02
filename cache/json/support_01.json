@@ -1,77 +1,57 @@
 <json_output>
 {
-  "contract": {
+  "agreement": {
     "parties": [
       {
-        "name": "Sunoco LP",
-        "type": "Limited Partnership",
-        "capacity": "Parent",
-        "address": "8111 Westchester Drive, Suite 400, Dallas, TX 75225"
+        "name": "NUSTAR ENERGY L.P.",
+        "generalPartner": "RIVERWALK LOGISTICS, L.P."
       },
       {
-        "name": "NuStar Energy L.P.",
-        "type": "Limited Partnership",
-        "capacity": "Partnership",
-        "address": "19003 IH-10 West, San Antonio, TX 78257"
+        "name": "SUNOCO LP",
+        "generalPartner": "SUNOCO GP LLC"
       },
       {
-        "name": "Energy Transfer LP",
-        "type": "Limited Partnership",
-        "capacity": "ET",
-        "address": "8111 Westchester Drive, Suite 600, Dallas, TX 75225"
+        "name": "ENERGY TRANSFER LP",
+        "generalPartner": "LE GP, LLC"
       }
     ],
-    "offerAndAcceptance": {
-      "offer": "The Partnership, Parent and ET agree as of January 22, 2024.",
-      "acceptance": "The parties hereby agree to the terms set forth in this Agreement.",
-      "meetingOfMinds": "The parties acknowledge reliance on representations and warranties of ET."
-    },
-    "consideration": {
-      "description": "Representations and warranties of ET and covenants in connection with the Merger Agreement.",
-      "value": "Mutual representations, warranties and covenants."
-    },
-    "intentionToCreateLegalRelations": "The parties intend to be legally bound by the terms of this Agreement.",
-    "legalityOfPurpose": "The purposes of the Agreement are lawful under Delaware State law.",
-    "certaintyOfTerms": {
-      "subjectMatter": "Support Agreement related to the acquisition under the Merger Agreement.",
-      "price": "Not defined in this Agreement.",
-      "timeForPerformance": "Automatic termination on the earlier of various conditions."
-    },
-    "consent": "All parties consent to the terms set forth in this Agreement.",
-    "durationAndTermination": {
-      "duration": "Term will continue until the Support Agreement Termination Date.",
-      "terminationConditions": "Termination conditions are defined in the Agreement.",
-      "renewalTerms": "Not applicable."
-    },
-    "representationsAndWarranties": "Representations and warranties of ET include validity and ownership of interests.",
-    "indemnification": "Provided under the applicable provisions of the Merger Agreement.",
-    "disputeResolution": {
-      "method": "Delaware Court of Chancery jurisdiction for disputes.",
-      "details": "Remedies to include injunctions and specific performance."
-    },
-    "governingLawAndJurisdiction": {
-      "governingLaw": "Laws of the State of Delaware.",
-      "jurisdiction": "Exclusive jurisdiction in Delaware Court of Chancery."
-    },
-    "severability": "Any invalid provision will be severed without affecting the remaining terms.",
-    "forceMajeure": "Not explicitly mentioned in this Agreement.",
-    "confidentiality": "Any disclosure requires consultation among the parties.",
-    "assignmentAndDelegation": "Rights and interests cannot be assigned without consent.",
+    "signatureDate": "date first written above",
     "signatures": [
       {
-        "partyName": "NuStar Energy L.P.",
-        "dateSigned": "2024-01-22",
-        "declaration": "Executed by authorized representative."
+        "party": "NUSTAR ENERGY L.P.",
+        "executor": "RIVERWALK LOGISTICS, L.P. (its general partner)",
+        "executor2": "NUSTAR GP, LLC (its general partner)",
+        "signature": "/s/ Bradley C. Barron",
+        "name": "Bradley C. Barron",
+        "title": "President and Chief Executive Officer"
       },
       {
-        "partyName": "Sunoco LP",
-        "dateSigned": "2024-01-22",
-        "declaration": "Executed by authorized representative."
+        "party": "SUNOCO LP",
+        "executor": "SUNOCO GP LLC (its general partner)",
+        "signature": "/s/ Joseph Kim",
+        "name": "Joseph Kim",
+        "title": "President and Chief Executive Officer"
       },
       {
-        "partyName": "Energy Transfer LP",
-        "dateSigned": "2024-01-22",
-        "declaration": "Executed by authorized representative."
+        "party": "ENERGY TRANSFER LP",
+        "executor": "LE GP, LLC (its general partner)",
+        "signature": "/s/ Dylan A. Bramhall",
+        "name": "Dylan A. Bramhall",
+        "title": "EVP & Group CFO"
+      }
+    ],
+    "provisions": [
+      {
+        "name": "WAIVER OF JURY TRIAL",
+        "content": "each of the parties hereto hereby consents to the service of process in accordance with Section 7; provided, however, that nothing herein shall affect the right of any party to serve legal process in any other manner permitted by Law."
+      },
+      {
+        "name": "SEVERABILITY",
+        "content": "any term or provision of this Agreement which is held to be invalid or unenforceable in a court of competent jurisdiction shall be ineffective to the extent of such invalidity or unenforceability without rendering invalid or unenforceable the remaining terms and provisions of this Agreement."
+      },
+      {
+        "name": "COUNTERPARTS",
+        "content": "this Agreement may be executed in two (2) or more counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument, and shall become effective when one or more counterparts have been signed by each of the parties and delivered (by telecopy, electronic delivery or otherwise) to the other parties."
       }
     ]
   }

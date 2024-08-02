@@ -1,61 +1,50 @@
 <json_output>
 {
-  "contract": {
-    "parties": [
+  "agreement": {
+    "sections": [
       {
-        "name": "Equitable Financial Life Insurance Company",
-        "type": "Corporation",
-        "capacity": "Insurance Company",
-        "address": "1290 Avenue of the Americas, New York, New York, 10104"
+        "name": "Separate Counterparts",
+        "description": "This Agreement may be executed in separate counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument."
       },
       {
-        "name": "Equitable Distributors, LLC",
-        "type": "LLC",
-        "capacity": "Distributor",
-        "address": "1290 Avenue of the Americas, New York, New York, 10104"
-      }
-    ],
-    "offerAndAcceptance": {
-      "offer": "Provision of services, personnel, and property by Equitable Financial to Equitable Distributors.",
-      "acceptance": "Both parties agree to the terms as stated in this contract.",
-      "meetingOfMinds": "Effective as of November 1, 2023."
-    },
-    "consideration": {
-      "description": "Reimbursement for costs incurred for services provided.",
-      "value": "Costs to be documented and settled through expense allocations."
-    },
-    "intentionToCreateLegalRelations": "The parties intend to create a binding legal agreement.",
-    "legalityOfPurpose": "The agreement pertains to the distribution of legally permissible insurance products.",
-    "certaintyOfTerms": {
-      "subjectMatter": "Use of personnel, property, and services for management and distribution functions.",
-      "timeForPerformance": "Effective from November 1, 2023, until termination."
-    },
-    "consent": "Both parties have consented by executing this agreement.",
-    "durationAndTermination": {
-      "duration": "Effective indefinitely from the effective date with termination conditions.",
-      "terminationConditions": "90 days written notice by either party.",
-      "renewalTerms": "Not specified."
-    },
-    "disputeResolution": {
-      "method": "Arbitration",
-      "details": "Arbitration in New York according to the American Arbitration Association rules."
-    },
-    "governingLawAndJurisdiction": {
-      "governingLaw": "New York",
-      "jurisdiction": "New York"
-    },
-    "signatures": [
-      {
-        "partyName": "Robin M. Raju",
-        "dateSigned": "2023-11-01",
-        "declaration": "Chief Financial Officer for Equitable Financial"
-      },
-      {
-        "partyName": "Nick Lane",
-        "dateSigned": "2023-11-01",
-        "declaration": "President for Equitable Distributors"
+        "name": "Limitation on Liability",
+        "description": "In no event will either party have any liability for any loss of income, profit, interest or savings by the other party or for any indirect, incidental, consequential, punitive or special damages suffered by the other party, arising from or related to this Agreement, regardless of the form of action, and whether in contract, indemnity, warranty, strict liability or tort (including, without limitation, negligence), or any other legal or equitable grounds, even if such party has been advised of the possibility of such losses or damages. The liability of either party for actual, direct damages resulting from performance or nonperformance under this Agreement, regardless of the form of action, and whether in contract, tort (including, without limitation, negligence), warranty or other legal or equitable grounds, will be limited in the aggregate to the Net Limitation Amount."
       }
     ]
+  },
+  "parties": [
+    {
+      "name": "EQUITABLE FINANCIAL LIFE INSURANCE COMPANY",
+      "title": "Chief Financial Officer",
+      "representative": "Robin M. Raju"
+    },
+    {
+      "name": "EQUITABLE DISTRIBUTORS, LLC",
+      "title": "President",
+      "representative": "Nick Lane"
+    }
+  ],
+  "scheduleI": {
+    "wholesaleSales": {},
+    "initialSales": {},
+    "support": {},
+    "reclassification": {},
+    "corporateExpenses": {
+      "allocationDriver": "First Year Premium",
+      "annualFixedPercentage": "Annual Fixed Percentage",
+      "allocationMethod": "Total expenses related to wholesale sales are allocated to Equitable Distributors from Equitable Financial and its affiliates.",
+      "rationale": [
+        {
+          "description": "Expenses are 100% dedicated to wholesale product sales within the Lines of Business for all products."
+        },
+        {
+          "description": "First year premium is a key indicator of sales efforts by distribution channel."
+        },
+        {
+          "description": "Sales support reclassification to identify the sales support split between all distribution channels and Equitable Distributors."
+        }
+      ]
+    }
   }
 }
 </json_output>

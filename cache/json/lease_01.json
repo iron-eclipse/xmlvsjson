@@ -1,162 +1,46 @@
 <json_output>
 {
-  "contract": {
-    "parties": [
-      {
-        "name": "Parish of St. James, State of Louisiana",
-        "type": "Issuer",
-        "capacity": "Political subdivision",
-        "address": "State of Louisiana"
-      },
-      {
-        "name": "NuStar Logistics, L.P.",
-        "type": "Company",
-        "capacity": "Limited partnership",
-        "address": "State of Delaware"
-      },
-      {
-        "name": "Sunoco LP",
-        "type": "Additional Guarantor",
-        "capacity": "Limited partnership",
-        "address": "Delaware"
-      },
-      {
-        "name": "Aloha Petroleum LLC",
-        "type": "Additional Guarantor",
-        "capacity": "Limited liability company",
-        "address": "Delaware"
-      },
-      {
-        "name": "Aloha Petroleum, Ltd.",
-        "type": "Additional Guarantor",
-        "capacity": "Corporation",
-        "address": "Hawaii"
-      },
-      {
-        "name": "Sunmarks, LLC",
-        "type": "Additional Guarantor",
-        "capacity": "Limited liability company",
-        "address": "Delaware"
-      },
-      {
-        "name": "Sunoco, LLC",
-        "type": "Additional Guarantor",
-        "capacity": "Limited liability company",
-        "address": "Delaware"
-      },
-      {
-        "name": "Sunoco Midstream LLC",
-        "type": "Additional Guarantor",
-        "capacity": "Limited liability company",
-        "address": "Delaware"
-      },
-      {
-        "name": "Sunoco Finance Corp.",
-        "type": "Additional Guarantor",
-        "capacity": "Corporation",
-        "address": "Delaware"
-      },
-      {
-        "name": "Sunoco NLR LLC",
-        "type": "Additional Guarantor",
-        "capacity": "Limited liability company",
-        "address": "Delaware"
-      },
-      {
-        "name": "Sunoco Refined Products LLC",
-        "type": "Additional Guarantor",
-        "capacity": "Limited liability company",
-        "address": "Delaware"
-      },
-      {
-        "name": "Sunoco Retail LLC",
-        "type": "Additional Guarantor",
-        "capacity": "Limited liability company",
-        "address": "Pennsylvania"
-      },
-      {
-        "name": "NuStar Energy L.P.",
-        "type": "Additional Guarantor",
-        "capacity": "Limited partnership",
-        "address": "Delaware"
-      },
-      {
-        "name": "NuStar Pipeline Operating Partnership L.P.",
-        "type": "Additional Guarantor",
-        "capacity": "Limited partnership",
-        "address": "Delaware"
-      },
-      {
-        "name": "NuStar Pipeline Partners L.P.",
-        "type": "Additional Guarantor",
-        "capacity": "Limited partnership",
-        "address": "Delaware"
-      },
-      {
-        "name": "NuStar Permian Holdings, LLC",
-        "type": "Additional Guarantor",
-        "capacity": "Limited liability company",
-        "address": "Delaware"
-      }
+    "date": "July 15, 2024",
+    "sections": [
+        {
+            "name": "Indenture",
+            "description": "Second Supplemental Indenture"
+        },
+        {
+            "name": "Consent of Company",
+            "description": "Pursuant to Section 11.03 of the Original Indenture, the Company hereby consents to the execution and delivery of the Second Supplemental Indenture."
+        }
     ],
-    "offerAndAcceptance": {
-      "offer": "Amendment of Lease Agreement",
-      "acceptance": "Execution and delivery of the Second Supplemental Lease Agreement",
-      "meetingOfMinds": "Parties agree to the terms of amendment and additions"
-    },
-    "consideration": {
-      "description": "Revenue Bonds for the project",
-      "value": "$100,000,000"
-    },
-    "intentionToCreateLegalRelations": "It is disclosed through the formal nature of the amendment.",
-    "legalityOfPurpose": "The purpose is legal as per the nature of the contract.",
-    "certaintyOfTerms": {
-      "subjectMatter": "Amendment to Lease Agreement regarding construction and storage facilities.",
-      "price": "$100,000,000",
-      "timeForPerformance": "Effective on July 15, 2024"
-    },
-    "consent": "Consent from parties regarding the amendment.",
-    "durationAndTermination": {
-      "duration": "Indefinite until terminated by either party as per terms.",
-      "terminationConditions": "Conditions not explicitly stated in the provided sections.",
-      "renewalTerms": "Renewal terms not explicitly detailed."
-    },
-    "representationsAndWarranties": "Confirmed by both parties as per the earlier agreement.",
-    "indemnification": "Not mentioned in the provided text.",
-    "disputeResolution": {
-      "method": "Not specified.",
-      "details": "Not specified."
-    },
-    "governingLawAndJurisdiction": {
-      "governingLaw": "State of Louisiana",
-      "jurisdiction": "Courts in the State of Louisiana"
-    },
-    "severability": "If any part is found invalid, the remainder shall still be valid.",
-    "forceMajeure": "Not mentioned in the provided text.",
-    "confidentiality": "Not mentioned in the provided text.",
-    "assignmentAndDelegation": "Not mentioned in the provided text.",
     "signatures": [
-      {
-        "partyName": "Parish of St. James, State of Louisiana",
-        "dateSigned": "2024-07-15",
-        "declaration": "By: Pete Dufresne, Parish President"
-      },
-      {
-        "partyName": "NuStar Logistics, L.P.",
-        "dateSigned": "2024-07-15",
-        "declaration": "By: Dylan A. Bramhall, Chief Financial Officer"
-      },
-      {
-        "partyName": "NuStar Energy L.P.",
-        "dateSigned": "2024-07-15",
-        "declaration": "By: Dylan A. Bramhall, Chief Financial Officer"
-      },
-      {
-        "partyName": "NuStar Pipeline Operating Partnership L.P.",
-        "dateSigned": "2024-07-15",
-        "declaration": "By: Dylan A. Bramhall, Chief Financial Officer"
-      }
+        {
+            "name": "Parish President",
+            "signature": "/s/ Pete Dufresne"
+        },
+        {
+            "name": "Secretary, Parish Council",
+            "signature": "/s/ Linda Hubbell"
+        },
+        {
+            "name": "Chief Financial Officer",
+            "signature": "/s/ Dylan A. Bramhall"
+        }
+    ],
+    "guarantors": [
+        "Sunoco LP, a Delaware limited partnership.",
+        "Aloha Petroleum LLC, a Delaware limited liability company.",
+        "Aloha Petroleum, Ltd., a Hawaii corporation.",
+        "Sunmarks, LLC, a Delaware limited liability company.",
+        "Sunoco, LLC, a Delaware limited liability company.",
+        "Sunoco Midstream LLC, a Delaware limited liability company.",
+        "Sunoco Finance Corp., a Delaware corporation.",
+        "Sunoco NLR LLC, a Delaware limited liability company.",
+        "Sunoco Refined Products LLC, a Delaware limited liability company.",
+        "Sunoco Retail LLC, a Pennsylvania limited liability company.",
+        "NuStar Energy L.P., a Delaware limited partnership.",
+        "NuStar Logistics, L.P., a Delaware limited partnership.",
+        "NuStar Pipeline Operating Partnership L.P., a Delaware limited partnership.",
+        "NuStar Pipeline Partners L.P., a Delaware limited partnership.",
+        "NuStar Permian Holdings, LLC, a Delaware limited liability company."
     ]
-  }
 }
 </json_output>

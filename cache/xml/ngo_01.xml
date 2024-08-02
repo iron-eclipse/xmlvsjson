@@ -1,55 +1,17 @@
 <contract>
-  <parties>
-    <party>
-      <name>NGO/UN agency</name>
-      <type>First Party</type>
-      <capacity>First party desires to transfer money</capacity>
-      <address/>
-    </party>
-    <party>
-      <name>Company/agent</name>
-      <type>Second Party</type>
-      <capacity>Second party facilitates transfers</capacity>
-      <address/>
-    </party>
-  </parties>
-  <offerAndAcceptance>
-    <offer>The first party intends to transfer money to people residing in areas outside of the control of the Government of Syria.</offer>
-    <acceptance>The second party has the proven capacity, experience and highest reasonable standard of diligence to facilitate the transfers.</acceptance>
-    <meetingOfMinds>Both parties agree to collaborate on the transfer of funds.</meetingOfMinds>
-  </offerAndAcceptance>
-  <consideration>
-    <description>Transfer of money for humanitarian activities</description>
-    <value>Value corresponds to the money being transferred</value>
-  </consideration>
-  <intentionToCreateLegalRelations>Yes</intentionToCreateLegalRelations>
-  <legalityOfPurpose>Funds are to be transferred for humanitarian activities in Syria.</legalityOfPurpose>
-  <certaintyOfTerms>
-    <subjectMatter>Transfer of funds to recipients in Syria</subjectMatter>
-    <price>USD or Euro based on a pre-agreed exchange rate</price>
-    <timeForPerformance>Transfer should notify the second party 7 days in advance</timeForPerformance>
-  </certaintyOfTerms>
-  <consent>Mutual written consent required for amendments.</consent>
-  <formAndFormalities>Contract effective upon signature by both parties.</formAndFormalities>
-  <durationAndTermination>
-    <duration>Valid for a period of ______ months</duration>
-    <terminationConditions>Notice of two weeks must be submitted to terminate.</terminationConditions>
-    <renewalTerms>Not specified.</renewalTerms>
-  </durationAndTermination>
-  <disputeResolution>
-    <method>Mutually agreed mediator on a cost-sharing basis.</method>
-    <details>Resolve disputes through consultation and clear communication.</details>
-  </disputeResolution>
-  <signatures>
-    <signature>
-      <partyName>NGO/UN agency</partyName>
-      <dateSigned>Not specified</dateSigned>
-      <declaration>For the first party</declaration>
-    </signature>
-    <signature>
-      <partyName>Company/agent</partyName>
-      <dateSigned>Not specified</dateSigned>
-      <declaration>For the second party</declaration>
-    </signature>
-  </signatures>
-</contract>
+    <article id="5">
+      <section name="Termination"> 
+        <text>Should either of the parties intend to terminate this agreement prematurely, notice of two weeks must be submitted to the other party in writing, in order to end the agreement on good terms.</text>
+      </section>
+    </article>
+    <article id="6">
+      <section name="Dispute Resolution"> 
+        <subsection name="Friendly Resolution"> 
+          <text>Both parties shall use their best efforts to resolve any dispute in a friendly manner, through consultation and clear communication;</text>
+        </subsection>
+        <subsection name="Mediation"> 
+          <text[Any dispute which cannot be resolved in such a way will be taken to a mutually agreed mediator on a cost-sharing basis.]</text>
+        </subsection>
+      </section>
+    </article>
+  </contract>

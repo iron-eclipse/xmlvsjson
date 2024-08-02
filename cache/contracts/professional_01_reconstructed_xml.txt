@@ -1,78 +1,95 @@
-**PROFESSIONAL SERVICES AGREEMENT**
+**Scratchpad**
 
-This Professional Services Agreement ("Agreement") is made and entered into by and between:
+* Main sections: Parties, Offer and Acceptance, Consideration, Intention to Create Legal Relations, Legality of Purpose, Certainty of Terms, Consent, Form and Formalities, Duration and Termination, Representations and Warranties, Indemnification, Dispute Resolution, Governing Law and Jurisdiction, Severability, Force Majeure, Confidentiality, Assignment and Delegation, Signatures
+* Parties: Consultant (name, address), Commission (name, address)
+* Consideration: Description, Value
 
-**SANTA CRUZ COUNTY REGIONAL TRANSPORTATION COMMISSION** ("COMMISSION"), a Public Authority, with an address at 1523 Pacific Ave, Santa Cruz, CA 95060, and
+**Reconstructed Contract Text**
 
-**CONSULTANT**, a Professional Service Provider, with an address of ________ (Address not provided).
+CONTRACT FOR [PROJECT NAME]
 
-**WHEREAS**, this Agreement serves as a Professional Services Agreement for specific services or projects as referenced in the contract.
+This Contract ("Agreement") is entered into by and between the following parties:
 
-**NOW, THEREFORE**, in consideration of the mutual promises and covenants herein contained, the parties agree as follows:
+* The Consultant: [Name], with an address at [Address], telephone number [Telephone], fax number [Fax], and email [Email].
+* The Commission: Santa Cruz County Regional Transportation Commission (SCCRTC), with an address at 1523 Pacific Ave, Santa Cruz, CA 95060.
 
-1. **OFFER AND ACCEPTANCE**
-   - The offer is outlined above, and both parties acknowledge and consent to the terms and conditions as outlined herein.
-   - The parties have reached a mutual understanding and agreement of the terms laid out in this document.
+**ARTICLE I: OFFER AND ACCEPTANCE**
 
-2. **CONSIDERATION**
-   - Payment for professional services rendered by the CONSULTANT shall not exceed $_____ for time and materials as per Exhibit B - Fee Schedule.
+The Consultant offers to provide services to the Commission as outlined in Exhibit A: Scope of Services. The Commission accepts this offer and agrees to pay the Consultant according to the fee schedule outlined in Exhibit B: Fee Schedule.
 
-3. **INTENTION TO CREATE LEGAL RELATIONS**
-   - Both parties intend for this Agreement to create legal obligations.
+**ARTICLE II: CONSIDERATION**
 
-4. **LEGALITY OF PURPOSE**
-   - The purpose of this Agreement complies with all applicable laws and regulations.
+In consideration of the mutual covenants and promises contained herein, the parties agree that:
 
-5. **CERTAINTY OF TERMS**
-   - **Subject Matter**: Scope of Services as laid out in Exhibit A.
-   - **Price**: Not to exceed $_____.
-   - **Time for Performance**: This Agreement shall commence upon approval and notification to proceed.
+* The Commission will pay the Consultant a total of [Amount] for the services provided.
+* The payment shall be made according to the terms outlined in Exhibit B: Fee Schedule.
 
-6. **CONSENT**
-   - CONSULTANT shall obtain written consent for any changes to key personnel as specified.
+**ARTICLE III: INTENTION TO CREATE LEGAL RELATIONS**
 
-7. **FORM AND FORMALITIES**
-   - This Agreement constitutes the entire agreement between the parties and is binding upon execution.
+The parties intend to create legal and binding relations by virtue of this Agreement, which represents the entire understanding between the Consultant and the Commission. This Agreement supersedes all prior negotiations, understandings, and agreements.
 
-8. **DURATION AND TERMINATION**
-   - This Agreement shall take effect on (DATE) and end on (DATE).
-   - Termination by either party with a written notice as specified.
-   - Renewal shall be documented by written agreement from both parties.
+**ARTICLE IV: LEGALITY OF PURPOSE**
 
-9. **REPRESENTATIONS AND WARRANTIES**
-   - Each party represents that they have the authority to enter into this Agreement.
+The purpose of this Agreement is lawful and not in violation of any applicable laws or regulations.
 
-10. **INDEMNIFICATION**
-    - CONSULTANT shall indemnify and hold harmless COMMISSION from any claims arising from negligence.
+**ARTICLE V: CERTAINTY OF TERMS**
 
-11. **DISPUTE RESOLUTION**
-    - Dispute resolution via a committee of the COMMISSION's Contract Manager and Executive Director.
-    - Unresolved disputes may be reviewed by the COMMISSION GOVERNING BOARD.
+The parties acknowledge that they have read and understood the terms and conditions contained in this Agreement. They agree to be bound by its provisions and to perform their obligations in good faith.
 
-12. **GOVERNING LAW AND JURISDICTION**
-    - This Agreement shall be governed by the laws of the State of California, and jurisdiction shall be in the courts of California.
+**ARTICLE VI: CONSENT**
 
-13. **SEVERABILITY**
-    - If any provision of this Agreement is found to be invalid, the remainder will still be enforceable.
+This Agreement constitutes the entire understanding between the Consultant and the Commission. It replaces all prior agreements, understandings, and negotiations. Each party has carefully read, understands, and agrees to be bound by this Agreement.
 
-14. **FORCE MAJEURE**
-    - Neither party shall be liable for failure to perform due to unforeseen circumstances.
+**ARTICLE VII: FORM AND FORMALITIES**
 
-15. **CONFIDENTIALITY**
-    - All proprietary information obtained during this Agreement shall remain confidential.
+This Agreement shall be governed by and construed in accordance with the laws of [State/Country]. The parties agree that any dispute arising out of or relating to this Agreement shall be resolved through binding arbitration in [Location], according to the rules of the [Arbitration Organization].
 
-16. **ASSIGNMENT AND DELEGATION**
-    - CONSULTANT cannot assign this Agreement without prior written consent from COMMISSION.
+**ARTICLE VIII: DURATION AND TERMINATION**
 
-17. **SIGNATURES**
-   - This Agreement is executed by the duly authorized representatives of the parties as follows:
+The term of this Agreement shall commence on [Date] and terminate on [Date]. Upon termination, all rights and obligations under this Agreement shall cease, except for any obligations that by their nature are intended to survive termination.
 
-   SIGNED: ______________________________________  
-   **CONSULTANT**  
-   Date Signed: _______ (Date not provided)
+**ARTICLE IX: REPRESENTATIONS AND WARRANTIES**
 
-   SIGNED: ______________________________________  
-   **SANTA CRUZ COUNTY REGIONAL TRANSPORTATION COMMISSION**  
-   Date Signed: _______ (Date not provided)
+Each party represents and warrants that:
 
-This document embodies the entire agreement between the parties and may only be amended in writing, signed by both parties.
+* The information provided in this Agreement is accurate and complete.
+* They have the authority to enter into this Agreement and perform their obligations.
+
+**ARTICLE X: INDEMNIFICATION**
+
+The Consultant shall indemnify and hold harmless the Commission, its officers, directors, employees, and agents from any damages or liabilities arising out of or related to this Agreement.
+
+**ARTICLE XI: DISPUTE RESOLUTION**
+
+Any dispute arising out of or relating to this Agreement shall be resolved through binding arbitration in [Location], according to the rules of the [Arbitration Organization].
+
+**ARTICLE XII: GOVERNING LAW AND JURISDICTION**
+
+This Agreement shall be governed by and construed in accordance with the laws of [State/Country]. The parties agree that any dispute arising out of or relating to this Agreement shall be resolved through binding arbitration in [Location], according to the rules of the [Arbitration Organization].
+
+**ARTICLE XIII: SEVERABILITY**
+
+If any provision of this Agreement is declared invalid or unenforceable, such invalidity or unenforceability shall not affect the validity or enforceability of any other provision.
+
+**ARTICLE XIV: FORCE MAJEURE**
+
+The parties agree that they will not be liable for any failure to perform their obligations due to events beyond their control, including but not limited to acts of God, natural disasters, and government action.
+
+**ARTICLE XV: CONFIDENTIALITY**
+
+Each party agrees to keep confidential all information disclosed by the other party in connection with this Agreement.
+
+**ARTICLE XVI: ASSIGNMENT AND DELEGATION**
+
+Neither party shall assign or delegate any rights or obligations under this Agreement without the prior written consent of the other party.
+
+**ARTICLE XVII: SIGNATURES**
+
+This Agreement has been signed and accepted as of the dates indicated below:
+
+* Consultant: [Name], with an address at [Address] (Signature) _______________________________, Date __________________________________.
+* Commission: Santa Cruz County Regional Transportation Commission (SCCRTC), with an address at 1523 Pacific Ave, Santa Cruz, CA 95060 (Signature) _______________________________, Date __________________________________.
+
+By: ________________________________________________________
+
+This is the final reconstructed contract text.

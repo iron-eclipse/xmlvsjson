@@ -1,63 +1,82 @@
-**Contract Agreement**
+**Main Sections**
 
-**This Contract ("Agreement") is made effective as of November 1, 2023.**
+1. Parties
+2. Consideration
+3. Intent to Create Legal Relations
+4. Legality of Purpose
+5. Certainty of Terms
+6. Consent
+7. Duration and Termination
+8. Signatures
 
-**BETWEEN:**
+**Consideration Section**
 
-1. **Equitable Financial Life Insurance Company**, a corporation duly organized and existing under the laws of New York, with an address of 1290 Avenue of the Americas, New York, New York, 10104 (hereinafter referred to as "Equitable Financial").
+* Description: "In consideration of the mutual covenants contained herein, the parties agree as follows:"
+* Value: Not specified in JSON document
 
-2. **Equitable Distributors, LLC**, a Limited Liability Company (LLC) with a capacity as Distributor, with an address of 1290 Avenue of the Americas, New York, New York, 10104 (hereinafter referred to as "Equitable Distributors").
+**Intent to Create Legal Relations Section**
 
-**WHEREAS**, the parties agree to the following terms:
+* Text: Will be reconstructed based on analysis of schema and JSON document
 
-**1. Offer and Acceptance**
+**Legality of Purpose Section**
 
-Equitable Financial agrees to provide services, personnel, and property to Equitable Distributors. Both parties hereby affirm their acceptance of the terms as stated in this Agreement. This Agreement shall be effective as of November 1, 2023, marking the meeting of the minds.
+* Text: Will be reconstructed based on analysis of schema and JSON document
 
-**2. Consideration**
+**Certainty of Terms Section**
 
-The consideration for this Agreement shall be reimbursement for costs incurred for services provided, the value of which shall be documented and settled through expense allocations.
+* Subject Matter: Wholesale sales, initial sales, support, reclassification, and corporate expenses
+* Time for Performance: Not specified in JSON document
 
-**3. Intention to Create Legal Relations**
+**Consent Section**
 
-The parties intend to create a binding legal agreement by entering into this Contract.
+* Text: Will be reconstructed based on analysis of schema and JSON document
 
-**4. Legality of Purpose**
+**Duration and Termination Section**
 
-This Agreement pertains to the distribution of legally permissible insurance products.
+* Duration: Not specified in JSON document
+* Termination Conditions: Not specified in JSON document
+* Renewal Terms: Not specified in JSON document
 
-**5. Certainty of Terms**
+**Signatures Section**
 
-The subject matter includes the use of personnel, property, and services for management and distribution functions. The time for performance shall commence on November 1, 2023, and continue until one party provides notice of termination.
+* Party Names:
+	+ EQUITABLE FINANCIAL LIFE INSURANCE COMPANY (Robin M. Raju)
+	+ EQUITABLE DISTRIBUTORS, LLC (Nick Lane)
 
-**6. Consent**
+**Reconstructed Contract Text**
 
-Both parties have consented by executing this Agreement.
+CONTRACT BETWEEN
 
-**7. Duration and Termination**
+EQUITABLE FINANCIAL LIFE INSURANCE COMPANY, a [insert entity type], and
+EQUITABLE DISTRIBUTORS, LLC, a [insert entity type],
 
-This Agreement shall be effective indefinitely from the effective date, subject to termination conditions. Either party may terminate this Agreement upon providing 90 days written notice to the other party.
+WHEREAS the parties hereto desire to enter into an agreement regarding certain matters;
 
-**8. Dispute Resolution**
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, the parties agree as follows:
 
-In the event of any disputes arising under this Agreement, the method of resolution shall be through arbitration in New York according to the American Arbitration Association rules.
+CONSIDERATION: The parties acknowledge that each will receive the benefits and obligations outlined in this Agreement.
 
-**9. Governing Law and Jurisdiction**
+INTENT TO CREATE LEGAL RELATIONS: It is the intention of the parties to create a legally binding agreement as provided by law.
 
-This Agreement shall be governed by, and construed in accordance with, the laws of New York. Any disputes shall fall under the jurisdiction of New York.
+LEGALITY OF PURPOSE: This Agreement is intended to be legal, valid, and binding on the parties, and it will be governed by and construed according to the laws of [insert jurisdiction].
 
-**10. Signatures**
+CERTAINTY OF TERMS: The parties agree that the subject matter of this Agreement includes wholesale sales, initial sales, support, reclassification, and corporate expenses. The time for performance is [insert specific date or timeframe], or as otherwise provided in this Agreement.
 
-IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the dates set forth below.
+CONSENT: Each party acknowledges that it has read and understands this Agreement, and it agrees to be bound by its terms and conditions.
 
-_________________________  
-Robin M. Raju  
-Chief Financial Officer  
-Equitable Financial Life Insurance Company  
-Date Signed: November 1, 2023  
+DURATION AND TERMINATION: This Agreement will continue in effect until [insert specific date] unless terminated earlier according to the provisions of this Agreement. Upon termination, all obligations will cease to exist except as otherwise provided in this Agreement.
 
-_________________________  
-Nick Lane  
-President  
-Equitable Distributors, LLC  
-Date Signed: November 1, 2023
+SIGNATURES:
+
+* EQUITABLE FINANCIAL LIFE INSURANCE COMPANY (Robin M. Raju)
+* EQUITABLE DISTRIBUTORS, LLC (Nick Lane)
+
+By: _______________________________, dated: ___________
+
+This Contract constitutes the entire agreement between the parties and supersedes all prior or contemporaneous agreements, whether written or oral.
+
+IN WITNESS WHEREOF, the parties have executed this Contract as of the date first above written.
+
+[Insert any remaining details or sections based on schema analysis]
+
+Please note that some details may still be missing from the contract, such as dates, amounts, and specific information about the parties. These details would need to be added in order to complete the reconstruction.

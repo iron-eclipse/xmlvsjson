@@ -1,51 +1,45 @@
-**CONTRACT FOR MEDIA BUYING SERVICES**
+Final contract text:
 
-**This Contract** is made and entered into as of the 16th day of May, 2022, by and between the following parties:
+THIS AGREEMENT (this "Agreement") is entered into on [insert date] by and between BRIGHTCAST LLC, a California limited liability company ("Brightcast"), located at 2699 Pacific Coast Highway, Suite 200, Hermosa Beach, CA 90254, with email sean@BRIGHTCAST.com and attention Sean Moriarty, and EVA LIVE INC., a [insert entity type], located at [insert address] with email dave@eva.live and attention David Boulette.
 
-**PARTIES**
+ARTICLE I: PARTIES
 
-1. **Brightcast LLC**, a corporation, having a capacity of Media Buying Entity, located at 2699 Pacific Coast Highway, Suite 200, Hermosa Beach, CA 90254 ("Party A").
+The parties hereto are entering into this agreement:
 
-2. **Eva Live Inc**, a corporation, having a capacity of Service Provider, with principal address to Attention: David Boulette; Email: dave@eva.live ("Party B").
+For Brightcast LLC, a California limited liability company ("Brightcast"), located at 2699 Pacific Coast Highway, Suite 200, Hermosa Beach, CA 90254, with email sean@BRIGHTCAST.com and attention Sean Moriarty.
 
-**OFFER AND ACCEPTANCE**
+For Eva Live Inc., a [insert entity type], located at [insert address] with email dave@eva.live and attention David Boulette.
 
-Party A hereby offers to engage Party B to provide media buying services, which offer is accepted by Party B’s signing of this agreement. The parties have exchanged mutual promises and have reached a meeting of the minds regarding the terms of service and responsibilities.
+ARTICLE II: CONSIDERATION
 
-**CONSIDERATION**
+Brightcast considers that the consideration for its obligations under this Agreement is the [insert description of consideration provided]. The value of such consideration is [insert amount or value].
 
-The consideration for this contract includes a revenue share of eighty-five percent (85%) of all paid search revenues generated through media buying services provided by Party B.
+ARTICLE III: INTENTION TO CREATE LEGAL RELATIONS
 
-**INTENTION TO CREATE LEGAL RELATIONS**
+The parties intend to create legal relations between themselves and agree that this Agreement constitutes a legally binding contract.
 
-The parties entered into a formal agreement with the intention of creating legal relations, establishing enforceable rights and obligations under this contract.
+ARTICLE IV: LEGALITY OF PURPOSE
 
-**LEGality OF PURPOSE**
+This Agreement has been made with the intention that it will be governed by the laws of California, USA, and is valid as an independent contractor agreement.
 
-This contract is established for a lawful purpose concerning media buying, a recognized business activity.
+ARTICLE V: CERTAINTY OF TERMS
 
-**CERTAINTY OF TERMS**
+The subject matter of this Agreement is [insert description of subject matter]. The price for such subject matter is [insert amount or value], payable on [insert due date]. All sums shall be paid in United States Dollars (USD).
 
-The subject matter of this contract encompasses the provision of media buying services. The price as consideration shall be eighty-five percent (85%) of designated amounts, with services deemed effective commencing from May 5, 2022 until termination according to the terms outlined herein. 
+ARTICLE VI: CONSENT
 
-**CONSENT**
+Each party has given its full and unconditional consent to enter into this Agreement.
 
-Each party demonstrates consent through their respective signatures at the end of this contract.
+ARTICLE VII: DURATION AND TERMINATION
 
-**DURATION AND TERMINATION**
+This Agreement will remain in effect for a period of [insert duration] from the effective date. Either party may terminate this Agreement upon [insert termination condition(s)].
 
-This contract shall be effective from May 5, 2022, and shall continue until terminated by either party, with a written notice provided a minimum of thirty (30) days prior to termination. Conditions for termination include material breach and actions taken by Oath that impact this agreement.
+ARTICLE VIII: SIGNATURES
 
-**SIGNATURES**
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
 
-IN WITNESS WHEREOF, the parties hereto have executed this Contract as of the date first above written.
+[Signature of Sean Moriarty]
+[Date]
 
-___________________________  
-**Brightcast LLC**  
-Date Signed: May 16, 2022  
-Authorized Signatory  
-
-___________________________  
-**Eva Live Inc**  
-Date Signed: May 16, 2022  
-Authorized Signatory; Title: Director; Print Name: Phil Aspin
+[Signature of David Boulette]
+[Date]

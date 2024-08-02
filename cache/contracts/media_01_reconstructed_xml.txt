@@ -1,75 +1,107 @@
-**CONTRACT**
+Based on the provided XML schema and document, I will reconstruct the contract text in this response. Here's my thought process and planning:
 
-This Contract ("Agreement") is made this 16th day of May, 2022, by and between:
+**Scratchpad:**
 
-**Brightcast LLC**, an LLC and Media Buyer, having an address of 2699 Pacific Coast Highway, Suite 200, Hermosa Beach, CA 90254 (hereinafter referred to as "Brightcast"),
+* Main sections:
+	+ Governing Law
+	+ Notices
+	+ Parties
+	+ Modifications/Waivers
+	+ Severability
+	+ Counterparts
+	+ Electronic Signatures
+	+ Entire Agreement
 
-AND
+Next, I will extract relevant information from the XML document and reconstruct each section of the contract:
 
-**Eva Live Inc**, a Corporation and Company (hereinafter referred to as "Company").
+**Governing Law:**
 
-**1. OFFER AND ACCEPTANCE**  
-The engagement of Company to provide media buying services as specified in this Agreement. Company agrees to provide the services set out in the Agreement. The parties have mutually agreed to the terms and conditions as described in this Agreement.
+California is specified as the governing law.
 
-**2. CONSIDERATION**  
-The parties acknowledge and agree that:  
-- Description: Revenue Share Fees  
-- Value: 85% of Paid Search Revenues
+**Notices:**
 
-**3. INTENTION TO CREATE LEGAL RELATIONS**  
-Yes, the parties intend to create legally binding relations.
+Notice addresses:
+- 2699 Pacific Coast Highway, Suite 200, Hermosa Beach, CA 90254 (recipient)
+- Eva Live Inc, Attention: David Boulette, Email: dave@eva.live (sender)
 
-**4. LEGALITY OF PURPOSE**  
-The purpose of this Agreement is legal and enforceable.
+Notice recipients' attention: Sean Moriarty
 
-**5. CERTAINTY OF TERMS**  
-The subject matter of this Agreement is a Media Buying Agreement and associated services.  
-- Price: Fees paid by BRIGHTCAST to Company  
-- Time for Performance: Fees are due within ten (10) days upon receipt of payment from Oath.
+**Parties:**
 
-**6. CONSENT**  
-The parties consent to the terms outlined in this Agreement.
+* Brightcast LLC
+	+ Representative:
+		- Print name: Phil Aspin
+		- Title: Director
+		- Date: 16th May 2022
+* Eva Live Inc
+	+ Representative:
+		- (No print name or title provided)
+		- Date: 16th May 2022
 
-**7. FORM AND FORMALITIES**  
-Executed and signed in counterparts.
+**Modifications/Waivers:**
 
-**8. DURATION AND TERMINATION**  
-- Duration: Indefinite until termination by either party.  
-- Termination Conditions: 30 days written notice.  
-- Renewal Terms: No specific terms mentioned.
+Modification waiver requirement: Writing signed by parties.
 
-**9. REPRESENTATIONS AND WARRANTIES**  
-The parties represent and warrant that they have the authority to enter into this Agreement.
+**Severability:**
 
-**10. INDEMNIFICATION**  
-Each party indemnifies the other from third-party claims arising from their actions.
+If a provision is invalid or unenforceable, the remaining agreement remains unaffected.
 
-**11. DISPUTE RESOLUTION**  
-- Method: Informal resolution followed by mediation.  
-- Details: Notification in writing and scheduling a meeting to resolve disputes.
+**Counterparts:**
 
-**12. GOVERNING LAW AND JURISDICTION**  
-This Agreement shall be governed by the laws of California, and any disputes shall be resolved in California courts.
+Contract counterparts are valid and enforceable as to signing parties. Acknowledgment: (i) electronic signature, (ii) original document when printed from electronic files and records.
 
-**13. SEVERABILITY**  
-If any provision of this Agreement is found to be invalid, the remaining provisions shall continue to be valid and enforceable.
+**Electronic Signatures:**
 
-**14. FORCE MAJEURE**  
-Neither party shall be liable for delays in performance due to causes beyond their reasonable control.
+Electronic signatures are valid and enforceable as to signing parties, with acknowledgment of their validity.
 
-**15. CONFIDENTIALITY**  
-The parties agree to keep Confidential Information confidential.
+**Entire Agreement:**
 
-**16. ASSIGNMENT AND DELEGATION**  
-Neither party may assign or subcontract any of their obligations under this Agreement without the prior written consent of the other party.
+The contract is the entire agreement between the parties and supersedes all prior negotiations, understandings, warranties, covenants, or agreements.
 
-**SIGNATURES**  
-IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+Here's my final output:
 
-**Brightcast LLC** 
-By: Authorizing Signatory  
-Date Signed: 2022-05-16
+CONTRACT
 
-**Eva Live Inc**  
-By: Phil Aspin, Director  
-Date Signed: 2022-05-16
+ARTICLE I - GOVERNING LAW
+This Contract shall be governed by and construed in accordance with the laws of California.
+
+ARTICLE II - NOTICES
+Notices to either party shall be sent to:
+
+2699 Pacific Coast Highway, Suite 200, Hermosa Beach, CA 90254 (recipient)
+
+Eva Live Inc, Attention: David Boulette, Email: dave@eva.live (sender)
+
+The attention of the recipient is Sean Moriarty.
+
+ARTICLE III - PARTIES
+This Contract is entered into by and between:
+
+* Brightcast LLC
+	+ Representative:
+		- Print name: Phil Aspin
+		- Title: Director
+		- Date: 16th May 2022
+* Eva Live Inc
+	+ Representative:
+		- (No print name or title provided)
+		- Date: 16th May 2022
+
+ARTICLE IV - MODIFICATIONS/WAIVERS
+Any modification to this Contract shall be effective only if signed by both parties.
+
+ARTICLE V - SEVERABILITY
+If any provision of this Contract is invalid, unenforceable, or deemed void for any reason, the remaining provisions shall remain in full force and effect, unaffected by such provision.
+
+ARTICLE VI - COUNTERPARTS
+This Contract shall be valid and enforceable as to signing parties. Acknowledgment: (i) electronic signature, (ii) original document when printed from electronic files and records.
+
+ARTICLE VII - ELECTRONIC SIGNATURES
+Electronic signatures are valid and enforceable as to signing parties, with acknowledgment of their validity.
+
+ARTICLE VIII - ENTIRE AGREEMENT
+This Contract constitutes the entire agreement between the parties, supersedes all prior negotiations, understandings, warranties, covenants, or agreements, and shall be binding upon and inure to the benefit of each party and their respective successors and assigns.
+
+IN WITNESS WHEREOF, the parties have executed this Contract as of the date first above written.
+
+Please note that I've reconstructed the contract text based on my understanding of the provided XML schema and document. The actual legal contract may require additional details, provisions, or clarifications to accurately reflect the intended agreement between the parties.

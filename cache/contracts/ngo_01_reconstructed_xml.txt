@@ -1,64 +1,69 @@
-**CONTRACT FOR THE TRANSFER OF FUNDS**
+**Scratchpad**
 
-**This Contract made as of the date signed by the parties.**
+1. Main sections:
+	* Parties
+	* Offer and Acceptance
+	* Consideration
+	* Intention to create legal relations
+	* Legality of purpose
+	* Certainty of terms
+	* Consent
+	* Form and formalities
+	* Duration and Termination
+	* Representations and Warranties
+	* Indemnification
+	* Dispute Resolution
+	* Governing Law and Jurisdiction
+	* Severability
+	* Force Majeure
+	* Confidentiality
+	* Assignment and Delegation
+	* Signatures
+2. Subsections:
+	* Termination: notice period, ending the agreement on good terms
+	* Dispute Resolution: friendly resolution, mediation
 
-**PARTIES**
+**Reconstructed Contract Text**
 
-This Contract is entered into by and between:
-1. **NGO/UN agency** (hereinafter referred to as the "First Party"), with its capacity being that it desires to transfer money, and
-2. **Company/agent** (hereinafter referred to as the "Second Party"), with its capacity being that it facilitates transfers.
+CONTRACT FOR [PARTY NAMES]
 
-**OFFER AND ACCEPTANCE**
+ARTICLE 1 - PARTIES
 
-The First Party offers to transfer money to individuals residing in areas outside of the control of the Government of Syria. 
-The Second Party accepts this offer, affirming it possesses the proven capacity, experience, and highest reasonable standard of diligence to facilitate such transfers.
-Both parties acknowledge a mutual meeting of minds and agree to collaborate concerning the transfer of funds.
+This contract is entered into by and between [Party A Name], [Party B Name] (collectively referred to as "the parties").
 
-**CONSIDERATION**
+ARTICLE 2 - OFFER AND ACCEPTANCE
 
-The consideration for this Contract is the transfer of money for humanitarian activities, which value corresponds to the money being transferred.
+The parties have reached an agreement on the terms of this contract, which constitutes the offer and acceptance of each party.
 
-**INTENTION TO CREATE LEGAL RELATIONS**
+ARTICLE 3 - CONSIDERATION
 
-It is the mutual intention of both parties to create legal relations pertaining to this Contract.
+As consideration for the promises contained herein, each party has agreed to [provide/perform certain acts/services].
 
-**LEGALITY OF PURPOSE**
+ARTICLE 4 - INTENTION TO CREATE LEGAL RELATIONS
 
-The funds are to be transferred for humanitarian activities in Syria.
+The parties intend to create legally binding relations as stated in this contract.
 
-**CERTAINTY OF TERMS**
+ARTICLE 5 - TERMINATION
 
-- **Subject Matter**: The transfer of funds to recipients in Syria.
-- **Price**: The funds will be in USD or Euro, based on a pre-agreed exchange rate.
-- **Time for Performance**: The First Party shall notify the Second Party at least 7 days in advance prior to the transfer.
+Should either of the parties intend to terminate this agreement prematurely, notice of two weeks must be submitted to the other party in writing, in order to end the agreement on good terms.
 
-**CONSENT**
+ARTICLE 6 - DISPUTE RESOLUTION
 
-Any amendments to this Contract require mutual written consent from both parties.
+Dispute Resolution: If any dispute arises that cannot be resolved through friendly resolution, it will be taken to a mutually agreed mediator on a cost-sharing basis.
 
-**FORM AND FORMALITIES**
+ARTICLE 7 - CONSENT
 
-This Contract shall only be effective upon the signatures of both parties.
+By entering into this contract, each party has given their informed consent and agrees to the terms and conditions stated herein.
 
-**DURATION AND TERMINATION**
+[...]
 
-This Contract shall be valid for a period of ______ months. 
-Any party wishing to terminate this Contract must provide notice of two weeks to the other party.
+ARTICLE [LAST ARTICLE] - SIGNATURES
 
-**DISPUTE RESOLUTION**
+IN WITNESS WHEREOF, the parties have executed this contract as of the date written below.
 
-In the event of a dispute arising from this Contract, both parties agree to appoint a mutually agreed mediator on a cost-sharing basis and resolve disputes through consultation and clear communication.
+Signature:
 
-**SIGNATURES**
+* Party A: [Party A Signature], Date: [Date]
+* Party B: [Party B Signature], Date: [Date]
 
-In witness whereof, the parties hereto have executed this Contract as of the dates indicated below.
-
-__________________________  
-**NGO/UN agency**  
-Date Signed: Not specified  
-Declaration: For the first party  
-
-__________________________  
-**Company/agent**  
-Date Signed: Not specified  
-Declaration: For the second party
+Each party acknowledges that they have read and understand the terms of this contract.

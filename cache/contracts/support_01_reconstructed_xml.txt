@@ -1,84 +1,102 @@
-**Support Agreement**
+**Scratchpad:**
 
-This Support Agreement ("Agreement") is made and entered into by and among the following parties:
+* Main sections:
+	+ Parties
+	+ Provisions
+	+ Clauses
+* Note: Each party has a name, general partner, and signature-executed-by section.
+* Complex relationships: The `provision` and `clause` elements have text content, while the `party` element has multiple child elements.
 
-1. Sunoco LP, a Limited Partnership with the capacity of Parent, located at 8111 Westchester Drive, Suite 400, Dallas, TX 75225.
+**Reconstruction Process:**
 
-2. NuStar Energy L.P., a Limited Partnership with the capacity of Partnership, located at 19003 IH-10 West, San Antonio, TX 78257.
+1. **Parties:** Identify the parties involved in the contract by extracting their names, general partners, and signatures from the XML document.
 
-3. Energy Transfer LP, a Limited Partnership with the capacity of ET, located at 8111 Westchester Drive, Suite 600, Dallas, TX 75225.
+Contract Text:
 
-**WHEREAS**, the parties wish to evidence their agreement and understanding concerning their mutual representations, warranties, covenants, and intentions.
+This Agreement is made as of [Date] between the following parties:
 
-**NOW, THEREFORE**, the parties hereto agree as follows:
+* Nustar Energy L.P., a limited partnership (the "Partnership");
+* Riverwalk Logistics, L.P. (the "Parent");
+* Energy Transfer LP (the "ET"); and
+* Sunoco LP (the "Sunoco").
 
-**1. Offer and Acceptance**
-   - The Partnership, Parent, and ET enter into this Agreement. 
-   - The parties make mutual representations, warranties, covenants, and express their intention to be legally bound.
-   - The parties acknowledge their understanding and agreement to these terms and conditions.
+Each party is referred to herein as a "Party" or collectively as the "Parties".
 
-**2. Consideration**
-   - The consideration for this Agreement is mutual representations and warranties relating to the Merger Agreement.
-   - The value is not specifically quantified in this contract.
+2. **Provisions:** Extract the text content from the `provision` elements, considering any conditional attributes.
 
-**3. Intention to Create Legal Relations**
-   - The parties intend to create legal relations as evidenced by their signatures below.
+Contract Text:
 
-**4. Legality of Purpose**
-   - This Agreement is lawful under Delaware law.
+PROVISIONS
 
-**5. Certainty of Terms**
-   - Subject Matter: This Agreement is related to the support agreement concerning the Merger.
-   - Price: Not specified.
-   - Time for Performance: This Agreement shall be effective until the Support Agreement Termination Date.
+The remainder of this page is intentionally left blank.
 
-**6. Consent**
-   - All parties do hereby consent to the terms and conditions described in this Agreement.
+IN WITNESS WHEREOF, the Partnership, Parent and ET have executed this Agreement as of the date first written above.
 
-**7. Form and Formalities**
-   - This Agreement has been executed in multiple originals.
+3. **Clauses:** Extract the title and text content from the `clause` elements, considering any conditional attributes.
 
-**8. Duration and Termination**
-   - Duration: This Agreement shall last until the Support Agreement Termination Date, which is April 22, 2025.
-   - Termination Conditions: This Agreement shall terminate upon the termination of the Merger Agreement or by mutual written agreement of the parties.
-   - Renewal Terms: No renewal terms are specified; the Agreement shall automatically terminate.
+Contract Text:
 
-**9. Representations and Warranties**
-   - Energy Transfer LP provides certain representations and warranties as necessary herein.
+CLAUSES
 
-**10. Indemnification**
-   - Indemnification clauses are not explicitly mentioned in this Agreement.
+**Waiver of Jury Trial**
 
-**11. Dispute Resolution**
-   - The method for dispute resolution shall include injunctions and equitable relief, exclusively in the Delaware Court of Chancery.
+Each of the parties hereto acknowledges and agrees that any controversy which may arise under this Agreement is likely to involve complicated and difficult issues, and therefore each such party irrevocably and unconditionally waives, to the fullest extent permitted by applicable Law, any and all right to trial by jury in any action or proceeding arising out of or relating to this Agreement or the transactions contemplated hereby.
 
-**12. Governing Law and Jurisdiction**
-   - This Agreement shall be governed by the laws of the State of Delaware, and jurisdiction shall reside with the Delaware Court of Chancery and state courts therein.
+**Severability**
 
-**13. Severability**
-   - If any provision of this Agreement is found to be invalid, such invalid provision shall not affect the remaining provisions.
+[Any term or provision of this Agreement which is held to be invalid or unenforceable in a court of competent jurisdiction shall be ineffective to the extent of such invalidity or unenforceability without rendering invalid or unenforceable the remaining terms and provisions of this Agreement.]
 
-**14. Force Majeure**
-   - The concept of force majeure is not included in this Agreement.
+**Counterparts**
 
-**15. Confidentiality**
-   - The terms of confidentiality are not included in this Agreement.
+This Agreement may be executed in two (2) or more counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument, and shall become effective when one or more counterparts have been signed by each of the parties and delivered (by telecopy, electronic delivery or otherwise) to the other parties.
 
-**16. Assignment and Delegation**
-   - Neither party may assign their rights under this Agreement without the prior written consent of the other party.
+**Final Reconstructed Contract Text:**
 
-**17. Signatures**
+CONTRACT FOR [DATE]
 
-IN WITNESS WHEREOF, the undersigned have executed this Agreement as of the dates set forth below:
+PARTIES
 
-1. NuStar Energy L.P.  
-   Date Signed: January 22, 2024  
-   By: Riverwalk Logistics, L.P., its general partner.  
+This Agreement is made as of [Date] between the following parties:
 
-2. Sunoco LP  
-   Date Signed: January 22, 2024  
-   By: Sunoco GP LLC, its general partner.  
+* Nustar Energy L.P., a limited partnership (the "Partnership");
+* Riverwalk Logistics, L.P. (the "Parent");
+* Energy Transfer LP (the "ET"); and
+* Sunoco LP (the "Sunoco").
 
-3. Energy Transfer LP  
-   Date Signed: January 22, 2024  
-   By: LE GP, LLC, its general partner.
+Each party is referred to herein as a "Party" or collectively as the "Parties".
+
+PROVISIONS
+
+The remainder of this page is intentionally left blank.
+
+IN WITNESS WHEREOF, the Partnership, Parent and ET have executed this Agreement as of the date first written above.
+
+CLAUSES
+
+**Waiver of Jury Trial**
+
+Each of the parties hereto acknowledges and agrees that any controversy which may arise under this Agreement is likely to involve complicated and difficult issues, and therefore each such party irrevocably and unconditionally waives, to the fullest extent permitted by applicable Law, any and all right to trial by jury in any action or proceeding arising out of or relating to this Agreement or the transactions contemplated hereby.
+
+**Severability**
+
+[Any term or provision of this Agreement which is held to be invalid or unenforceable in a court of competent jurisdiction shall be ineffective to the extent of such invalidity or unenforceability without rendering invalid or unenforceable the remaining terms and provisions of this Agreement.]
+
+**Counterparts**
+
+This Agreement may be executed in two (2) or more counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument, and shall become effective when one or more counterparts have been signed by each of the parties and delivered (by telecopy, electronic delivery or otherwise) to the other parties.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first written above.
+
+Signed,
+
+[Nustar Energy L.P.]
+RIVERWALK LOGISTICS, L.P.
+ENERGY TRANSFER LP
+SUNOCO LP
+
+By: _______________________________________
+Date: _______________________________________
+
+Signature: _______________________________________
+
+Note: The reconstructed contract text is presented without signatures and dates for clarity purposes.

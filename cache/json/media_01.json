@@ -1,53 +1,49 @@
 <json_output>
 {
-  "contract": {
-    "parties": [
-      {
-        "name": "Brightcast LLC",
-        "type": "Corporation",
-        "capacity": "Media Buying Entity",
-        "address": "2699 Pacific Coast Highway, Suite 200, Hermosa Beach, CA 90254"
-      },
-      {
-        "name": "Eva Live Inc",
-        "type": "Corporation",
-        "capacity": "Service Provider",
-        "address": "Attention: David Boulette; Email: dave@eva.live"
-      }
-    ],
-    "offerAndAcceptance": {
-      "offer": "Engage Company (Eva Live Inc) to provide media buying services.",
-      "acceptance": "Implied by the signing of the agreement.",
-      "meetingOfMinds": "Parties agreed on terms of service and responsibilities."
-    },
-    "consideration": {
-      "description": "Revenue share of 85% of paid search revenues.",
-      "value": "85%"
-    },
-    "intentionToCreateLegalRelations": "The parties entered into a formal agreement.",
-    "legalityOfPurpose": "This contract has a lawful purpose (media buying).",
-    "certaintyOfTerms": {
-      "subjectMatter": "Provision of media buying services.",
-      "price": "85%",
-      "timeForPerformance": "Effective from May 5, 2022 until termination."
-    },
-    "consent": "Implied consent through signature.",
-    "durationAndTermination": {
-      "duration": "Effective from May 5, 2022 until terminated with 30-day written notice.",
-      "terminationConditions": "Material breach, actions by Oath."
-    },
-    "signatures": [
-      {
-        "partyName": "Brightcast LLC",
-        "dateSigned": "2022-05-16",
-        "declaration": "Authorized Signatory"
-      },
-      {
-        "partyName": "Eva Live Inc",
-        "dateSigned": "2022-05-16",
-        "declaration": "Authorized Signatory; Title: Director; Print Name: Phil Aspin"
-      }
-    ]
-  }
+"agreement": {
+"jurisdiction": {
+"type": "string",
+"value": "California"
+},
+"communication_addresses": [
+{
+"party": "Brightcast",
+"name": "Brightcast LLC",
+"address": "2699 Pacific Coast Highway, Suite 200",
+"city": "Hermosa Beach",
+"state": "CA",
+"zip": "90254",
+"attention": "Sean Moriarty",
+"email": "sean@BRIGHTCAST.com"
+},
+{
+"party": "Company",
+"name": "Eva Live Inc",
+"attention": "David Boulette",
+"email": "dave@eva.live"
+}
+],
+"entity_type": "independent_contractors",
+"amendment_procedure": {
+"type": "string",
+"value": "writing signed by parties"
+},
+"severability_clause": {
+"type": "string",
+"value": "invalid or unenforceable provision will not affect remainder of agreement"
+},
+"counterpart_execution": {
+"type": "boolean",
+"value": true
+},
+"electronic_signatures": {
+"type": "boolean",
+"value": true
+},
+"entire_agreement": {
+"type": "string",
+"value": "this Agreement constitutes the entire understanding..."
+}
+}
 }
 </json_output>

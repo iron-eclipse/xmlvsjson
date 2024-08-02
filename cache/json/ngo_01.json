@@ -1,66 +1,34 @@
 <json_output>
 {
-  "contract": {
-    "parties": [
-      {
-        "name": "NGO/UN agency",
-        "type": "first party",
-        "capacity": "Transfer agent for humanitarian activities",
-        "address": "Turkey"
-      },
-      {
-        "name": "Company/agent",
-        "type": "second party",
-        "capacity": "Facilitator for financial transfers",
-        "address": "Syria"
-      }
-    ],
-    "offerAndAcceptance": {
-      "offer": "Transfer money from Turkey into Syria for humanitarian purposes.",
-      "acceptance": "Agreement to collaborate on the transfer of money.",
-      "meetingOfMinds": "Both parties agree on the terms regarding the transfer."
-    },
-    "consideration": {
-      "description": "Transfer of funds for humanitarian assistance.",
-      "value": "Monetary value agreed upon by both parties."
-    },
-    "intentionToCreateLegalRelations": "Both parties intend to create a legally binding agreement.",
-    "legalityOfPurpose": "The purpose of the contract is legal and humanitarian.",
-    "certaintyOfTerms": {
-      "subjectMatter": "Financial transfers intended for recipients outside governmental control.",
-      "price": "Variable, based on the amount of money transferred.",
-      "timeForPerformance": "Payment must be made within 7 days before the due date."
-    },
-    "consent": "Both parties consent to the terms and conditions set forth in the agreement.",
-    "durationAndTermination": {
-      "duration": "To be determined (____ months) from the date of signature.",
-      "terminationConditions": "Two weeks notice required for termination.",
-      "renewalTerms": "Renewal upon mutual written consent."
-    },
-    "signatures": [
-      {
-        "partyName": "NGO/UN agency",
-        "dateSigned": "Date to be filled",
-        "declaration": "Agreement to uphold the terms outlined in this contract."
-      },
-      {
-        "partyName": "Company/agent",
-        "dateSigned": "Date to be filled",
-        "declaration": "Agreement to uphold the terms outlined in this contract."
-      }
-    ],
-    "disputeResolution": {
-      "method": "Consultation and clear communication between parties.",
-      "details": "Any unresolved disputes will go to a mutually agreed mediator on a cost-sharing basis."
-    },
-    "governingLawAndJurisdiction": {
-      "governingLaw": "Applicable law to be determined.",
-      "jurisdiction": "Jurisdiction subject to both parties' agreement."
-    },
-    "severability": "If any provision is found unenforceable, the remainder of the contract remains in effect.",
-    "forceMajeure": "Parties are not liable for failures due to circumstances beyond their control.",
-    "confidentiality": "Both parties agree to keep the terms and details confidential.",
-    "assignmentAndDelegation": "Neither party may assign or delegate any obligations under this Agreement without written consent."
+  "dispute_resolution": {
+    "friendly_manner": true,
+    "mediation": {
+      "mutually_agreed_mediator": null,
+      "cost_sharing": true
+    }
+  },
+  "termination": {
+    "notice_period": 2,
+    "written_notification": true
+  },
+  "supplier_info": [
+    {
+      "name": null,
+      "position": null,
+      "date": null
+    }
+  ],
+  "risk_assessment": {
+    "maturity_of_business": null,
+    "owner_experience": null,
+    "locations_served": null,
+    "markets_served": null,
+    "associations_with_jurisdictions": null,
+    "visit_to_place_of_business": true
+  },
+  "beneficial_ownership": {
+    "individual_or_entity": null,
+    "ownership_control": null
   }
 }
 </json_output>

@@ -1,64 +1,43 @@
-<contract>
+Here is my output:
+
+<xml_output>
+    <governingLaw>California</governingLaw>
+    <notices>
+        <address type="recipient">2699 Pacific Coast Highway, Suite 200, Hermosa Beach, CA 90254</address>
+        <email type="recipient">sean@BRIGHTCAST.com</email>
+        <attention type="recipient">Sean Moriarty</attention>
+        <address type="sender">Eva Live Inc, Attention: David Boulette, Email: dave@eva.live</address>
+    </notices>
+    <independentContractors/>
+    <modificationWaiver>
+        <requirement>Writing signed by parties</requirement>
+    </modificationWaiver>
+    <severability>
+        <provision>Invalid or unenforceable provision</provision>
+        <consequence>Remainder of the agreement remains unaffected</consequence>
+    </severability>
+    <counterparts>true</counterparts>
+    <electronicSignatures>
+        <validity>Valid and enforceable as to signing party</validity>
+        <acknowledgment>(i) electronic signature, (ii) original document when printed from electronic files and records</acknowledgment>
+    </electronicSignatures>
+    <entireAgreement>true</entireAgreement>
     <parties>
-        <party>
-            <name>Brightcast LLC</name>
-            <type>LLC</type>
-            <capacity>Media Buyer</capacity>
-            <address>2699 Pacific Coast Highway, Suite 200, Hermosa Beach, CA 90254</address>
+        <party name="Brightcast LLC">
+            <representative>
+                <printName>Phil Aspin</printName>
+                <title>Director</title>
+                <date>16th May 2022</date>
+            </representative>
         </party>
-        <party>
-            <name>Eva Live Inc</name>
-            <type>Corporation</type>
-            <capacity>Company</capacity>
+        <party name="Eva Live Inc">
+            <representative>
+                <printName/>  <!-- no printName provided -->
+                <title/>  <!-- no title provided -->
+                <date>16th May 2022</date>
+            </representative>
         </party>
     </parties>
-    <offerAndAcceptance>
-        <offer>The engagement of Company to provide media buying services as specified in the Agreement.</offer>
-        <acceptance>Company agrees to provide the services set out in the Agreement.</acceptance>
-        <meetingOfMinds>The parties have mutually agreed to the terms and conditions as described in this Agreement.</meetingOfMinds>
-    </offerAndAcceptance>
-    <consideration>
-        <description>Revenue Share Fees</description>
-        <value>85% of Paid Search Revenues</value>
-    </consideration>
-    <intentionToCreateLegalRelations>Yes, the parties intend to create legally binding relations.</intentionToCreateLegalRelations>
-    <legalityOfPurpose>The purpose of this Agreement is legal and enforceable.</legalityOfPurpose>
-    <certaintyOfTerms>
-        <subjectMatter>Media Buying Agreement and associated services</subjectMatter>
-        <price>Fees paid by BRIGHTCAST to Company</price>
-        <timeForPerformance>Fees are due within ten (10) days upon receipt of payment from Oath.</timeForPerformance>
-    </certaintyOfTerms>
-    <consent>The parties consent to the terms outlined in this Agreement.</consent>
-    <formAndFormalities>Executed and signed in counterparts.</formAndFormalities>
-    <durationAndTermination>
-        <duration>Indefinite until termination by either party.</duration>
-        <terminationConditions>30 days written notice.</terminationConditions>
-        <renewalTerms>No specific terms mentioned.</renewalTerms>
-    </durationAndTermination>
-    <representationsAndWarranties>The parties represent and warrant that they have the authority to enter into this Agreement.</representationsAndWarranties>
-    <indemnification>Each party indemnifies the other from third-party claims arising from their actions.</indemnification>
-    <disputeResolution>
-        <method>Informal resolution followed by mediation.</method>
-        <details>Notification in writing and scheduling a meeting to resolve disputes.</details>
-    </disputeResolution>
-    <governingLawAndJurisdiction>
-        <governingLaw>California</governingLaw>
-        <jurisdiction>California courts</jurisdiction>
-    </governingLawAndJurisdiction>
-    <severability>If any provision is found invalid, the rest remains enforceable.</severability>
-    <forceMajeure>Neither party is liable for delays due to causes beyond their control.</forceMajeure>
-    <confidentiality>The parties agree to keep Confidential Information confidential.</confidentiality>
-    <assignmentAndDelegation>Neither party may assign or subcontract without consent from the other party.</assignmentAndDelegation>
-    <signatures>
-        <signature>
-            <partyName>Brightcast LLC</partyName>
-            <dateSigned>2022-05-16</dateSigned>
-            <declaration>By: Authorizing Signatory</declaration>
-        </signature>
-        <signature>
-            <partyName>Eva Live Inc</partyName>
-            <dateSigned>2022-05-16</dateSigned>
-            <declaration>By: Phil Aspin, Director</declaration>
-        </signature>
-    </signatures>
-</contract>
+</xml_output>
+
+Note that some sections, such as "Independent Contractors" and "Entire Agreement", do not have specific XML schema elements to map to. In these cases, I created new elements based on my understanding of the contract text and its relevance to the schema.

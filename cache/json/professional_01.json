@@ -1,54 +1,52 @@
 <json_output>
 {
-  "contract": {
-    "parties": [
-      {
-        "name": "SANTA CRUZ COUNTY REGIONAL TRANSPORTATION COMMISSION",
-        "type": "Commission",
-        "capacity": "Public Agency",
-        "address": "1523 Pacific Ave, Santa Cruz, CA, 95060"
+  "agreement": {
+    "parties": {
+      "consultant": {
+        "name": "__________(CONSULTANT)_______________",
+        "projectManager": "__________(NAME)________",
+        "address": "__________(ADDRESS)____________________"
       },
-      {
-        "name": "________ ____",
-        "type": "Consultant",
-        "capacity": "Professional Service Provider",
-        "address": ""
+      "commission": {
+        "name": "Santa Cruz County Regional Transportation Commission (SCCRTC)",
+        "contractManager": "Luis Mendez, Contract Manager",
+        "address": "1523 Pacific Ave, Santa Cruz, CA 95060"
       }
-    ],
-    "offerAndAcceptance": {
-      "offer": "Professional Services Agreement for unspecified services/project name",
-      "acceptance": "Agreement made and entered into this _______ day of , 20",
-      "meetingOfMinds": "Both parties agree to the terms outlined in this contract."
     },
-    "consideration": {
-      "description": "COMMISSION agrees to pay CONSULTANT for services as per attached Fee Schedule.",
-      "value": "Total payment is not to exceed $_____ for time and materials."
-    },
-    "intentionToCreateLegalRelations": "Both parties intend to create a legally binding agreement.",
-    "legalityOfPurpose": "The purpose of the contract is to provide professional services which are legal and permissible.",
-    "certaintyOfTerms": {
-      "subjectMatter": "Professional services as specified in Exhibit A: Scope of Services",
-      "price": "Not to exceed $_____ as per the Fee Schedule in Exhibit B.",
-      "timeForPerformance": "Services to commence after notification to proceed by the COMMISSION’s Contract Manager."
-    },
-    "consent": "Consent required for changes in key personnel as specified in the duties of the agreement.",
-    "durationAndTermination": {
-      "duration": "Commencement after approval with completion on (DATE).",
-      "terminationConditions": "30-day written notice for termination by COMMISSION; valid for both convenience and default.",
-      "renewalTerms": "Agreement may be extended by contract amendment."
-    },
-    "signatures": [
-      {
-        "partyName": "________ ____",
-        "dateSigned": "_____",
-        "declaration": "Authorized signatory for the Consultant."
+    "completeAgreement": {
+      "agreementText": {
+        "scopeOfServices": {
+          "exhibitA": true
+        },
+        "feeSchedule": {
+          "exhibitB": true
+        }
       },
-      {
-        "partyName": "SANTA CRUZ COUNTY REGIONAL TRANSPORTATION COMMISSION",
-        "dateSigned": "_____",
-        "declaration": "Authorized signatory for the Commission."
+      "authorization": {
+        "executiveDirector": {
+          "designee": true
+        }
       }
-    ]
+    },
+    "notification": {
+      "mailing": {
+        "method": "registered or certified mail, return receipt requested",
+        "address": {
+          "consultant": "__________(CONSULTANT)_______________",
+          "commission": {
+            "name": "Santa Cruz County Regional Transportation Commission (SCCRTC)",
+            "contractManager": "Luis Mendez, Contract Manager",
+            "address": "1523 Pacific Ave, Santa Cruz, CA 95060"
+          }
+        }
+      }
+    },
+    "completeAgreementIncludingAttachments": {
+      "statement": {
+        "exclusivity": true,
+        "validity": true
+      }
+    }
   }
 }
 </json_output>

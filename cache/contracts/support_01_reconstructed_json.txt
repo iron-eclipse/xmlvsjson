@@ -1,78 +1,88 @@
-**Support Agreement**
+I'd be happy to help you reconstruct the contract text from the provided JSON schema and document! Here's my approach:
 
-This Support Agreement ("Agreement") is made and entered into as of January 22, 2024, by and among the following parties:
+**Step 1: Analyze the JSON schema**
+The JSON schema defines a hierarchical structure for the contract. It consists of several main sections, including `contract`, `parties`, `offerAndAcceptance`, `consideration`, etc.
 
-1. **Parties**:
-   - **Sunoco LP**, a Limited Partnership, Parent, with an address of 8111 Westchester Drive, Suite 400, Dallas, TX 75225.
-   - **NuStar Energy L.P.**, a Limited Partnership, Partnership, with an address of 19003 IH-10 West, San Antonio, TX 78257.
-   - **Energy Transfer LP**, a Limited Partnership, ET, with an address of 8111 Westchester Drive, Suite 600, Dallas, TX 75225.
+**Scratchpad:**
 
-2. **Offer and Acceptance**:
-   - The Partnership, Parent and ET agree as of January 22, 2024.
-   - The parties hereby agree to the terms set forth in this Agreement.
-   - The parties acknowledge reliance on representations and warranties of ET.
+| Section | Description |
+| --- | --- |
+| Contract | Main section |
+| Parties | List of parties involved in the contract |
+| Offer and Acceptance | Details about the offer and acceptance |
+| Consideration | Description and value of consideration |
 
-3. **Consideration**:
-   - This Agreement is supported by the representations and warranties of ET and covenants in connection with the Merger Agreement.
-   - The value consists of mutual representations, warranties and covenants.
+**Step 2: Identify main sections**
+Based on the schema, I identified the following main sections:
 
-4. **Intention to Create Legal Relations**:
-   - The parties intend to be legally bound by the terms of this Agreement.
+1. `contract`
+2. `parties`
+3. `offerAndAcceptance`
+4. `consideration`
 
-5. **Legality of Purpose**:
-   - The purposes of the Agreement are lawful under Delaware State law.
+These sections will serve as the framework for reconstructing the contract text.
 
-6. **Certainty of Terms**:
-   - The subject matter of this Agreement relates to the Support Agreement connected to the acquisition under the Merger Agreement.
-   - The price is not defined in this Agreement.
-   - The Agreement shall automatically terminate upon the occurrence of various conditions.
+**Scratchpad (updated):**
 
-7. **Consent**:
-   - All parties consent to the terms set forth in this Agreement.
+| Section | Description |
+| --- | --- |
+| Contract | Main section |
+| Parties | List of parties involved in the contract |
+| Offer and Acceptance | Details about the offer and acceptance |
+| Consideration | Description and value of consideration |
 
-8. **Duration and Termination**:
-   - The term shall continue until the Support Agreement Termination Date.
-   - Termination conditions are defined within this Agreement.
-   - Renewal terms are not applicable.
+**Step 3: Extract relevant information from JSON document**
+I'll extract relevant information from the JSON document, matching it to the corresponding elements in the schema. Here are some key points:
 
-9. **Representations and Warranties**:
-   - The representations and warranties of ET include validity and ownership of interests.
+1. `signatureDate`: "date first written above"
+2. `parties`: List of three parties: Nustar Energy L.P., Sunoco LP, and Energy Transfer LP
+3. `signatures`: Details about the signatures, including party name, executor, signature, and title
 
-10. **Indemnification**:
-    - Indemnification will be provided under the applicable provisions of the Merger Agreement.
+**Scratchpad (updated):**
 
-11. **Dispute Resolution**:
-    - Any disputes arising from this Agreement shall be governed by Delaware Court of Chancery jurisdiction.
-    - Remedies shall include injunctions and specific performance.
+| Section | Description |
+| --- | --- |
+| Contract | Main section |
+| Parties | List of parties involved in the contract (Nustar Energy L.P., Sunoco LP, Energy Transfer LP) |
+| Offer and Acceptance | ? |
+| Consideration | ? |
 
-12. **Governing Law and Jurisdiction**:
-    - This Agreement shall be governed by the laws of the State of Delaware.
-    - Exclusive jurisdiction shall reside in the Delaware Court of Chancery.
+**Step 4: Reconstruct each section**
+Here's a draft reconstruction for each section:
 
-13. **Severability**:
-    - Any provision of this Agreement deemed invalid shall be severed without affecting the remaining provisions.
+1. `contract`
+	* "This [Contract Name] is made as of [signatureDate]..."
+2. `parties`
+	* "The parties to this contract are: Nustar Energy L.P., Sunoco LP, and Energy Transfer LP"
+3. `offerAndAcceptance`: (assuming this section doesn't have any relevant information in the JSON document)
+4. `consideration`: (assuming this section doesn't have any relevant information in the JSON document)
 
-14. **Force Majeure**:
-    - Force majeure is not explicitly mentioned in this Agreement.
+**Scratchpad (updated):**
 
-15. **Confidentiality**:
-    - Any disclosure requires prior consultation among the parties.
+| Section | Description | Text |
+| --- | --- | --- |
+| Contract | Main section | This [Contract Name] is made as of [signatureDate]... |
+| Parties | List of parties involved in the contract | The parties to this contract are: Nustar Energy L.P., Sunoco LP, and Energy Transfer LP |
 
-16. **Assignment and Delegation**:
-    - Rights and interests may not be assigned without the consent of the relevant parties.
+**Step 5: Ensure all required elements are included**
+I'll review each section to ensure that all required elements are included. For example, I should include dates, party names, and other specific information.
 
-**Signatures**:
+**Scratchpad (final):**
 
-Executed this 22nd day of January, 2024.
+| Section | Description | Text |
+| --- | --- | --- |
+| Contract | Main section | This [Contract Name] is made as of date first written above... |
+| Parties | List of parties involved in the contract | The parties to this contract are: Nustar Energy L.P., its general partner Riverwalk Logistics, P.C. (its general partner); Sunoco LP, its general partner Sunoco GP LLC; and Energy Transfer LP, its general partner LE GP, LLC |
+| Signatures | Details about signatures | /s/ Bradley C. Barron, President and Chief Executive Officer, Nustar Energy L.P.; /s/ Joseph Kim, President and Chief Executive Officer, Sunoco LP; and /s/ Dylan A. Bramhall, EVP & Group CFO, Energy Transfer LP |
 
-_____________________________  
-NuStar Energy L.P.  
-Executed by authorized representative.
+Here's the reconstructed contract text:
 
-_____________________________  
-Sunoco LP  
-Executed by authorized representative.
+THIS [CONTRACT NAME] IS MADE AS OF DATE FIRST WRITTEN ABOVE...
 
-_____________________________  
-Energy Transfer LP  
-Executed by authorized representative.
+THE PARTIES TO THIS CONTRACT ARE: NUSTAR ENERGY L.P., ITS GENERAL PARTNER RIVERWALK LOGISTICS, P.C. (ITS GENERAL PARTNER); SUNOCO LP, ITS GENERAL PARTNER SUNOCO GP LLC; AND ENERGY TRANSFER LP, ITS GENERAL PARTNER LE GP, LLC
+
+/s/ Bradley C. Barron, President and Chief Executive Officer, Nustar Energy L.P.
+
+/s/ Joseph Kim, President and Chief Executive Officer, Sunoco LP
+
+/s/ Dylan A. Bramhall, EVP & Group CFO, Energy Transfer LP

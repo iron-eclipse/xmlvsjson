@@ -1,76 +1,59 @@
 <contract>
-    <parties>
-        <party>
-            <name>Sunoco LP</name>
-            <type>Limited Partnership</type>
-            <capacity>Parent</capacity>
-            <address>8111 Westchester Drive, Suite 400, Dallas, TX 75225</address>
-        </party>
-        <party>
-            <name>NuStar Energy L.P.</name>
-            <type>Limited Partnership</type>
-            <capacity>Partnership</capacity>
-            <address>19003 IH-10 West, San Antonio, TX 78257</address>
-        </party>
-        <party>
-            <name>Energy Transfer LP</name>
-            <type>Limited Partnership</type>
-            <capacity>ET</capacity>
-            <address>8111 Westchester Drive, Suite 600, Dallas, TX 75225</address>
-        </party>
-    </parties>
-    <offerAndAcceptance>
-        <offer>The Partnership, Parent, and ET entering into this Agreement.</offer>
-        <acceptance>Mutual representations, warranties, covenants, and intentions to be legally bound.</acceptance>
-        <meetingOfMinds>Parties acknowledge their understanding and agreement to the terms and conditions.</meetingOfMinds>
-    </offerAndAcceptance>
-    <consideration>
-        <description>Mutual representations and warranties related to the Merger Agreement.</description>
-        <value>Not specifically quantified in the contract.</value>
-    </consideration>
-    <intentionToCreateLegalRelations>Yes, the parties intend to create legal relations.</intentionToCreateLegalRelations>
-    <legalityOfPurpose>This Agreement is lawful under Delaware law.</legalityOfPurpose>
-    <certaintyOfTerms>
-        <subjectMatter>Support Agreement related to the Merger.</subjectMatter>
-        <price>Not specified</price>
-        <timeForPerformance>Effective until the Support Agreement Termination Date.</timeForPerformance>
-    </certaintyOfTerms>
-    <consent>All parties consent to the terms and conditions of the Agreement.</consent>
-    <formAndFormalities>Executed in multiple originals.</formAndFormalities>
-    <durationAndTermination>
-        <duration>Until the Support Agreement Termination Date which is April 22, 2025.</duration>
-        <terminationConditions>Termination of the Merger Agreement or mutual written agreement.</terminationConditions>
-        <renewalTerms>None specified; automatically terminates.</renewalTerms>
-    </durationAndTermination>
-    <representationsAndWarranties>ET provides certain representations and warranties.</representationsAndWarranties>
-    <indemnification>Not explicitly mentioned.</indemnification>
-    <disputeResolution>
-        <method>Injunctions and equitable relief.</method>
-        <details>Exclusively in the Delaware Court of Chancery.</details>
-    </disputeResolution>
-    <governingLawAndJurisdiction>
-        <governingLaw>State of Delaware</governingLaw>
-        <jurisdiction>Delaware Court of Chancery and state courts.</jurisdiction>
-    </governingLawAndJurisdiction>
-    <severability>Invalid provisions will not affect the remaining Agreement.</severability>
-    <forceMajeure>Not included in the Agreement.</forceMajeure>
-    <confidentiality>Not included in the Agreement.</confidentiality>
-    <assignmentAndDelegation>Neither party can assign rights without consent.</assignmentAndDelegation>
-    <signatures>
-        <signature>
-            <partyName>NuStar Energy L.P.</partyName>
-            <dateSigned>2024-01-22</dateSigned>
-            <declaration>By: Riverwalk Logistics, L.P., its general partner</declaration>
-        </signature>
-        <signature>
-            <partyName>Sunoco LP</partyName>
-            <dateSigned>2024-01-22</dateSigned>
-            <declaration>By: Sunoco GP LLC, its general partner</declaration>
-        </signature>
-        <signature>
-            <partyName>Energy Transfer LP</partyName>
-            <dateSigned>2024-01-22</dateSigned>
-            <declaration>By: LE GP, LLC, its general partner</declaration>
-        </signature>
-    </signatures>
+  <parties>
+    <party id="1">
+      <name>Nustar Energy L.P.</name>
+      <general-partner>Riverwalk Logistics, L.P.</general-partner>
+      <signature-executed-by>
+        <individual>
+          <name>Bradley C. Barron</name>
+          <title>President and Chief Executive Officer</title>
+          <signature>/s/ Bradley C. Barron</signature>
+        </individual>
+      </signature-executed-by>
+    </party>
+    <party id="2">
+      <name>Sunoco LP</name>
+      <general-partner>Sunoco GP LLC</general-partner>
+      <signature-executed-by>
+        <individual>
+          <name>Joseph Kim</name>
+          <title>President and Chief Executive Officer</title>
+          <signature>/s/ Joseph Kim</signature>
+        </individual>
+      </signature-executed-by>
+    </party>
+    <party id="3">
+      <name>Energy Transfer LP</name>
+      <general-partner>LE GP, LLC</general-partner>
+      <signature-executed-by>
+        <individual>
+          <name>Dylan A. Bramhall</name>
+          <title>EVP & Group CFO</title>
+          <signature>/s/ Dylan A. Bramhall</signature>
+        </individual>
+      </signature-executed-by>
+    </party>
+  </parties>
+  <provisions>
+    <provision id="12">
+      <text>The remainder of this page is intentionally left blank.</text>
+    </provision>
+    <provision id="13">
+      <text>IN WITNESS WHEREOF, the Partnership, Parent and ET have executed this Agreement as of the date first written above.</text>
+    </provision>
+  </provisions>
+  <clauses>
+    <clause id="14">
+      <title>Waiver of Jury Trial</title>
+      <text>Each of the parties hereto acknowledges and agrees that any controversy which may arise under this Agreement is likely to involve complicated and difficult issues, and therefore each such party irrevocably and unconditionally waives, to the fullest extent permitted by applicable Law, any and all right to trial by jury in any action or proceeding arising out of or relating to this Agreement or the transactions contemplated hereby.</text>
+    </clause>
+    <clause id="15">
+      <title>Severability</title>
+      <text[Any term or provision of this Agreement which is held to be invalid or unenforceable in a court of competent jurisdiction shall be ineffective to the extent of such invalidity or unenforceability without rendering invalid or unenforceable the remaining terms and provisions of this Agreement.]</text>
+    </clause>
+    <clause id="16">
+      <title>Counterparts</title>
+      <text>This Agreement may be executed in two (2) or more counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument, and shall become effective when one or more counterparts have been signed by each of the parties and delivered (by telecopy, electronic delivery or otherwise) to the other parties.</text>
+    </clause>
+  </clauses>
 </contract>

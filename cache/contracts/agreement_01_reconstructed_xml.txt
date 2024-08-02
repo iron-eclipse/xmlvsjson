@@ -1,96 +1,66 @@
-**AMENDED AND RESTATED AGREEMENT**
+Based on the provided XML schema and document, I will reconstruct the contract text as accurately as possible. Here's my scratchpad to organize my thoughts:
 
-This Amended and Restated Agreement is made as of the 1st day of November 2023, by and between:
+**Scratchpad:**
 
-**Parties:**
+1. **Parties**: Extract information from `` elements:
+	* Equitable Financial Life Insurance Company
+	* Equitable Distributors, LLC
+2. **Offer and Acceptance**: Identify relevant details from XML document:
+	* No explicit offer or acceptance information found; assume standard language for these sections.
+3. **Agreement Details**:
+	* May be executed in separate counters (XML document): Include this detail in the agreement.
+4. **Limitation of Liability**:
+	* Net limitation amount: Extract relevant details from `` element:
+		+ Amount paid and to be paid: 12 months prior to first event that is subject of the first claim
+5. **Schedule I**: Extract information from `` elements:
+	* Wholesale Sales:
+		- Initial sales: Sales support reclassification...
+		- Corporate expenses:
+			- Allocation driver: N/A
+			- First year premium: Annual fixed percentage based on historical trends...
+			- Annual fixed percentage: Sales support reclassification...
 
-1. **Equitable Financial Life Insurance Company**  
-   Type: Corporation  
-   Capacity: Provider  
-   Address: 1290 Avenue of the Americas, New York, New York, 10104  
+With these details, I will now reconstruct the contract text. Here is the final output:
 
-2. **Equitable Distributors, LLC**  
-   Type: Limited Liability Company  
-   Capacity: Recipient  
-   Address: 1290 Avenue of the Americas, New York, New York, 10104  
+**CONTRACT**
 
-**Offer and Acceptance:**
+THIS AGREEMENT (the "Agreement") is made and entered into as of [insert date] by and between Equitable Financial Life Insurance Company ("Equitable") and Equitable Distributors, LLC ("Distributors").
 
-Both parties desire to enter into this Agreement which is intended to supersede, amend, and restate prior agreements.
+**PARTIES**
 
-**Consideration:**
+1. The Parties agree that this Agreement may be executed in separate counters.
+2. All references to the "Company" shall mean Equitable.
 
-Equitable Distributors will reimburse Equitable Financial for personnel, property, and services, with a cost allocation based on actual costs incurred for Services.
+**AGREEMENT DETAILS**
 
-**Intention to Create Legal Relations:**
+The Parties intend this Agreement to be a binding contract between them. This Agreement sets forth the terms and conditions upon which the Company will engage with Distributors.
 
-The parties intend to create legal relations by entering into this Agreement.
+**LIMITATION OF LIABILITY**
 
-**Legality of Purpose:**
+The Company's liability for any loss, damage, or claim arising out of or in connection with this Agreement shall not exceed an amount equal to the aggregate of all amounts paid and payable by the Company 12 months prior to the occurrence of the first event which is the subject of the first claim.
 
-The purpose of this Agreement is permitted by law under New York regulations.
+**SCHEDULE I - WHOLESALE SALES**
 
-**Certainty of Terms:**
+A. Wholesale Sales: The initial sales for the purposes of reclassification to identify the sales support split between all distribution channels and Equitable Distributors shall be as follows:
 
-- **Subject Matter:** Provision of services related to management and distribution of life insurance and annuity contracts.  
-- **Price:** Not directly stated; payment will be based on costs incurred.  
-- **Time for Performance:** Services will be provided as needed and agreed upon.
+* Sales support reclassification to identify the sales support split between all distribution channels and Equitable Distributors.
 
-**Consent:**
+B. Corporate Expenses:
 
-Both parties consent to proceed with the terms and conditions of this Agreement.
+1. Allocation Driver: N/A.
+2. First Year Premium: Annual fixed percentage based on historical trends among all Equitable entities in scope for expense allocations, including Equitable Distributors.
+3. Annual Fixed Percentage: Sales support reclassification to identify the sales support split between all distribution channels and Equitable Distributors.
 
-**Form and Formalities:**
+**SIGNATURES**
 
-This Agreement may be executed in separate counterparts.
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first above written.
 
-**Duration and Termination:**
+Signature of Robin M. Raju, Chief Financial Officer
 
-- **Duration:** This Agreement will be effective from November 1, 2023, until terminated.  
-- **Termination Conditions:** Either party may terminate this Agreement with 90 days written notice.  
-- **Renewal Terms:** Renewal will be subject to mutual agreement.
+Date: [insert date]
 
-**Representations and Warranties:**
+Signature of Nick Lane, President
 
-Each party maintains ownership of their records and customer information.
+Date: [insert date]
 
-**Indemnification:**
-
-No specific indemnification clause is included in this Agreement.
-
-**Dispute Resolution:**
-
-- **Method:** Any disputes arising under this Agreement will be resolved by arbitration.  
-- **Details:** Arbitration will be conducted per the American Arbitration Association rules in New York, with shared costs between the parties.
-
-**Governing Law and Jurisdiction:**
-
-This Agreement shall be governed by the laws of the State of New York. Jurisdiction shall be specifically in New York County, New York.
-
-**Severability:**
-
-Should any provision of this Agreement be found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
-
-**Force Majeure:**
-
-While not explicitly mentioned, a force majeure clause is typically implied in agreements of this nature.
-
-**Confidentiality:**
-
-Both parties agree to maintain the confidentiality of customer information as required by obligations herein.
-
-**Assignment and Delegation:**
-
-Neither party may assign this Agreement or delegate its responsibilities without the prior consent of the other party.
-
-**Signatures:**
-
-Executed by:
-
-1. **Equitable Financial Life Insurance Company**  
-   Date Signed: November 1, 2023  
-   Declaration: Executed by Robin M. Raju, Chief Financial Officer.  
-
-2. **Equitable Distributors, LLC**  
-   Date Signed: November 1, 2023  
-   Declaration: Executed by Nick Lane, President.
+Please note that this is a reconstructed contract text based on the provided XML schema and document.

@@ -1,65 +1,35 @@
 <contract>
+    <notification>
+      <consultant>
+        <name></name>
+        <address></address>
+      </consultant>
+      <commission>
+        <name>Santa Cruz County Regional Transportation Commission (SCCRTC)</name>
+        <address>1523 Pacific Ave, Santa Cruz, CA 95060</address>
+      </commission>
+    </notification>
+    <complete_agreement>
+      <agreement/>
+      <commission_designee>Luis Mendez, Contract Manager</commission_designee>
+      <complete_agreement_including_attachments/>
+      <attachments>
+        <exhibit_a>Scope of Services</exhibit_a>
+        <exhibit_b>Fee Schedule</exhibit_b>
+      </attachments>
+    </complete_agreement>
     <parties>
-        <party>
-            <name>SANTA CRUZ COUNTY REGIONAL TRANSPORTATION COMMISSION</name>
-            <type>Commission</type>
-            <capacity>Public Authority</capacity>
-            <address>Santa Cruz County Regional Transportation Commission, 1523 Pacific Ave, Santa Cruz, CA 95060</address>
-        </party>
-        <party>
-            <name>CONSULTANT</name>
-            <type>Consultant</type>
-            <capacity>Professional Service Provider</capacity>
-            <address>________ (Address not provided)</address>
-        </party>
+      <consultant>
+        <name></name>
+        <address></address>
+        <telephone></telephone>
+        <fax></fax>
+        <email></email>
+      </consultant>
+      <commission>
+        <name>Santa Cruz County Regional Transportation Commission (SCCRTC)</name>
+        <address>1523 Pacific Ave, Santa Cruz, CA 95060</address>
+        <approved_by>Administrative Services Officer COMMISSION Counsel</approved_by>
+      </commission>
     </parties>
-    <offerAndAcceptance>
-        <offer>This Agreement serves as a Professional Services Agreement for specific services or projects as referenced in the contract.</offer>
-        <acceptance>Both parties acknowledge and consent to the terms and conditions as outlined herein.</acceptance>
-        <meetingOfMinds>The parties have reached a mutual understanding and agreement of the terms laid out in this document.</meetingOfMinds>
-    </offerAndAcceptance>
-    <consideration>
-        <description>Payment for professional services rendered by the CONSULTANT.</description>
-        <value>Not to exceed $_____ for time and materials as per Exhibit B - Fee Schedule.</value>
-    </consideration>
-    <intentionToCreateLegalRelations>Both parties intend for this Agreement to create legal obligations.</intentionToCreateLegalRelations>
-    <legalityOfPurpose>The purpose of this Agreement complies with all applicable laws and regulations.</legalityOfPurpose>
-    <certaintyOfTerms>
-        <subjectMatter>Scope of Services as laid out in Exhibit A.</subjectMatter>
-        <price>Not to exceed $_____.</price>
-        <timeForPerformance>This Agreement shall commence upon approval and notification to proceed.</timeForPerformance>
-    </certaintyOfTerms>
-    <consent>CONSULTANT shall obtain written consent for any changes to key personnel as specified.</consent>
-    <formAndFormalities>This Agreement constitutes the entire agreement between the parties and is binding upon execution.</formAndFormalities>
-    <durationAndTermination>
-        <duration>This Agreement shall take effect on (DATE) and end on (DATE).</duration>
-        <terminationConditions>Termination by either party with a written notice as specified.</terminationConditions>
-        <renewalTerms>Renewal shall be documented by written agreement from both parties.</renewalTerms>
-    </durationAndTermination>
-    <representationsAndWarranties>Each party represents that they have the authority to enter into this Agreement.</representationsAndWarranties>
-    <indemnification>CONSULTANT shall indemnify and hold harmless COMMISSION from any claims arising from negligence.</indemnification>
-    <disputeResolution>
-        <method>Dispute resolution via a committee of the COMMISSION's Contract Manager and Executive Director.</method>
-        <details>Unresolved disputes may be reviewed by the COMMISSION GOVERNING BOARD.</details>
-    </disputeResolution>
-    <governingLawAndJurisdiction>
-        <governingLaw>State of California</governingLaw>
-        <jurisdiction>Jurisdiction in the courts in California.</jurisdiction>
-    </governingLawAndJurisdiction>
-    <severability>If any provision is found to be invalid, the remainder will still be enforceable.</severability>
-    <forceMajeure>Neither party shall be liable for failure to perform due to unforeseen circumstances.</forceMajeure>
-    <confidentiality>All proprietary information obtained during this Agreement shall remain confidential.</confidentiality>
-    <assignmentAndDelegation>CONSULTANT cannot assign this Agreement without prior written consent from COMMISSION.</assignmentAndDelegation>
-    <signatures>
-        <signature>
-            <partyName>CONSULTANT</partyName>
-            <dateSigned>_______ (Date not provided)</dateSigned>
-            <declaration>This Agreement is executed by the duly authorized representatives.</declaration>
-        </signature>
-        <signature>
-            <partyName>SANTA CRUZ COUNTY REGIONAL TRANSPORTATION COMMISSION</partyName>
-            <dateSigned>_______ (Date not provided)</dateSigned>
-            <declaration>This Agreement is executed by the duly authorized representatives.</declaration>
-        </signature>
-    </signatures>
-</contract>
+  </contract>
